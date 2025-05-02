@@ -285,27 +285,27 @@
 
 #### III7
 
-- Like dreamers do
-- I want to hold your hand
-- Solider of Love
-- Yes it is
-- You're Going to lose that girl
-- That means a lot
-- Piggies
+- _Like dreamers do_
+- _I want to hold your hand_
+- _Solider of Love_
+- _Yes it is_
+- _You're Going to lose that girl_
+- _That means a lot_
+- _Piggies_
 
 #### VI7
 
-- Revolution
-- Dr. Robert
+- _Revolution_
+- _Dr. Robert_
 
 #### VII7
 
-- I'm so tired
-- P.S. I Love you
+- _I'm so tired_
+- _P.S. I Love you_
 
 #### Case Study: "Day Tripper"
 
-- Day tripper
+- _Day tripper_
 
 ---
 
@@ -313,13 +313,13 @@
 
 ### Surprise and the search for 'Mann's moment'
 
-- Not a second time
+- _Not a second time_
 
 ### Playing 'tag' - The Interrupted/Deceptive cadence
 
-- The honeymoon song
-- Do you want to know a secret
-- Octopus's Garden
+- _The honeymoon song_
+- _Do you want to know a secret_
+- _Octopus's Garden_
 
 ### The Aeolian cadence - the search continues
 
@@ -331,23 +331,23 @@
 
 ### The Aeolian cadence 'unmasked': the flattened leading note
 
-- Not a second time
+- _Not a second time_
 
 ### The Aeolian cadence in typical context
 
-- A Taste of honey
+- _A Taste of honey_
 
 ### 'Tonal ambiguity' - an introduction
 
-- Do you want to know a secret
+- _Do you want to know a secret_
 
 ### Aeolian deception revisited - 'When I get home'
 
-- When I get home
+- _When I get home_
 
 ### The Aeolian cadence revisited - 'bVII-I' major
 
-- When I get home
+- _When I get home_
 
 ### Main Takeaways
 
