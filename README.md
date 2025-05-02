@@ -171,7 +171,7 @@
 
 ### Substitution summary - the diatonic 'families'
 
-### iii
+### iii minor
 
 - I feel fine
 - I'm happy just to dance with you
@@ -220,9 +220,144 @@
 
 ## Chapter 4: "Supercharging" a Song with Secondary Dominants (p. 97)
 
+### Functioning secondary dominants
+
+#### II7 (the 'V of V')
+
+- Like Dreamers do
+
+#### VI7 (the 'V of ii' or 'V of II')
+
+- Good day sunshine
+- I call your name
+- Hello little girl
+- Maxwell's silver hammer
+- Little child
+- My Bonnie
+- Mr Moonlight
+- Her Majesty
+
+#### II7 and the 'Imperfect Cadence' - 'the middle feeling'
+
+- I will
+- 'The middle feeling' table
+- I'll get you
+- One after 909
+
+#### II7 and the Cycle of Fifths
+
+- Rocky Raccoon
+
+#### III7 (The 'V of vi' or 'V of VI')
+
+- Ain't she sweet
+- Ask me why
+- You can't do that
+- Cry for a shadow
+- No reply
+
+#### Case Study: 'Your Mother Should Know'
+
+- Your mother should know
+
+#### VII7 (the 'V of iii')
+
+- Sexy Sadie
+- Martha My Dear
+- Moon River (and the chromatic cycle of Fifths)
+
+#### The tonic secondary dominant 'V of IV' - The I7-IV change
+
+- This Boy
+
+### Non-Functioning Secondary Dominants
+
+#### II7
+
+- Eight days a week
+- You won't see me
+
+#### Voice-Leading in I-II-IV-I
+
+- She's leaving home
+- Yesterday
+- In my life
+
+#### III7
+
+- Like dreamers do
+- I want to hold your hand
+- Solider of Love
+- Yes it is
+- You're Going to lose that girl
+- That means a lot
+- Piggies
+
+#### VI7
+
+- Revolution
+- Dr. Robert
+
+#### VII7
+
+- I'm so tired
+- P.S. I Love you
+
+#### Case Study: "Day Tripper"
+
+- Day tripper
+
 ---
 
 ## Chapter 5: "Exotic Birds"...and the Great Aeolian Cadence Mystery (p. 135)
+
+### Surprise and the search for 'Mann's moment'
+
+- Not a second time
+
+### Playing 'tag' - The Interrupted/Deceptive cadence
+
+- The honeymoon song
+- Do you want to know a secret
+- Octopus's Garden
+
+### The Aeolian cadence - the search continues
+
+### What is tonality?
+
+### The major/relative minor debate
+
+### The Aeolian/Ionian connection
+
+### The Aeolian cadence 'unmasked': the flattened leading note
+
+- Not a second time
+
+### The Aeolian cadence in typical context
+
+- A Taste of honey
+
+### 'Tonal ambiguity' - an introduction
+
+- Do you want to know a secret
+
+### Aeolian deception revisited - 'When I get home'
+
+- When I get home
+
+### The Aeolian cadence revisited - 'bVII-I' major
+
+- When I get home
+
+### Main Takeaways
+
+#### (a) The pivot chord
+
+#### (b) Modulation or Tonicisation?
+
+#### (c) The Parallel major/minor relationship - an introduction
+
+### The Mahler connection - fact or fiction?
 
 ---
 
