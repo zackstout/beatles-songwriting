@@ -127,6 +127,7 @@
 #### Major and relative minor - making the connection
 
 - (pg. 57) Shared notes
+- Ex: A-C-E vs C-E-G
 
 #### The four-chord cliche - I-vi-IV-V
 
@@ -147,6 +148,7 @@
 ##### ii-for-IV 'relative minor for major' substitution in action
 
 - (p. 62) Shared notes -- the ii is the relative minor of the IV
+- Ex: D-F-A vs F-A-C
 - _This boy_
 - _Tell me why_
 
@@ -172,7 +174,6 @@
 ##### Ending a section with an Imperfect cadence
 
 - (p. 69) A simple ii-V to end it, leave things "hanging"
-
 - _It won't be long_
 - _Sun king_
 
@@ -208,7 +209,6 @@
 
 - _Can't buy me love_
 - _Golden slumbers_
-
 - _Moon river_ and _Fly me to the moon_, travelling around the cycle
 - _The long and winding road_
 
@@ -224,7 +224,6 @@
 #### The mediant and melody
 
 - (p. 86) the submediant includes the "leading tone" as its stable fifth -- not just "leading" somewhere.
-
 - _She's a woman_
 
 ### The elusive vii chord
@@ -346,26 +345,38 @@
 
 ## Chapter 5: "Exotic Birds"...and the Great Aeolian Cadence Mystery (p. 135)
 
+- Mann's music criticism, throws out this phrase about "Aeolian Cadence" in "Not a second time"
+
 ### Surprise and the search for 'Mann's moment'
 
-- _Not a second time_
+- _Not a second time_: Finding the correct "Mann's moment" in the middle, not at the end
 
 ### Playing 'tag' - The Interrupted/Deceptive cadence
 
+- (p. 141) deceptiveness and surprise of the "Aeolian" cadence, where I is replaced by vi
 - _The honeymoon song_
 - _Do you want to know a secret_
 - _Octopus's Garden_
 
 ### The Aeolian cadence - the search continues
 
+- (p. 143) But he didn't say "Interrupted" or "Deceptive" cadence -- so what did he mean?
+- The way the tonal center or key is being shifted during the bridge.
+
 ### What is tonality?
 
 ### The major/relative minor debate
 
+- (p. 145) A cadence is a chord change that ends on some sense of resolution: "taking a breath".
+
 ### The Aeolian/Ionian connection
+
+- (p. 146) Here there and everywhere, and Yesterday.
+- The D7 (the V of G major) is the bVII of Em (the relative Aeolian to which we shift).
 
 ### The Aeolian cadence 'unmasked': the flattened leading note
 
+- So instead of describing the movement as V7-vi, we can describe it as bVII7-i.
 - _Not a second time_
 
 ### The Aeolian cadence in typical context
@@ -374,6 +385,8 @@
 
 ### 'Tonal ambiguity' - an introduction
 
+- (p. 149) Means "key dichotomy" or juxtaposition -- prime example being the relative/parallel minor key.
+- But there is always room for subjective interpretation, with tonality.
 - _Do you want to know a secret_
 
 ### Aeolian deception revisited - 'When I get home'
@@ -388,9 +401,19 @@
 
 #### (a) The pivot chord
 
+- The V7=bVII7 is the pivot chord that can take us into or out of a I (into/from its relative vi as the new i).
+
 #### (b) Modulation or Tonicisation?
 
+- Again, a matter of ambiguity whether a particular movement is more of a local "tonicisation" or a more full-fledged modulation to a new key.
+- Note that you can use the vi OR the VI7, in this context of swapping INTO a key (from the pivot chord).
+- Ex: G7 (in C) can swap to Am, or A7.
+
 #### (c) The Parallel major/minor relationship - an introduction
+
+- The relative minor of C is Am.
+- The parallel minof of C is Cm.
+- Both can be used -- sometimes in same song, see _When I Get Home_
 
 ### The Mahler connection - fact or fiction?
 
@@ -398,40 +421,89 @@
 
 ## Chapter 6: Relative and Parallel Minor Switches (p. 161)
 
+- Del Shannon's Runaway, The Ventures' Walk Don't Run, The Shadows' Apache, the Animals' The House of Rising Sun and Johnny Kid's Shakin' All Over.
+
 #### The minor tonality - a framework for analysis
+
+- Most Beatles songs will add a dabble of the minor key, while staying in a related major key for most of the time.
 
 #### 'v or V'? - the dominant dilemma
 
+- If we follow the diatonic rules, the v in a minor key is minor, not major. So (how) do we get the dominant sound?
+- Usually, we break the rules and use the V7.
 - Things we said today
 
 #### Breaking the diatonic minor rules - the 'borrowed V7'
 
 - Cayenne
-- The harmonic minor scale
+- (p. 165) The V7 helps to establish the tonality of the i center -- since the whole step from original V's root up doesn't have same pull as half-step involved in the major scale version of the cadence.
+- This leads us to...
+- The harmonic minor scale!
 
 ### Part 1: relative major/minor switches
 
 #### (1) The relative minor bridge
 
+- There's a Place
+- (p. 168) The V in a V7-i cadence can also be viewed as a "functioning secondary dominant" in the original I key.
+- That is: The III7, which we saw is "V of vi", can also be seen as the V7 leading into the new i home.
+- I'm happy just to dance with you
+- I should have known better
+- Don't ever change
+- Example: In key of E, we have B7 as the pivot chord into C#m key.
+
 #### 'vi at the bridge' - move or modulation?
+
+- Examples of mere move: _Drive my Car_, _In My Life_
+- Examples of true modulation: _We Can Work it out_, _When I'm Sixty Four_
 
 #### Minor to relative major switches - a caveat
 
+- (p. 174) cases of the opposite transition: now, an established minor is punctuated and opened up by forays into major.
+- Girl, Wait, I'm Only Sleeping, You Never give me your money
+- Recall Cycle of Fifths songs: Rocky raccoon, golden slumbers, your mother should know: move from relative minor to major key.
+
 #### (2) The relative major chorus
+
+- Girl
+- I'm Only Sleeping
+- Roxanne, Watching the Detectives
 
 #### The special case of 'And I love her'
 
 #### 'And I love her' - the final chord - a Picardy third?
 
+- (p. 180) Picardy third: when the minor iii has its third lifted up a semitone to make it into a major triad.
+- Cf. end of _A Taste of Honey_, or _Shine on you crazy diamond_
+
 #### (a) The 'minor two-five-one': 'ii7b5-V7-i'
+
+- The ii7b5 is rarely used, but a neat dark tone
+- _You never give me your money_ (and cycle of fifths!)
 
 #### (b) The diatonic minor Cycle of Fifths
 
+- _Autumn Leaves_, _I will survive_
+- And again, recall Can't buy me leave and Golden slumbers from Ch. 3
+- _Carry that weight_
+
 #### (c) The bVI7-V7-i resolution
 
-#### (d) THe minor rock runs: bVI-bVII-i and i-bVII-bVI-V7
+- _Besame Mucho_
+- _I want you (she's so heavy)_
+
+#### (d) The minor rock runs: bVI-bVII-i and i-bVII-bVI-V7
+
+- _The story of Bungalow Bill_
+- _Runaway_ (Del shannon)
 
 ### Part 2: parallel major/minor switches
+
+- _I'll be back_
+- _Norwegian Wood_
+- _Night and day_
+- _The fool on the hill_
+- _Come together_
 
 ---
 
