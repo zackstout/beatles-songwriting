@@ -215,7 +215,6 @@
 #### Reversing direction - The 'vi-iii' minor drop
 
 - (p. 83) Dropping a 4th from the vi to the iii
-
 - _I will_
 - _Please please me_
 - _Across the universe_
