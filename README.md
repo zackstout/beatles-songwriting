@@ -118,18 +118,20 @@
 
 #### The I-vi-I-vi vamp - The Beatles' first formula?
 
-- Misery
-- Anna Go to hiim
-- Baby it's you
-- From me to you
-- Run for your life
+- _Misery_
+- _Anna Go to him_
+- _Baby it's you_
+- _From me to you_
+- _Run for your life_
 
 #### Major and relative minor - making the connection
 
+- (pg. 57) Shared notes
+
 #### The four-chord cliche - I-vi-IV-V
 
-- Happiness is a warm gun
-- Real love
+- _Happiness is a warm gun_
+- _Real love_
 
 #### The Beatles and the I-vi-IV-V turnaround
 
@@ -139,82 +141,106 @@
 
 #### (a) The ii-for-IV subtitution in the Doo Wop cycle
 
-- Come go with me
+- So it becomes ii-V-I-vi
+- _Come go with me_
 
 ##### ii-for-IV 'relative minor for major' substitution in action
 
-- This boy
-- Tell me why
+- (p. 62) Shared notes -- the ii is the relative minor of the IV
+- _This boy_
+- _Tell me why_
 
 #### (b) The diatonic walk: I-ii and beyond
 
-- Don't let me down
-- Getting better
+- _Don't let me down_
+- _Getting better_
+- _Boys don't cry_, _Like a rolling stone_
 
 #### (c) ii-V-I - the role of ii as a 'pre-dominant'
 
+- So, if ii is substituted for IV, we get the... ii-V-I!
+
 ##### Voice leading in a ii-V
+
+- The 3rd of the ii wants to push up (a whole tone) to the root of the V, and its seventh wants to pull down a semitone to its third.
 
 ##### Ending a section with a prepared Perfect cadence
 
-- Got to get you into my life
-- Tell me why
+- _Got to get you into my life_
+- _Tell me why_
 
 ##### Ending a section with an Imperfect cadence
 
-- It won't be long
-- Sun king
+- (p. 69) A simple ii-V to end it, leave things "hanging"
+
+- _It won't be long_
+- _Sun king_
 
 ##### The four-chord cycle revisited - ii-V-I-vi
 
-- How do you do it?
+- _How do you do it?_
 
 ### Substitution summary - the diatonic 'families'
 
+- Tonic family (I, vi, iii): stability
+- Subdominant family (IV, ii): movement away from tonic
+- Dominant family (V, vii): movement toward tonic
+
 ### iii minor
 
-- I feel fine
-- I'm happy just to dance with you
-- Do you want to know a secret
+- _I feel fine_
+- _I'm happy just to dance with you_
+- _Do you want to know a secret_
+- (p. 75) the mediant is the middle point between the tonic and the dominant
 
 #### McCartney's 'formula' - The 'iii-chord Trick'
 
 #### The I-iii scale walk in the 12-bar blues
 
-- Ask me why
-- If you gotta make a fool of somebody
-- Help!
-- A hard day's night
+- _Ask me why_
+- _If you gotta make a fool of somebody_
+- _Help!_
+- _A hard day's night_
 
 #### The mediant and the Cycle of Fifths
 
 ##### The cycle of fifths
 
-- Can't buy me love
-- Golden slumbers
+- _Can't buy me love_
+- _Golden slumbers_
+
+- _Moon river_ and _Fly me to the moon_, travelling around the cycle
+- _The long and winding road_
 
 #### Reversing direction - The 'vi-iii' minor drop
 
-- I will
-- Please please me
-- Across the universe
-- There's a place
-- Nowhere man
+- (p. 83) Dropping a 4th from the vi to the iii
+
+- _I will_
+- _Please please me_
+- _Across the universe_
+- _There's a place_
+- _Nowhere man_
 
 #### The mediant and melody
 
-- She's a woman
+- (p. 86) the submediant includes the "leading tone" as its stable fifth -- not just "leading" somewhere.
+
+- _She's a woman_
 
 ### The elusive vii chord
 
+- (P. 88) attempts to substitute the m7 for the m7b5, on the leading note -- "the most stylish and sophisticated chord we have seen"
+
 #### The cyclical vii7
 
-- Here there and everywhere
+- _Here there and everywhere_
 
 #### The pull to vi
 
-- Yesterday
-- Moon river
+- (p. 91) MODULATION INTRODUCED
+- _Yesterday_
+- _Moon river_
 
 ---
 
@@ -222,12 +248,18 @@
 
 ### Functioning secondary dominants
 
+- The ii, iii, vi, and vii, can all be turned into secondary dominants
+- The major third is indeed outside the parent major scale, but that serves to propel us forward
+
 #### II7 (the 'V of V')
 
+- Recall Doo Woop cliche: I-vi-ii-V
+- Now replace the ii with a II7: the major third wants to resolve to the V's root.
 - Like Dreamers do
 
 #### VI7 (the 'V of ii' or 'V of II')
 
+- In just the same way that II7 leaves to V, VI7 leads to II
 - Good day sunshine
 - I call your name
 - Hello little girl
@@ -239,6 +271,8 @@
 
 #### II7 and the 'Imperfect Cadence' - 'the middle feeling'
 
+- Same idea as before: ending on the V without resolving to the I; the II7 contributes more strongly to this than the ii.
+- (p. 102) See: Jingle bells?
 - I will
 - 'The middle feeling' table
 - I'll get you
@@ -250,6 +284,7 @@
 
 #### III7 (The 'V of vi' or 'V of VI')
 
+- Well what do you: Just as II is V of V, and VII is V of II, well, the III is V of VI.
 - Ain't she sweet
 - Ask me why
 - You can't do that
@@ -262,6 +297,7 @@
 
 #### VII7 (the 'V of iii')
 
+- And aha! We are done! The V of III!
 - Sexy Sadie
 - Martha My Dear
 - Moon River (and the chromatic cycle of Fifths)
@@ -363,6 +399,41 @@
 
 ## Chapter 6: Relative and Parallel Minor Switches (p. 161)
 
+#### The minor tonality - a framework for analysis
+
+#### 'v or V'? - the dominant dilemma
+
+- Things we said today
+
+#### Breaking the diatonic minor rules - the 'borrowed V7'
+
+- Cayenne
+- The harmonic minor scale
+
+### Part 1: relative major/minor switches
+
+#### (1) The relative minor bridge
+
+#### 'vi at the bridge' - move or modulation?
+
+#### Minor to relative major switches - a caveat
+
+#### (2) The relative major chorus
+
+#### The special case of 'And I love her'
+
+#### 'And I love her' - the final chord - a Picardy third?
+
+#### (a) The 'minor two-five-one': 'ii7b5-V7-i'
+
+#### (b) The diatonic minor Cycle of Fifths
+
+#### (c) The bVI7-V7-i resolution
+
+#### (d) THe minor rock runs: bVI-bVII-i and i-bVII-bVI-V7
+
+### Part 2: parallel major/minor switches
+
 ---
 
 ## Chapter 7: "Borrowing"...and the Rise of Rock (p. 200)
@@ -372,3 +443,65 @@
 ## Chapter 8: The Modal Connection (p. 250)
 
 ---
+
+## Chapter 9: Descending Bass, Inversions and 'Aug' chords
+
+---
+
+## Chapter 10: Middle Eights and Mega Modulations
+
+---
+
+## Chapter 11: Diminished: Songwriting Sleight-of-Hand
+
+---
+
+## Chapter 12: Tritone Subtitutions and Other Mystery Chords
+
+---
+
+## Chapter 13: The 'A Hard Day's Night' Chord: Rock's Holy Grail
+
+---
+
+## Chapter 14: Melody - Intervals, Motifs and Phrasing
+
+---
+
+## Chapter 15: Harmonisation in Focus
+
+---
+
+## Chapter 16: 'I nicked it!' - Derivation, 'Plagiarism' and Pop
+
+---
+
+## Chapter 17: And in the End...Lyrical and Tonal Movement
+
+---
+
+## Coda: 'She Loves You': The Anatomy of a Perfect Pop Song
+
+---
+
+## Appendix 1: A Beginner's Guide to Music Theory
+
+---
+
+## Appendix 2: Beatles Chords in Practice
+
+---
+
+## Appendix 3: An Introduction to Harmonisation
+
+---
+
+## Appendix 4: An Introduction to Beatles Song Form
+
+---
+
+## Appendix 5: Science, Surprise and the 'Tingle' factor
+
+---
+
+## Appendix 6: A Summary of Early Beatles Influences
