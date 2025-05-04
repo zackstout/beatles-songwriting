@@ -1,19 +1,26 @@
 # Songwriting Secrets of the Beatles
 
+A ✅ next to a song signifies that we have added the song to the playlist, and listened to it.
+
 ---
 
 ## Chapter 1: Tension, Resolution, and the Power of the V (p. 11)
 
-- Dramatic dominants selection
+- (p. 12) Dramatic dominants selection
 - Twist and Shout
 
 ### The mechanics of the V-I change
 
+- (p. 14) We have the V's 7th moving down a semitone to I's third, and the V's 3rd moving up a semitone to the I's root.
+- We also have a descent by a fifth in the bass.
+
 #### (a) The leading note effect
 
-- In My Life
+- In My Life (the melodic riff lingering on the leading tone)
 
 #### (b) The tritone and tension
+
+- (p. 16) It is the 3rd and 7th of the V that form a tritone, and whose resolution we most crave.
 
 #### (c) 'Perfect fifth' root movement
 
@@ -21,43 +28,55 @@
 
 ### Schenker and the power of V-I
 
-- Dramatic dominants selection
+- (p. 19) Dramatic dominants selection
+- Also Day Tripper and Here comes the sun
 
 ### The 5-4-3-2-1 return to base
 
-- She came in through the bathroom window
+- (p. 20) All you need is love, and I will (more disguised, 0:57)
+- All together now (0:52), You've got to hide your love away (0:35)
+- She came in through the bathroom window (transition into the song), orchestrates a key switch this time
+- Penny lane shows how the V7 can be used to change/modulate to new keys
+- Back in the USSR (intro chord)
+- 'tonic-to-dominant' opening gambit in Hey Jude, Let it Be, Oh! Darling
 
 ### Beyond the V7 - extensions, additions and alterations
 
 #### 'Extension' to a V chord: The dominant 9th chord
 
-- If I fell
+- If I fell (0:58)
 
 #### 'Addition' to a V: The major 6th chord
 
-- What you're doing
+- What you're doing (climax of bridge)
 
 #### Alteration to a V: The augmented 5th
 
-- It's only love
+- 7#5 chord
+- It's only love ("My oh my", 0:15)
+- Oh! Darling (1:39) and From me to you (0:47)
 
 #### The 4:3 suspension
 
-- We can work it out
+- 7sus4 chord
+- If i needed someone (0:51), For no one (0:37), Lady madonna (0:42)
+- We can work it out (melody line)
 
 #### 'Exotic intensifiers' -- the sharpened 9th, the flattened 9th
 
-- You can't do that
-- I me Mine
+- 7#9 chord, 7b9 chord
+- You can't do that (0:22)
+- I me Mine (0:27)
 
 #### 'Double' alteration to a V: The 7#5#9
 
-- Drive my car
+- Drive my car (leaves the V hanging)
 
 ---
 
 ## Chapter 2: The Three-Chord Trick and the Blues (p. 32)
 
+- Main idea is I-IV-V-IV-I (Wild Thing, e.g.)
 - In spite of all the danger
 
 ### The 12-bar blues
@@ -66,12 +85,19 @@
 
 #### Creating the D7, G7 and A7 chords in a blues
 
+- (p. 34) Minor pentatonic is I-b3-4-5-b7
+- The b3 is the b7 of IV7, and the 4 is the b7 of the V7 (and obviously the root too).
+- That's why that scale works with I7-IV7-V7 progression.
+
 ### The power of I - the one-chord trick
 
-- Paperback writer
+- (p. 36) Paperback writer, I-IV
 - Ticket to Ride
+- and Everybody's got something to hide, long embellishment of the tonic
 
 ### The Chuck Berry rhythm
+
+- Simple 5 chords (2 notes)
 
 ### The IV chord
 
@@ -82,16 +108,26 @@
 
 ##### Voice leading in the Plagal cadence
 
+- (p. 41) The IV's root moves down a semitone to become the I's third
+- The IV's 3rd moves down a whole tone to become the I's fifth
+- The IV's fifth is the root of I and acts as a stable point
+- Yesterday and She's leaving home
 - Let it be
 - The end
+- (p. 43) preview chapter 8: Can also approach the IV from its own IV, which is the bVII of the root
 
 ##### The IV major-to-iv minor Plagal variation
 
-- Every time we say goodbye
-- Devil in her heart
-- "The IV-iv minor 'miracle move'"
+- Every time we say goodbye (Cole Porter)
+- 3 semitone descent: major third of IV, to minor third, to fifth of I.
+- Devil in her heart (cover of a Richard Drapkin song)
+- (p. 45) "The IV-iv minor 'miracle move'" table of examples
+- In My Life
+- (p. 46) A few more examples from other artists...
 
 #### (b) IV as a first destination away from the tonic
+
+- Instead of seeing IV as transition toward I, let's reverse it.
 
 ##### I-IV -- the 'quick' change
 
@@ -99,14 +135,21 @@
 
 ##### I-IV and the connection with V-I
 
+- (p. 47) The I-IV change is indeed descending by a fifth! Aha!
+- So sometimes we dress up the I as a I7 to "prime" the change to IV
+
 #### (c) Priming the V Chord: IV-to-V
 
 - I want to hold your hand
+- The IV is most often heard as triad, IV7 or IV9, or maybe IV6 or IVmaj7 (No Reply, Yesterday, Sexy Sadie)
 
 ### The Three-Chord Trick - revisited
 
+- (p. 49) Beatles' success comes down to contrast between different song sections -- and often the simple I-IV-V is an important ingredient.
+- Drive my car is mentioned as I-IV-V example, dressed up with jazzy chords
 - Lucy in the sky with diamonds
 - Hey jude
+- (p. 50) Oh wow, cool analysis of lyrics as nod to structure of song -- more subtle "Hallelujah", I guess. Nod to Ger Tillekens as pioneer of this kind of insight. Neat.
 
 ---
 
@@ -412,7 +455,7 @@
 #### (c) The Parallel major/minor relationship - an introduction
 
 - The relative minor of C is Am.
-- The parallel minof of C is Cm.
+- The parallel minor of C is Cm.
 - Both can be used -- sometimes in same song, see _When I Get Home_
 
 ### The Mahler connection - fact or fiction?
@@ -483,27 +526,36 @@
 
 #### (b) The diatonic minor Cycle of Fifths
 
+- (p. 183): i -> iv -> bVII -> bIII -> bVI -> ii -> V
+- Note that jump from bVI -> ii is just a diminished fifth (or augmented fourth), not a true fifth --
+- but wasn't this also true in the original Cycle????
 - _Autumn Leaves_, _I will survive_
 - And again, recall Can't buy me leave and Golden slumbers from Ch. 3
-- _Carry that weight_
+- _Carry that weight_: G as the pivot chord moving us from Am to C major. (same idea we've seen a few times)
 
 #### (c) The bVI7-V7-i resolution
 
+- Ex: Eb7 / D7 / Gm
+- The thrill is gone, Sweet dreams (Are made of this)
 - _Besame Mucho_
 - _I want you (she's so heavy)_
 
 #### (d) The minor rock runs: bVI-bVII-i and i-bVII-bVI-V7
 
-- _The story of Bungalow Bill_
-- _Runaway_ (Del shannon)
+- Ex: F / G / Am in key of Am
+- _The story of Bungalow Bill_, Layla, Stairway to Heaven
+- Ex: Am / G / F / E7
+- _Runaway_ (Del shannon), Don't let me be misunderstood, Sultans of Swing
 
 ### Part 2: parallel major/minor switches
 
 - _I'll be back_
-- _Norwegian Wood_
+- _Norwegian Wood_: Has a parallel minor bridge (claimed by McCartney), cf. Michelle, whose parallel minor bridge Lennon claims
+- i-bIII-bIV-V7
 - _Night and day_
 - _The fool on the hill_
-- _Come together_
+- (p. 192) Table of other examples from Beatles songs
+- _Come together_: mostly in Dm, but we emphasize the Bm chord in a way that feels like brief move to D major.
 
 ---
 
