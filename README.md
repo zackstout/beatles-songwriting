@@ -6,7 +6,7 @@ A ✅ next to a song signifies that we have added the song to the playlist, and 
 
 ## Chapter 1: Tension, Resolution, and the Power of the V (p. 11)
 
-- (p. 12) Dramatic dominants selection
+- (p. 12) Dramatic dominants selection: table of examples
 - Twist and Shout
 
 ### The mechanics of the V-I change
@@ -28,7 +28,7 @@ A ✅ next to a song signifies that we have added the song to the playlist, and 
 
 ### Schenker and the power of V-I
 
-- (p. 19) Dramatic dominants selection
+- (p. 19) Dramatic dominants selection: table of examples
 - Also Day Tripper and Here comes the sun
 
 ### The 5-4-3-2-1 return to base
@@ -161,7 +161,7 @@ A ✅ next to a song signifies that we have added the song to the playlist, and 
 
 #### The I-vi-I-vi vamp - The Beatles' first formula?
 
-- _Misery_
+- _Misery_ (C and Am)
 - _Anna Go to him_
 - _Baby it's you_
 - _From me to you_
@@ -171,21 +171,26 @@ A ✅ next to a song signifies that we have added the song to the playlist, and 
 
 - (pg. 57) Shared notes
 - Ex: A-C-E vs C-E-G
+- And Am7 === C6
 
 #### The four-chord cliche - I-vi-IV-V
 
 - _Happiness is a warm gun_
+- Often a small break from a larger theme: A Hard Day's Night, I'm So Tired, I'll Get You
 - _Real love_
+- (p. 60) The Beatles and the I-vi-IV-V turnaround: table of examples
 
-#### The Beatles and the I-vi-IV-V turnaround
+#### Diatonic substitution: the first steps
 
-### Diatonic substitution: the first steps
+- Preview chapter 5: The vi can be used to fully replace the I.
+- Or... the ii can be used to replace the IV.
+- (p. 61) Because the ii is the relative minor (vi) of the IV.
 
 ### ii minor
 
 #### (a) The ii-for-IV subtitution in the Doo Wop cycle
 
-- So it becomes ii-V-I-vi
+- Doo Wop: Four-chord cliche becomes I-vi-ii-V
 - _Come go with me_
 
 ##### ii-for-IV 'relative minor for major' substitution in action
@@ -194,37 +199,54 @@ A ✅ next to a song signifies that we have added the song to the playlist, and 
 - Ex: D-F-A vs F-A-C
 - _This boy_
 - _Tell me why_
+- (p. 64) You're going to lose that girl, I will, penny lane
+- (p. 65) All a variation on the original Three-chord I-IV-I-V, adding in vi-for-I and ii-for-IV.
 
 #### (b) The diatonic walk: I-ii and beyond
 
+- I-ii-iii-IV-V walk
 - _Don't let me down_
 - _Getting better_
-- _Boys don't cry_, _Like a rolling stone_
+- _Boys don't cry_, _Like a rolling stone_ (Hendrix cover)
 
 #### (c) ii-V-I - the role of ii as a 'pre-dominant'
 
-- So, if ii is substituted for IV, we get the... ii-V-I!
+- So, if ii is substituted for IV, in the familiar IV-V-I, we get the... ii-V-I!
+- Which descends two perfect fifths.
 
 ##### Voice leading in a ii-V
 
 - The 3rd of the ii wants to push up (a whole tone) to the root of the V, and its seventh wants to pull down a semitone to its third.
+- (p. 67) Voice leading in the iim7-V7 change
+- Minor seven goes down a semitone to become 3rd of V7
+- Minor third goes up a tone to become root of V7
+- And the root goes down a perfect fifth to become root
+- We should investigate why/how this differs from V7-I voice leading... (where 7 goes down a semitone, 3 goes up one.)
 
 ##### Ending a section with a prepared Perfect cadence
 
+- Can use the ii-V-I to end a song or section.
 - _Got to get you into my life_
 - _Tell me why_
 
 ##### Ending a section with an Imperfect cadence
 
-- (p. 69) A simple ii-V to end it, leave things "hanging"
+- (p. 70) A simple ii-V to end it, leave things "hanging".
 - _It won't be long_
+- Oh Darling and I'm a Loser
 - _Sun king_
 
 ##### The four-chord cycle revisited - ii-V-I-vi
 
+- Start the Doo Wop sequence, I-vi-ii-V, a bar late, so it's vi-ii-V...e.g. Am-Dm-G
+- (and it becomes a ii-V-I! -- Reinterpreting the V as new I!)
+- (p. 71) So we get a ii-V-I-vi (??? -- if we actually cycle by 2 chords, and don't reinterpret V as I)
+- That seems to be what we get if we start 2 bars late, not one bar late... Hmm.. I guess it's 2 chords per bar.
+- All my loving (0:00-0:06), Fool on the hill (0:17-0:23)
 - _How do you do it?_
+- (p. 72) And sure, we also see just VI-V-I-vi (I want to hold your hand)
 
-### Substitution summary - the diatonic 'families'
+#### Substitution summary - the diatonic 'families'
 
 - Tonic family (I, vi, iii): stability
 - Subdominant family (IV, ii): movement away from tonic
@@ -232,46 +254,54 @@ A ✅ next to a song signifies that we have added the song to the playlist, and 
 
 ### iii minor
 
-- _I feel fine_
+- Can be substituted for the vi in the 4 chord (I-vi-IV-V) and Doo Woop (I-vi-ii-V)
+- _I feel fine_ (shows both example substitutions)
 - _I'm happy just to dance with you_
-- _Do you want to know a secret_
+- _Do you want to know a secret_ (very similar chord progressino to above)
 - (p. 75) the mediant is the middle point between the tonic and the dominant
-
-#### McCartney's 'formula' - The 'iii-chord Trick'
+- (p. 76) McCartney's 'formula' - The 'iii-chord Trick': table of examples
+- "I read the _news_ today..."
 
 #### The I-iii scale walk in the 12-bar blues
 
+- I7-ii7-iii7-biii7-ii7-V7-I
+- (p. 76) The fifth of the iii7 is the major 7 of parent key, which gives a cheerier version of the blues.
 - _Ask me why_
+- i-iii-vi progression:
 - _If you gotta make a fool of somebody_
 - _Help!_
 - _A hard day's night_
+- And indeed, the iii-vi is a descending fifth. What do you know!
 
 #### The mediant and the Cycle of Fifths
 
 ##### The cycle of fifths
 
-- _Can't buy me love_
-- _Golden slumbers_
-- _Moon river_ and _Fly me to the moon_, travelling around the cycle
+- _Moon river_ and _Fly me to the moon_, travelling around the cycle (starting at least at iii)
+- _Can't buy me love_ as textbook example
+- _Golden slumbers_ as another one
 - _The long and winding road_
 
 #### Reversing direction - The 'vi-iii' minor drop
 
 - (p. 83) Dropping a 4th from the vi to the iii
-- _I will_
+- _I will_ (changing from I-vi-ii-V to I-vi-iii-V)
 - _Please please me_
+- (p. 85) She Loves you and Julia
 - _Across the universe_
 - _There's a place_
-- _Nowhere man_
+- _Nowhere man_ (iii to IV movement)
 
 #### The mediant and melody
 
-- (p. 86) the submediant includes the "leading tone" as its stable fifth -- not just "leading" somewhere.
+- (p. 86) the submediant includes the parent scale's "leading tone", major 7, as its stable fifth -- not just "leading" somewhere.
+- Using both this 7 and the blusey minor 7 is cool and fun.
 - _She's a woman_
 
 ### The elusive vii chord
 
 - (P. 88) attempts to substitute the m7 for the m7b5, on the leading note -- "the most stylish and sophisticated chord we have seen"
+- Because, Lennon's "minor opus"
 
 #### The cyclical vii7
 
@@ -279,9 +309,10 @@ A ✅ next to a song signifies that we have added the song to the playlist, and 
 
 #### The pull to vi
 
-- (p. 91) MODULATION INTRODUCED
+- (p. 91) MODULATION INTRODUCED: The vii descends a fifth to the III, which then descends a fifth to the vi.
+- So you can use it to modulate into the relative minor (vi) key, with a "ii-V-i" move.
 - _Yesterday_
-- _Moon river_
+- _Moon river_, another great example of this vii-III-vi move.
 
 ---
 
@@ -289,8 +320,8 @@ A ✅ next to a song signifies that we have added the song to the playlist, and 
 
 ### Functioning secondary dominants
 
-- The ii, iii, vi, and vii, can all be turned into secondary dominants
-- The major third is indeed outside the parent major scale, but that serves to propel us forward
+- The ii, iii, vi, and vii, can all be turned into secondary dominants.
+- The major third (of each chord) is indeed outside the parent major scale, but that serves to propel us forward.
 
 #### II7 (the 'V of V')
 
