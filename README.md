@@ -2,6 +2,8 @@
 
 A ✅ next to a song signifies that we have added the song to the playlist, and listened to it.
 
+'voice leading table' should be a phrase, alongside 'table of examples'
+
 ---
 
 ## Chapter 1: Tension, Resolution, and the Power of the V (p. 11)
@@ -397,15 +399,18 @@ A ✅ next to a song signifies that we have added the song to the playlist, and 
 
 #### Voice-Leading in I-II-IV-I
 
-- (p. 118)
+- (p. 118): In e.g. C-D7-F-C, a chromatic line is spelled out: G-F#-F-E.
+- (see Eight days a week)
+- And we can do a vi-for-I to get vi-II-IV-I, shown in following two songs
 - She's leaving home
 - Yesterday
-- In my life
+- In my life (example of II-IV rather than expected II-V)
 
 #### III7
 
 - _Like dreamers do_
-- _I want to hold your hand_
+- _I want to hold your hand_ (The III7, a B7, propels us up to IV of C, via its F# fifth and D# third, each going up a semitone.)
+- (And also exhibits the "vi-III" plunge from Em to B7)
 - _Solider of Love_
 - _Yes it is_
 - _You're Going to lose that girl_
@@ -414,6 +419,8 @@ A ✅ next to a song signifies that we have added the song to the playlist, and 
 
 #### VI7
 
+- (p. 126) Inherent dissonance between the major third of the VI7 and the parent key (it's the m2 interval).
+- It's used in a weirdly effective but "dysfunctional" way in following 2 songs.
 - _Revolution_
 - _Dr. Robert_
 
@@ -421,27 +428,35 @@ A ✅ next to a song signifies that we have added the song to the playlist, and 
 
 - _I'm so tired_
 - _P.S. I Love you_
+- also the phrase C-B-C in Octopus's Garden
 
 #### Case Study: "Day Tripper"
 
-- _Day tripper_
+- _Day tripper_: I7-IV7-I7-II7-IV7-III7-VI7-V7.
+- (p. 130) Here, the III7 is the only functioning secondary dominant.
+- Again, the VI7 contains the dissonant m2 interval.
 
 ---
 
 ## Chapter 5: "Exotic Birds"...and the Great Aeolian Cadence Mystery (p. 135)
 
 - Mann's music criticism, throws out this phrase about "Aeolian Cadence" in "Not a second time"
+- (and Mahler's Song of the Earth)
+- Also discussed 'mediant switches' in I want to hold your hand, and 'melismas' of She Loves You (?)
+- (p. 138) G-Em-G-Em: I-vi-I-vi
 
 ### Surprise and the search for 'Mann's moment'
 
 - _Not a second time_: Finding the correct "Mann's moment" in the middle, not at the end
+- At 1:47
 
 ### Playing 'tag' - The Interrupted/Deceptive cadence
 
-- (p. 141) deceptiveness and surprise of the "Aeolian" cadence, where I is replaced by vi
-- _The honeymoon song_
-- _Do you want to know a secret_
-- _Octopus's Garden_
+- (p. 141) deceptiveness and surprise of the "Aeolian" cadence, where I is replaced by vi: D7 leading not to G, but to Em
+- This is the Interrupted/Deceptive cadence: dominant to relative minor, or dominant to submediant
+- _The honeymoon song_ (early cover)
+- _Do you want to know a secret_ (debut album)
+- _Octopus's Garden_ ("in an octopus's garden with you")
 
 ### The Aeolian cadence - the search continues
 
@@ -456,23 +471,29 @@ A ✅ next to a song signifies that we have added the song to the playlist, and 
 
 ### The Aeolian/Ionian connection
 
-- (p. 146) Here there and everywhere, and Yesterday.
-- The D7 (the V of G major) is the bVII of Em (the relative Aeolian to which we shift).
+- (p. 146) The equality of the Ionian and Aeolian "modes".
+- Here there and everywhere, and Yesterday, and the ii-V-vi sequence. (Recall Chapter 3 - where exactly?)
+- Key point: The D7 (the V of G major) is the bVII of Em (the relative Aeolian to which we shift).
 
 ### The Aeolian cadence 'unmasked': the flattened leading note
 
-- So instead of describing the movement as V7-vi, we can describe it as bVII7-i.
+- (p. 147) So instead of describing the movement as V7-vi, we can describe it as bVII7-i. Neat.
+- A nice voice-leading table to show this.
 - _Not a second time_
 
 ### The Aeolian cadence in typical context
 
+- A minor key song that uses the bVII-i move is...
 - _A Taste of honey_
 
 ### 'Tonal ambiguity' - an introduction
 
 - (p. 149) Means "key dichotomy" or juxtaposition -- prime example being the relative/parallel minor key.
+- Throws out many examples, from across all albums, of this juxtaposition.
+- Much of rest of book is about this: tonal ambiguity.
 - But there is always room for subjective interpretation, with tonality.
-- _Do you want to know a secret_
+- (p. 150) Lol Lennon dismissed Mann as a 'twit'.
+- _Do you want to know a secret_, 0:38
 
 ### Aeolian deception revisited - 'When I get home'
 
@@ -480,6 +501,7 @@ A ✅ next to a song signifies that we have added the song to the playlist, and 
 
 ### The Aeolian cadence revisited - 'bVII-I' major
 
+- (p. 152) The "V7" (e.g. G7 of C) can pull us not only toward the vi (Am) but also toward VI (A or A7).
 - _When I get home_
 
 ### Main Takeaways
@@ -487,12 +509,14 @@ A ✅ next to a song signifies that we have added the song to the playlist, and 
 #### (a) The pivot chord
 
 - The V7=bVII7 is the pivot chord that can take us into or out of a I (into/from its relative vi as the new i).
+- For instance G7 (in key of C) can take us to Am, or to A major.
 
 #### (b) Modulation or Tonicisation?
 
 - Again, a matter of ambiguity whether a particular movement is more of a local "tonicisation" or a more full-fledged modulation to a new key.
 - Note that you can use the vi OR the VI7, in this context of swapping INTO a key (from the pivot chord).
 - Ex: G7 (in C) can swap to Am, or A7.
+- Wandering sense of movement, ambiguous tonality -- more propulsion and motion than a single key can offer.
 
 #### (c) The Parallel major/minor relationship - an introduction
 
