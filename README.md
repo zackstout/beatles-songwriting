@@ -7,7 +7,7 @@ A ✅ next to a song signifies that we have added the song to the playlist, and 
 ## Chapter 1: Tension, Resolution, and the Power of the V (p. 11)
 
 - (p. 12) Dramatic dominants selection: table of examples
-- Twist and Shout
+- Twist and Shout (each singing a note that together articulate A7, leading back to D)
 
 ### The mechanics of the V-I change
 
@@ -322,6 +322,7 @@ A ✅ next to a song signifies that we have added the song to the playlist, and 
 
 - The ii, iii, vi, and vii, can all be turned into secondary dominants.
 - The major third (of each chord) is indeed outside the parent major scale, but that serves to propel us forward.
+- and also adds scope for melody from outside parent scale.
 
 #### II7 (the 'V of V')
 
@@ -332,10 +333,12 @@ A ✅ next to a song signifies that we have added the song to the playlist, and 
 #### VI7 (the 'V of ii' or 'V of II')
 
 - In just the same way that II7 leaves to V, VI7 leads to II
+- So Doo Wop sequence (I-vi-ii-V) becomes I-VI7-II7-V7
 - Good day sunshine
 - I call your name
 - Hello little girl
 - Maxwell's silver hammer
+- We also see I-VI7-ii-V-I
 - Little child
 - My Bonnie
 - Mr Moonlight
@@ -343,20 +346,21 @@ A ✅ next to a song signifies that we have added the song to the playlist, and 
 
 #### II7 and the 'Imperfect Cadence' - 'the middle feeling'
 
-- Same idea as before: ending on the V without resolving to the I; the II7 contributes more strongly to this than the ii.
-- (p. 102) See: Jingle bells?
+- (p. 102) Same idea as before: ending on the V without resolving to the I; the II7 contributes more strongly to this than the ii.
+- See: Jingle bells?
 - I will
-- 'The middle feeling' table
+- (p. 104) 'The middle feeling' imperfect cadence: table of examples -- extended on p. 105
 - I'll get you
 - One after 909
 
 #### II7 and the Cycle of Fifths
 
-- Rocky Raccoon
+- Rocky Raccoon: vi7-II7-V7-I
 
 #### III7 (The 'V of vi' or 'V of VI')
 
 - Well what do you: Just as II is V of V, and VII is V of II, well, the III is V of VI.
+- So we see III7 preparing the vi or VI7.
 - Ain't she sweet
 - Ask me why
 - You can't do that
@@ -365,28 +369,35 @@ A ✅ next to a song signifies that we have added the song to the playlist, and 
 
 #### Case Study: 'Your Mother Should Know'
 
-- Your mother should know
+- Your mother should know: vi-IV-VI7-ii-V7-I-VI7-II7-V7-I-III7 (and back to vi)
 
 #### VII7 (the 'V of iii')
 
 - And aha! We are done! The V of III!
 - Sexy Sadie
+- (p. 113) Mr. Sandman: C-B7-E7-A7-D7-G7-C.
 - Martha My Dear
-- Moon River (and the chromatic cycle of Fifths)
+- Moon River (and the chromatic cycle of Fifths): bV-VII7-iiim7-VI7-iim7-V7-I.
+- Again, it's: 7-3-6-2-5-1.
 
 #### The tonic secondary dominant 'V of IV' - The I7-IV change
 
+- Casting the I chord as the "V of IV".
+- (p. 116) If I Fell, Hey Jude, Oh Darling
 - This Boy
 
 ### Non-Functioning Secondary Dominants
 
 #### II7
 
+- I-II(7)-IV-I
 - Eight days a week
 - You won't see me
+- Stay with me, Lifestyles of the Rich and famous
 
 #### Voice-Leading in I-II-IV-I
 
+- (p. 118)
 - She's leaving home
 - Yesterday
 - In my life
