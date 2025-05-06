@@ -14,8 +14,12 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 - (p. 60) The Beatles and the I-vi-IV-V turnaround
 - (p. 76) McCartney's 'formula' - The 'iii-chord Trick'
 - (pp. 104-105) 'The middle feeling' imperfect cadence
+- (p. 192) Parallel major/minor switch
 
 ## Voice Leading Tables
+
+- (p. 41) Voice lading in the Plagal cadence
+- (p. 224) Voice-leading in thd VII 'Pre-dominant' of'All l\1y Loving'
 
 ## Nice Riffs
 
@@ -172,7 +176,8 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 #### (c) Priming the V Chord: IV-to-V
 
 - ✅ I want to hold your hand, intro and climax of bridge, changing between IV and V to delay change to I
-- ✅ I saw her standing there (opening moves E7-A7)
+- But all in all, the IV has many uses:
+- ✅ I saw her standing there (opening moves E7-A7, a I-IV change)
 - The IV is most often heard as triad, IV7 or IV9, or maybe IV6 or IVmaj7 (No Reply, Yesterday, Sexy Sadie)
 
 ### The Three-Chord Trick - revisited
@@ -279,7 +284,7 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 
 ##### The four-chord cycle revisited - ii-V-I-vi
 
-- Start the Doo Wop sequence, I-vi-ii-V, a bar late, so it's vi-ii-V...e.g. Am-Dm-G
+- Start the Doo Wop sequence, I-vi-ii-V, a bar late, so it's vi-ii-V...e.g. Am-Dm-G -- no, this is wrong.
 - (and it becomes a ii-V-I! -- Reinterpreting the V as new I!)
 - (p. 71) So we get a ii-V-I-vi (??? -- if we actually cycle by 2 chords, and don't reinterpret V as I)
 - That seems to be what we get if we start 2 bars late, not one bar late... Hmm.. I guess it's 2 chords per bar.
@@ -648,7 +653,7 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 
 #### (b) The diatonic minor Cycle of Fifths
 
-- (p. 183): i -> iv -> bVII -> bIII -> bVI -> ii -> V
+- (p. 183): i -> iv -> bVII -> bIII -> bVI -> ii -> V -> i
 - Note that jump from bVI -> ii is just a diminished fifth (or augmented fourth), not a true fifth --
 - but wasn't this also true in the original Cycle????
 - _Autumn Leaves_, _I will survive_
@@ -674,12 +679,16 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 
 - Now we'll look at cases of switching not to the relative minor, but to the parallel minor.
 - _I'll be back_
-- _Norwegian Wood_: Has a parallel minor bridge (claimed by McCartney), cf. Michelle, whose parallel minor bridge Lennon claims
-- i-bIII-bIV-V7
+- (p. 188) Using E to take us from Am to A, and the melody intermingles C and C#. Cool.
+- \_Norwegian Wood
+- Has a parallel minor bridge (claimed by McCartney), cf. Michelle, whose parallel minor bridge Lennon claims
+- Note how the ii-V-I takes us out of i and into I. ("so I looked around and I noticed there wasn't a chair...")
+- i-bIII-bIV-V7 seen in Michelle, starting at "I love you, I love you, I love you..."
 - _Night and day_
-- _The fool on the hill_
-- (p. 192) Table of other examples from Beatles songs
+- _The fool on the hill_: great move from D major to D minor, facilitated by ii7-V7-i.
+- (p. 192) Table of examples from Beatles songs
 - _Come together_: mostly in Dm, but we emphasize the Bm chord in a way that feels like brief move to D major.
+- Nice fall from Bm to A to G, back to A.
 
 ---
 
@@ -691,37 +700,99 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 
 ### iv minor
 
+- That Means a lot
+- What Goes on
+- I'll follow the sun
+- Nowhere Man
+- All I've Got to do
+- Real Love
+- The continuing story of Bungalow Bill
+
 ### v minor
+
+- I'll Get you
+- Strawberry Fields
+- She's Leaving home
+- Julia
+- Sun King
 
 #### Dominant minor substitution rule
 
+- (p. 209) 'When a dominant seventh chord appears, you can substitute a minor chord a fifth above.'
+- Something
+
 ### bVI
+
+- P.S. I love you, and, Do you wnat to know a secret.
+- It won't be long
+- Honey Don't
+- Til There was you
+- I saw her standing there
+- Hello Goodbye
+- When I'm 64
+- Ain't She sweet (bridge)
+- Oh! Darling (bridge)
 
 #### The 'bVI7' 'pre-dominant'
 
+- Ain't She sweet
+- I call your name
+- Mean Mr Mustard
+
 ### bVI7 and the crazy case of 'Honey Pie'
 
+- Honey Pie
+
 ### bIII
+
+- Please please me
+- Magical Mystery Tour
+- Back in the USSR
+- Please please me (again!)
 
 ### bVII
 
 #### bVII as a 'pre-dominant': fueling the V7
 
+- All my loving
+- (p. 224) voice leading
+- Help!
+
 #### bVII and the Four-Chord Turnaround
+
+- The Night Before
+- Another Girl
+- The Word
 
 #### The Cycle of Fifths revisited - the sharp and flat side of 'Lovely Rita'
 
+- Lovely Rita
+- Every day
+
 #### The Power of the bVII-I 'major rock' cadence
 
+- A Hard Day's night
+- Help!
+- We Can work it out
+
 #### Reconceiving the bVII-I cadence: the 'Reverse Dominant Minor Substitution'
+
+- Hello Goodbye
+- 'Given a minor chord, we can substitute a dominant seventh chord a fourth higher.'
 
 #### Theory interlude
 
 #### The Beatles origins of the 'major' Aeolian rock run: bVI-bVII-I
 
+- P.S. I love you
+- Lady Madonna
+- Polythene Pam
+
 #### A post-Beatles tour of the major 'Aeolian rock run'
 
 #### 'Borrowing' - the primary text: 'I Am the Walrus'
+
+- I am the Walrus
 
 #### Schenker revisited: the bVII 'spanner in the works'
 
@@ -758,6 +829,28 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 ---
 
 ## Chapter 9: Descending Bass, Inversions and 'Aug' chords (. 309)
+
+### (1) The Diatonic Major Descent (8-7-6-5)
+
+#### 'Inversions': implied chordsfor the '8-7-6-5' descent
+
+### (2) The Diatonic Minor Descent (8-b7-b6-5)
+
+### (3) The Dorian/Aeolian hybrid descent (8-b7-6-b6)
+
+### (4) The Rock Descent 8-b7-6-b6 - in major)
+
+### (5) The Chromatic Descent (8-7-b7-6) - in Minor )
+
+### (6) The Chromatic Descent (8-7-b7-6) - in Major )
+
+### 'Mr Kite's Circus Tricks'
+
+### The augmented chord - anatomy of a secret weapon
+
+### The Augmented Masterclass: 'Fixing A Hole', 'I'm So Tired' and 'Old Brown Shoe'.
+
+### The Augmented Ascent (5-#5-6-#5) - James Bond and beyond
 
 ---
 
