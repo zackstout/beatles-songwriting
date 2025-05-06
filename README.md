@@ -625,6 +625,10 @@ A ✅ next to a song signifies that we have added the song to the playlist, and 
 
 ---
 
+(Woof: next 4 chapters, 7-10, take as many pages as 1-6.)
+
+---
+
 ## Chapter 7: "Borrowing"...and the Rise of Rock (p. 200)
 
 ---
@@ -633,35 +637,35 @@ A ✅ next to a song signifies that we have added the song to the playlist, and 
 
 ---
 
-## Chapter 9: Descending Bass, Inversions and 'Aug' chords
+## Chapter 9: Descending Bass, Inversions and 'Aug' chords (. 309)
 
 ---
 
-## Chapter 10: Middle Eights and Mega Modulations
+## Chapter 10: Middle Eights and Mega Modulations (p. 356)
 
 ---
 
-## Chapter 11: Diminished: Songwriting Sleight-of-Hand
+## Chapter 11: Diminished: Songwriting Sleight-of-Hand (p. 403)
 
 ---
 
-## Chapter 12: Tritone Subtitutions and Other Mystery Chords
+## Chapter 12: Tritone Subtitutions and Other Mystery Chords (p. 454)
 
 ---
 
-## Chapter 13: The 'A Hard Day's Night' Chord: Rock's Holy Grail
+## Chapter 13: The 'A Hard Day's Night' Chord: Rock's Holy Grail (p. 495)
 
 ---
 
-## Chapter 14: Melody - Intervals, Motifs and Phrasing
+## Chapter 14: Melody - Intervals, Motifs and Phrasing (p 537)
 
 ---
 
-## Chapter 15: Harmonisation in Focus
+## Chapter 15: Harmonisation in Focus (p. 577)
 
 ---
 
-## Chapter 16: 'I nicked it!' - Derivation, 'Plagiarism' and Pop
+## Chapter 16: 'I nicked it!' - Derivation, 'Plagiarism' and Pop (p. 614)
 
 ---
 
