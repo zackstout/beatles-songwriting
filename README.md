@@ -4,6 +4,12 @@ A ✅ next to a song signifies that we have added the song to the playlist, and 
 
 'voice leading table' should be a phrase, alongside 'table of examples'
 
+Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songwriting-secrets-of-the-beatles/Songwriting%20Secrets%20of%20The%20Beatles.pdf).
+
+We need to go through first 5 chapters and listen to songs. Get the jist.
+
+Then hit up 6 through 8.
+
 ---
 
 ## Chapter 1: Tension, Resolution, and the Power of the V (p. 11)
@@ -669,32 +675,35 @@ A ✅ next to a song signifies that we have added the song to the playlist, and 
 
 ---
 
-## Chapter 17: And in the End...Lyrical and Tonal Movement
+## Chapter 17: And in the End...Lyrical and Tonal Movement (p. 658)
 
 ---
 
-## Coda: 'She Loves You': The Anatomy of a Perfect Pop Song
+## Coda: 'She Loves You': The Anatomy of a Perfect Pop Song (p. 692)
 
 ---
 
-## Appendix 1: A Beginner's Guide to Music Theory
+## Appendix 1: A Beginner's Guide to Music Theory (p. 709)
 
 ---
 
-## Appendix 2: Beatles Chords in Practice
+## Appendix 2: Beatles Chords in Practice (p. 729)
 
 ---
 
-## Appendix 3: An Introduction to Harmonisation
+## Appendix 3: An Introduction to Harmonisation (p. 738)
+
+- (p. 753) Ascending intervals table with examples
+- (p. 754) Descending intervals table with examples
 
 ---
 
-## Appendix 4: An Introduction to Beatles Song Form
+## Appendix 4: An Introduction to Beatles Song Form (p. 756)
 
 ---
 
-## Appendix 5: Science, Surprise and the 'Tingle' factor
+## Appendix 5: Science, Surprise and the 'Tingle' factor (p. 765)
 
 ---
 
-## Appendix 6: A Summary of Early Beatles Influences
+## Appendix 6: A Summary of Early Beatles Influences (p. 769)

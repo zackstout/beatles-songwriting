@@ -236,7 +236,7 @@ Wow I cannot believe how long these wiki articles are...
 2. 🎵 Day Tripper
 3. 🎵 This Boy
 4. 🎵 I Want To Hold Your Hand
-5. She Loves You
+5. 🎵🎵🎵 She Loves You
 6. From Me To You
 7. Lady Madonna
 8. 🎵 Hey Jude
