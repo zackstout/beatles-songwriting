@@ -20,6 +20,8 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 ## Nice Riffs
 
 - Twist and shout, 1:08
+- Devil in her Heart, 0:24
+- Anna (go to him), intro
 
 ---
 
@@ -132,8 +134,8 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 
 #### (a) IV-I and the Plagal cadence
 
-- I want to hold your hand
-- I saw her standing there
+- ✅ I want to hold your hand (ending!)
+- ✅ I saw her standing there (also ending)
 
 ##### Voice leading in the Plagal cadence
 
@@ -141,17 +143,17 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 - The IV's 3rd moves down a whole tone to become the I's fifth
 - The IV's fifth is the root of I and acts as a stable point
 - Yesterday and She's leaving home
-- Let it be
-- The end
+- ✅ Let it be
+- ✅ The end
 - (p. 43) preview chapter 8: Can also approach the IV from its own IV, which is the bVII of the root
 
 ##### The IV major-to-iv minor Plagal variation
 
-- Every time we say goodbye (Cole Porter)
+- ✅ Every time we say goodbye (Cole Porter, 2:12)
 - 3 semitone descent: major third of IV, to minor third, to fifth of I.
-- Devil in her heart (cover of a Richard Drapkin song)
+- ✅ Devil in her heart (cover of a Richard Drapkin song, 0:25)
 - (p. 45) "The IV-iv minor 'miracle move'" table of examples
-- In My Life
+- ✅ In My Life ("all my liiiife...", 0:14)
 - (p. 46) A few more examples from other artists...
 
 #### (b) IV as a first destination away from the tonic
@@ -160,7 +162,7 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 
 ##### I-IV -- the 'quick' change
 
-- Love me do
+- ✅ Love me do (yeah, just go to IV and hang out there)
 
 ##### I-IV and the connection with V-I
 
@@ -169,15 +171,17 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 
 #### (c) Priming the V Chord: IV-to-V
 
-- I want to hold your hand
+- ✅ I want to hold your hand, intro and climax of bridge, changing between IV and V to delay change to I
+- ✅ I saw her standing there (opening moves E7-A7)
 - The IV is most often heard as triad, IV7 or IV9, or maybe IV6 or IVmaj7 (No Reply, Yesterday, Sexy Sadie)
 
 ### The Three-Chord Trick - revisited
 
 - (p. 49) Beatles' success comes down to contrast between different song sections -- and often the simple I-IV-V is an important ingredient.
 - Drive my car is mentioned as I-IV-V example, dressed up with jazzy chords
-- Lucy in the sky with diamonds
-- Hey jude
+- ✅ Lucy in the sky with diamonds; complex overall, but simple I-IV-V chorus
+- Same idea with Drive My Car
+- ✅ Hey jude: IV-I-V-I
 - (p. 50) Oh wow, cool analysis of lyrics as nod to structure of song -- more subtle "Hallelujah", I guess. Nod to Ger Tillekens as pioneer of this kind of insight. Neat.
 
 ---
@@ -190,11 +194,12 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 
 #### The I-vi-I-vi vamp - The Beatles' first formula?
 
-- _Misery_ (C and Am)
-- _Anna Go to him_
-- _Baby it's you_
-- _From me to you_
-- _Run for your life_
+- ✅ _Misery_ (C and Am, 1:33-1:45, ending))
+- ✅ _Anna Go to him_
+- ✅ _Baby it's you_
+- ✅ _From me to you_ (intro, 'da da daaa da da daa daa daaaa')
+- Also: All my loving, Not a second time, All I've got to do
+- ✅ _Run for your life_, intro
 
 #### Major and relative minor - making the connection
 
@@ -204,10 +209,15 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 
 #### The four-chord cliche - I-vi-IV-V
 
-- _Happiness is a warm gun_
+- ✅ _Happiness is a warm gun_: like Lucy, breaking up complex larger thing with a familiar part.
 - Often a small break from a larger theme: A Hard Day's Night, I'm So Tired, I'll Get You
-- _Real love_
+- ✅ _Real love_
 - (p. 60) The Beatles and the I-vi-IV-V turnaround: table of examples
+- A Hard Day's Night (bridge)
+- I'll Get You (verse)
+- I'm So Tired (verse)
+- I've Just seen a face (verse)
+- Octopus's Garden
 
 #### Diatonic substitution: the first steps
 
@@ -220,15 +230,17 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 #### (a) The ii-for-IV subtitution in the Doo Wop cycle
 
 - Doo Wop: Four-chord cliche becomes I-vi-ii-V
-- _Come go with me_
+- ✅ _Come go with me_
 
 ##### ii-for-IV 'relative minor for major' substitution in action
 
 - (p. 62) Shared notes -- the ii is the relative minor of the IV
 - Ex: D-F-A vs F-A-C
-- _This boy_
+- ✅ _This boy_
 - _Tell me why_
-- (p. 64) You're going to lose that girl, I will, penny lane
+- (p. 64) You're going to lose that girl,
+- I will,
+- penny lane
 - (p. 65) All a variation on the original Three-chord I-IV-I-V, adding in vi-for-I and ii-for-IV.
 
 #### (b) The diatonic walk: I-ii and beyond
