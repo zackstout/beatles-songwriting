@@ -15,6 +15,7 @@
 ## Minor Third
 
 - Greensleeves (first two notes)
+- I AM ironman...
 
 ## Perfect Fifth
 
@@ -39,3 +40,7 @@
 
 - SomeWHERE over the rainbow...
 - 2001: space odyssey
+
+## Tritone
+
+- Black Sabbath, "Black Sabbath"

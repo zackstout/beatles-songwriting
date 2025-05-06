@@ -17,12 +17,16 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 
 ## Voice Leading Tables
 
+## Nice Riffs
+
+- Twist and shout, 1:08
+
 ---
 
 ## Chapter 1: Tension, Resolution, and the Power of the V (p. 11)
 
 - (p. 12) Dramatic dominants selection: table of examples
-- Twist and Shout (each singing a note that together articulate A7, leading back to D)
+- ✅ Twist and Shout (each singing a note that together articulate A7, leading back to D), 1:27
 
 ### The mechanics of the V-I change
 
@@ -31,7 +35,8 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 
 #### (a) The leading note effect
 
-- In My Life (the melodic riff lingering on the leading tone)
+- ✅ In My Life (the melodic riff lingering on the leading tone)
+- The major third of the V is what leads us back to I (most strongly).
 
 #### (b) The tritone and tension
 
@@ -39,7 +44,7 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 
 #### (c) 'Perfect fifth' root movement
 
-- Her Majesty
+- ✅ Her Majesty, nice ii-V-I turnaround at end.
 
 ### Schenker and the power of V-I
 
@@ -48,55 +53,64 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 
 ### The 5-4-3-2-1 return to base
 
-- (p. 20) All you need is love, and I will (more disguised, 0:57)
-- All together now (0:52), You've got to hide your love away (0:35)
-- She came in through the bathroom window (transition into the song), orchestrates a key switch this time
-- Penny lane shows how the V7 can be used to change/modulate to new keys
-- Back in the USSR (intro chord)
+- (p. 20) All you need is love, which goes G-D-Em (so we have F# in the bassline)
+- ✅ I will (more disguised, 0:57)
+- ✅ All together now (0:52) - pretty subtle
+- ✅ You've got to hide your love away (0:35) - yeah, very pronounced
+- ✅ She came in through the bathroom window (transition into the song), orchestrates a key switch this time
+- ✅ Penny lane shows how the V7 can be used to change/modulate to new keys, in and out of chorus at 0:33 and 0:50
+- ✅ Back in the USSR (intro chord)
 - 'tonic-to-dominant' opening gambit in Hey Jude, Let it Be, Oh! Darling
 
 ### Beyond the V7 - extensions, additions and alterations
 
 #### 'Extension' to a V chord: The dominant 9th chord
 
-- If I fell (0:58)
+- ✅ If I fell (0:58)
 
 #### 'Addition' to a V: The major 6th chord
 
-- What you're doing (climax of bridge)
+- ✅ end of She Loves you (Yeah yeah yeah yeah....)
+- ✅ What you're doing (climax of bridge), 1:44
 
 #### Alteration to a V: The augmented 5th
 
 - 7#5 chord
-- It's only love ("My oh my", 0:15)
-- Oh! Darling (1:39) and From me to you (0:47)
+- ✅ It's only love ("My oh my", 0:15)
+- ✅ Ask me why, 0:48
+- ✅ Oh! Darling (first chord and 1:39) and
+- ✅ From me to you (0:47)
 
 #### The 4:3 suspension
 
 - 7sus4 chord
-- If i needed someone (0:51), For no one (0:37), Lady madonna (0:42)
-- We can work it out (melody line)
+- Used as a nice little embellishment
+- ✅ If i needed someone (0:51), "now I'm too much in love..."
+- ✅ For no one (0:37), "a love that should have lasted years.."
+- ✅ Lady madonna (0:42), "see how they run.."
+- ✅ We can work it out (melody line)
 
 #### 'Exotic intensifiers' -- the sharpened 9th, the flattened 9th
 
 - 7#9 chord, 7b9 chord
-- You can't do that (0:22)
-- I me Mine (0:27)
+- ✅ You can't do that (0:22), melody creates the #9
+- ✅ I me Mine (0:27), "coming on strong", same thing, melody creates it.
 
 #### 'Double' alteration to a V: The 7#5#9
 
-- Drive my car (leaves the V hanging)
+- ✅ Drive my car (leaves the V hanging), "but you can do something in between"
+- The melody adds both these "color" notes
 
 ---
 
 ## Chapter 2: The Three-Chord Trick and the Blues (p. 32)
 
 - Main idea is I-IV-V-IV-I (Wild Thing, e.g.)
-- In spite of all the danger
+- ✅ In spite of all the danger
 
 ### The 12-bar blues
 
-- For You Blue
+- ✅ For You Blue
 
 #### Creating the D7, G7 and A7 chords in a blues
 
@@ -106,13 +120,13 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 
 ### The power of I - the one-chord trick
 
-- (p. 36) Paperback writer, I-IV
-- Ticket to Ride
-- and Everybody's got something to hide, long embellishment of the tonic
+- ✅ (p. 36) Paperback writer, I-IV
+- ✅ Ticket to Ride
+- ✅ Everybody's got something to hide, long embellishment of the tonic
 
 ### The Chuck Berry rhythm
 
-- Simple 5 chords (2 notes)
+- Simple 5 chords (2 notes, root and fifth)
 
 ### The IV chord
 
@@ -663,9 +677,71 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 
 ## Chapter 7: "Borrowing"...and the Rise of Rock (p. 200)
 
+### iv minor
+
+### v minor
+
+#### Dominant minor substitution rule
+
+### bVI
+
+#### The 'bVI7' 'pre-dominant'
+
+### bVI7 and the crazy case of 'Honey Pie'
+
+### bIII
+
+### bVII
+
+#### bVII as a 'pre-dominant': fueling the V7
+
+#### bVII and the Four-Chord Turnaround
+
+#### The Cycle of Fifths revisited - the sharp and flat side of 'Lovely Rita'
+
+#### The Power of the bVII-I 'major rock' cadence
+
+#### Reconceiving the bVII-I cadence: the 'Reverse Dominant Minor Substitution'
+
+#### Theory interlude
+
+#### The Beatles origins of the 'major' Aeolian rock run: bVI-bVII-I
+
+#### A post-Beatles tour of the major 'Aeolian rock run'
+
+#### 'Borrowing' - the primary text: 'I Am the Walrus'
+
+#### Schenker revisited: the bVII 'spanner in the works'
+
 ---
 
 ## Chapter 8: The Modal Connection (p. 250)
+
+### The Mixolydian Mode
+
+#### F Mixolydian
+
+#### The Double Plagal
+
+- The Beatles 'bVII-IV-I' Double Plagal excursions - table of examples
+
+#### Beyond the Double Plagal: 'Triples' and 'Quads'
+
+#### Rationalizing the bVII chord: Mixolydian or 'borrowed'?
+
+#### More Mixolydian - folk flavors, pedals and 'Indian-esque drones'
+
+### The Lydian Mode
+
+### The Dorian Mode
+
+### The Locrian Mode
+
+### The Phrygian Mode
+
+#### bII and the search for 'Phrygian' and 'Neapolitan' cadences
+
+#### Phrygian Trivia
 
 ---
 
