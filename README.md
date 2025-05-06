@@ -1,14 +1,21 @@
 # Songwriting Secrets of the Beatles
 
-A ✅ next to a song signifies that we have added the song to the playlist, and listened to it.
-
-'voice leading table' should be a phrase, alongside 'table of examples'
+A ✅ next to a song signifies that we have listened to it.
 
 Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songwriting-secrets-of-the-beatles/Songwriting%20Secrets%20of%20The%20Beatles.pdf).
 
-We need to go through first 5 chapters and listen to songs. Get the jist.
+---
 
-Then hit up 6 through 8.
+## Tables of Examples
+
+- (p. 12) Dramatic dominants
+- (p. 19) Dramatic dominants #2
+- (p. 45) "The IV-iv minor 'miracle move'"
+- (p. 60) The Beatles and the I-vi-IV-V turnaround
+- (p. 76) McCartney's 'formula' - The 'iii-chord Trick'
+- (pp. 104-105) 'The middle feeling' imperfect cadence
+
+## Voice Leading Tables
 
 ---
 
@@ -536,36 +543,45 @@ Then hit up 6 through 8.
 
 ## Chapter 6: Relative and Parallel Minor Switches (p. 161)
 
+- "I don't know why, it just makes me want to weep", This is Spinal Tap
 - Del Shannon's Runaway, The Ventures' Walk Don't Run, The Shadows' Apache, the Animals' The House of Rising Sun and Johnny Kid's Shakin' All Over.
+- Also, A Taste of Honey, Besame Mucho, I just don't understand, Three cool cats
 
 #### The minor tonality - a framework for analysis
 
-- Most Beatles songs will add a dabble of the minor key, while staying in a related major key for most of the time.
+- (p. 162) Most Beatles songs will add a dabble of the minor key, while staying in a related major key for most of the time.
+- Cayenne and Mr Kite are a few of the only pure-minor songs.
 
 #### 'v or V'? - the dominant dilemma
 
 - If we follow the diatonic rules, the v in a minor key is minor, not major. So (how) do we get the dominant sound?
 - Usually, we break the rules and use the V7.
-- Things we said today
+- Things we said today: Am-Em7
 
 #### Breaking the diatonic minor rules - the 'borrowed V7'
 
-- Cayenne
-- (p. 165) The V7 helps to establish the tonality of the i center -- since the whole step from original V's root up doesn't have same pull as half-step involved in the major scale version of the cadence.
+- Cayenne: Em-Am-B7
+- (p. 165) The V7 helps to establish the tonality of the i center -- since the whole step from original v's root up doesn't have same pull as half-step involved in the major scale version of the cadence.
 - This leads us to...
 - The harmonic minor scale!
+- (p. 166) The raised 7th in the harmonic minor scale means that, when we take diatonic chords, the v becomes major (V7). That is, its third gets raised. This helps it perform its function of leading back to tonic, i.
 
 ### Part 1: relative major/minor switches
 
 #### (1) The relative minor bridge
 
-- There's a Place
-- (p. 168) The V in a V7-i cadence can also be viewed as a "functioning secondary dominant" in the original I key.
+- There's a Place -- first example of flirting with this tonal ambiguity.
+- Recall our pivot chord from before: The I's V, equals the vi's bVII.
+- This can be used in conjunction with the V-i to reinforce the minor tonality.
+- (p. 168) The V in a V7-i cadence can also be viewed as a "functioning secondary dominant", III7, in the original I key.
 - That is: The III7, which we saw is "V of vi", can also be seen as the V7 leading into the new i home.
 - I'm happy just to dance with you
+- (p. 169) Again, we see B play the pivot chord role in key of E or C#m.
 - I should have known better
+- Shows both pivots: Uses the I's V === vi's bVII to pivot to I, and then the I's III7 === vi's V7 to pivot out of I, to vi (or, "i").
 - Don't ever change
 - Example: In key of E, we have B7 as the pivot chord into C#m key.
+- And, we have G#7 as the III7 of E, who is also the V7 of the new C#m key.
 
 #### 'vi at the bridge' - move or modulation?
 
@@ -577,24 +593,32 @@ Then hit up 6 through 8.
 - (p. 174) cases of the opposite transition: now, an established minor is punctuated and opened up by forays into major.
 - Girl, Wait, I'm Only Sleeping, You Never give me your money
 - Recall Cycle of Fifths songs: Rocky raccoon, golden slumbers, your mother should know: move from relative minor to major key.
+- Again, that was: 7-3-6-2-5-1 (which is kinda like 2 2-5-1s back to back)
 
 #### (2) The relative major chorus
 
-- Girl
-- I'm Only Sleeping
-- Roxanne, Watching the Detectives
+- Girl, each key is reinforced by its dominant V7.
+- I'm Only Sleeping: uses the bVI of the i, or the IV of the I, as pivot chord, this time.
+- Ex: Cb, between Eb minor and Gb major.
+- (p. 178) Roxanne, Watching the Detectives
 
 #### The special case of 'And I love her'
+
+- E major or C# minor??
+- And the final chord is a Picardy third, weird.
 
 #### 'And I love her' - the final chord - a Picardy third?
 
 - (p. 180) Picardy third: when the minor iii has its third lifted up a semitone to make it into a major triad.
 - Cf. end of _A Taste of Honey_, or _Shine on you crazy diamond_
 
+### Part 1.5: Minor-key Progressions
+
 #### (a) The 'minor two-five-one': 'ii7b5-V7-i'
 
 - The ii7b5 is rarely used, but a neat dark tone
-- _You never give me your money_ (and cycle of fifths!)
+- _You never give me your money_ (and cycle of fifths!), great example.
+- Again, note the use of the bVII of the i (or the V of the I) as pivot chord.
 
 #### (b) The diatonic minor Cycle of Fifths
 
@@ -618,9 +642,11 @@ Then hit up 6 through 8.
 - _The story of Bungalow Bill_, Layla, Stairway to Heaven
 - Ex: Am / G / F / E7
 - _Runaway_ (Del shannon), Don't let me be misunderstood, Sultans of Swing
+- (p. 186) Also in the bassline of We can work it out
 
 ### Part 2: parallel major/minor switches
 
+- Now we'll look at cases of switching not to the relative minor, but to the parallel minor.
 - _I'll be back_
 - _Norwegian Wood_: Has a parallel minor bridge (claimed by McCartney), cf. Michelle, whose parallel minor bridge Lennon claims
 - i-bIII-bIV-V7

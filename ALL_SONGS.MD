@@ -4,6 +4,33 @@ Wow I cannot believe how long these wiki articles are...
 
 186 total songs represented here. Wild.
 
+## Eras
+
+### Beatlemania (1962-64)
+
+- Please Please Me
+- With the Beatles
+- Hard Day's Night
+- Beatles for Sale
+
+### Transitional/Folk-Rock (1965-66)
+
+- Help!
+- Rubber Soul
+- Revolver
+
+### Psychedelic
+
+- Sgt. Pepper's Lonely Hearts Club Band
+- Magical Mystery Tour
+- White Album
+- (Yellow Submarine?)
+
+### Farewell
+
+- Abbey Road
+- Let It Be
+
 ## Please Please Me (1963)
 
 1. "I Saw Her Standing There" McCartney 2:52
@@ -50,9 +77,9 @@ Wow I cannot believe how long these wiki articles are...
 8. "Any Time at All" Lennon with McCartney 2:11
 9. "I'll Cry Instead" Lennon 1:44
 10. "Things We Said Today" McCartney 2:35
-11. "When I Get Home" Lennon 2:17
+11. 🎵 "When I Get Home" Lennon 2:17
 12. 🎵 "You Can't Do That" Lennon 2:35
-13. "I'll Be Back" Lennon with McCartney 2:24
+13. 🎵 "I'll Be Back" Lennon with McCartney 2:24
 
 ## Beatles For Sale (1964)
 
@@ -188,7 +215,7 @@ Wow I cannot believe how long these wiki articles are...
 ## Yellow Submarine (1969)
 
 1. 🎵 "Yellow Submarine" Starr 2:39
-2. "Only a Northern Song" (\*) Harrison 3:24
+2. 🎵 "Only a Northern Song" (\*) Harrison 3:24
 3. "All Together Now" McCartney, with Lennon 2:11
 4. "Hey Bulldog" Lennon, with McCartney 3:12
 5. "It's All Too Much" (\*) Harrison 6:26
