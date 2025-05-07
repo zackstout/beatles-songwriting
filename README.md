@@ -4,6 +4,14 @@ A ✅ next to a song signifies that we have listened to it.
 
 Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songwriting-secrets-of-the-beatles/Songwriting%20Secrets%20of%20The%20Beatles.pdf).
 
+- [Chapter 1](https://github.com/zackstout/beatles-songwriting/blob/master/README.md#chapter-7-borrowingand-the-rise-of-rock-p-200)
+- [Chapter 2](https://github.com/zackstout/beatles-songwriting/blob/master/README.md#chapter-7-borrowingand-the-rise-of-rock-p-200)
+- [Chapter 3](https://github.com/zackstout/beatles-songwriting/blob/master/README.md#chapter-7-borrowingand-the-rise-of-rock-p-200)
+- [Chapter 4](https://github.com/zackstout/beatles-songwriting/blob/master/README.md#chapter-7-borrowingand-the-rise-of-rock-p-200)
+- [Chapter 5](https://github.com/zackstout/beatles-songwriting/blob/master/README.md#chapter-7-borrowingand-the-rise-of-rock-p-200)
+- [Chapter 6](https://github.com/zackstout/beatles-songwriting/blob/master/README.md#chapter-7-borrowingand-the-rise-of-rock-p-200)
+- [Chapter 7](https://github.com/zackstout/beatles-songwriting/blob/master/README.md#chapter-7-borrowingand-the-rise-of-rock-p-200)
+
 ---
 
 ## Tables of Examples
@@ -26,6 +34,8 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 - Twist and shout, 1:08
 - Devil in her Heart, 0:24
 - Anna (go to him), intro
+- What you're doing (intro)
+- Besame Mucho, coming out of chorus, and all the high string chord comping, and really all throughout
 
 ---
 
@@ -680,7 +690,7 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 - Now we'll look at cases of switching not to the relative minor, but to the parallel minor.
 - _I'll be back_
 - (p. 188) Using E to take us from Am to A, and the melody intermingles C and C#. Cool.
-- \_Norwegian Wood
+- _Norwegian Wood_
 - Has a parallel minor bridge (claimed by McCartney), cf. Michelle, whose parallel minor bridge Lennon claims
 - Note how the ii-V-I takes us out of i and into I. ("so I looked around and I noticed there wasn't a chair...")
 - i-bIII-bIV-V7 seen in Michelle, starting at "I love you, I love you, I love you..."
@@ -698,7 +708,7 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 
 ## Chapter 7: "Borrowing"...and the Rise of Rock (p. 200)
 
-### iv minor
+### (a) iv minor
 
 - That Means a lot
 - What Goes on
@@ -708,7 +718,7 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 - Real Love
 - The continuing story of Bungalow Bill
 
-### v minor
+### (b) v minor
 
 - I'll Get you
 - Strawberry Fields
@@ -721,7 +731,7 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 - (p. 209) 'When a dominant seventh chord appears, you can substitute a minor chord a fifth above.'
 - Something
 
-### bVI
+### (c) bVI
 
 - P.S. I love you, and, Do you wnat to know a secret.
 - It won't be long
@@ -739,18 +749,18 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 - I call your name
 - Mean Mr Mustard
 
-### bVI7 and the crazy case of 'Honey Pie'
+### (d) bVI7 and the crazy case of 'Honey Pie'
 
 - Honey Pie
 
-### bIII
+### (e) bIII
 
 - Please please me
 - Magical Mystery Tour
 - Back in the USSR
 - Please please me (again!)
 
-### bVII
+### (f) bVII
 
 #### bVII as a 'pre-dominant': fueling the V7
 
@@ -800,7 +810,7 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 
 ## Chapter 8: The Modal Connection (p. 250)
 
-### The Mixolydian Mode
+### (a) The Mixolydian Mode
 
 #### F Mixolydian
 
@@ -814,13 +824,13 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 
 #### More Mixolydian - folk flavors, pedals and 'Indian-esque drones'
 
-### The Lydian Mode
+### (b) The Lydian Mode
 
-### The Dorian Mode
+### (c) The Dorian Mode
 
-### The Locrian Mode
+### (d) The Locrian Mode
 
-### The Phrygian Mode
+### (e) The Phrygian Mode
 
 #### bII and the search for 'Phrygian' and 'Neapolitan' cadences
 
