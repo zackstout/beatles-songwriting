@@ -6,6 +6,33 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 
 ---
 
+## Table of Contents
+
+- [Chapter 1: Tension, Resolution, and the Power of the V (p. 11)](#Chapter-1)
+- [Chapter 2: The Three-Chord Trick and the Blues (p. 32)](#Chapter-2)
+- [Chapter 3: The Minor Pop Chords (p. 53)](#Chapter-3)
+- [Chapter 4: "Supercharging" a Song with Secondary Dominants (p. 97)](#Chapter-4)
+- [Chapter 5: "Exotic Birds"...and the Great Aeolian Cadence Mystery (p. 135)](#Chapter-5)
+- [Chapter 6: Relative and Parallel Minor Switches (p. 161)](#Chapter-6)
+- [Chapter 7: "Borrowing"...and the Rise of Rock (p. 200)](#Chapter-7)
+- [Chapter 8: The Modal Connection (p. 250)](#Chapter-8)
+- [Chapter 9: Descending Bass, Inversions and 'Aug' chords (. 309)](#Chapter-9)
+- [Chapter 10: Middle Eights and Mega Modulations (p. 356)](#Chapter-10)
+- [Chapter 11: Diminished: Songwriting Sleight-of-Hand (p. 403)](#Chapter-11)
+- [Chapter 12: Tritone Subtitutions and Other Mystery Chords (p. 454)](#Chapter-12)
+- [Chapter 13: The 'A Hard Day's Night' Chord: Rock's Holy Grail (p. 495)](#Chapter-13)
+- [Chapter 14: Melody - Intervals, Motifs and Phrasing (p 537)](#Chapter-14)
+- [Chapter 15: Harmonisation in Focus (p. 577)](#Chapter-15)
+- [Chapter 16: 'I nicked it!' - Derivation, 'Plagiarism' and Pop (p. 614)](#Chapter-16)
+- [Chapter 17: And in the End...Lyrical and Tonal Movement (p. 658)](#Chapter-17)
+- [Coda: 'She Loves You': The Anatomy of a Perfect Pop Song (p. 692)](#Coda)
+- [Appendix 1: A Beginner's Guide to Music Theory (p. 709)](#Appendix-1)
+- [Appendix 2: Beatles Chords in Practice (p. 729)](#Appendix-2)
+- [Appendix 3: An Introduction to Harmonisation (p. 738)](#Appendix-3)
+- [Appendix 4: An Introduction to Beatles Song Form (p. 756)](#Appendix-4)
+- [Appendix 5: Science, Surprise and the 'Tingle' factor (p. 765)](#Appendix-5)
+- [Appendix 6: A Summary of Early Beatles Influences (p. 769)](#Appendix-6)
+
 ## Tables of Examples
 
 - (p. 12) Dramatic dominants
@@ -36,7 +63,7 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 
 ---
 
-## Chapter 1: Tension, Resolution, and the Power of the V (p. 11)
+## Chapter 1
 
 - (p. 12) Dramatic dominants selection: table of examples
 - ✅ Twist and Shout (each singing a note that together articulate A7, leading back to D), 1:27
@@ -116,7 +143,7 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 
 ---
 
-## Chapter 2: The Three-Chord Trick and the Blues (p. 32)
+## Chapter 2
 
 - Main idea is I-IV-V-IV-I (Wild Thing, e.g.)
 - ✅ In spite of all the danger
@@ -198,7 +225,7 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 
 ---
 
-## Chapter 3: The Minor Pop Chords (p. 53)
+## Chapter 3
 
 ### vi, ii, iii and the elusive vii
 
@@ -380,7 +407,7 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 
 ---
 
-## Chapter 4: "Supercharging" a Song with Secondary Dominants (p. 97)
+## Chapter 4
 
 ### Functioning secondary dominants
 
@@ -503,7 +530,7 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 
 ---
 
-## Chapter 5: "Exotic Birds"...and the Great Aeolian Cadence Mystery (p. 135)
+## Chapter 5
 
 - Mann's music criticism, throws out this phrase about "Aeolian Cadence" in "Not a second time"
 - (and Mahler's Song of the Earth)
@@ -594,7 +621,7 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 
 ---
 
-## Chapter 6: Relative and Parallel Minor Switches (p. 161)
+## Chapter 6
 
 - "I don't know why, it just makes me want to weep", This is Spinal Tap
 - Del Shannon's Runaway, The Ventures' Walk Don't Run, The Shadows' Apache, the Animals' The House of Rising Sun and Johnny Kid's Shakin' All Over.
@@ -720,7 +747,7 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 
 ---
 
-## Chapter 7: "Borrowing"...and the Rise of Rock (p. 200)
+## Chapter 7
 
 ### (a) iv minor
 
@@ -823,7 +850,7 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 
 ---
 
-## Chapter 8: The Modal Connection (p. 250)
+## Chapter 8
 
 ### (a) The Mixolydian Mode
 
@@ -853,7 +880,7 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 
 ---
 
-## Chapter 9: Descending Bass, Inversions and 'Aug' chords (. 309)
+## Chapter 9
 
 ### (1) The Diatonic Major Descent (8-7-6-5)
 
@@ -879,11 +906,11 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 
 ---
 
-## Chapter 10: Middle Eights and Mega Modulations (p. 356)
+## Chapter 10
 
 ---
 
-## Chapter 11: Diminished: Songwriting Sleight-of-Hand (p. 403)
+## Chapter 11
 
 - A 'handle with care' chord: often (wrongly!) assumed to be reserved for speciality jazz use.
 - When none of its notes are a leading note of the following chord, it is passing.
@@ -996,7 +1023,7 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 
 ---
 
-## Chapter 12: Tritone Subtitutions and Other Mystery Chords (p. 454)
+## Chapter 12
 
 Some harmonic colors we've seen:
 
@@ -1086,51 +1113,51 @@ Let's look at some more wacky chords they used.
 
 ---
 
-## Chapter 13: The 'A Hard Day's Night' Chord: Rock's Holy Grail (p. 495)
+## Chapter 13
 
 ---
 
-## Chapter 14: Melody - Intervals, Motifs and Phrasing (p 537)
+## Chapter 14
 
 ---
 
-## Chapter 15: Harmonisation in Focus (p. 577)
+## Chapter 15
 
 ---
 
-## Chapter 16: 'I nicked it!' - Derivation, 'Plagiarism' and Pop (p. 614)
+## Chapter 16
 
 ---
 
-## Chapter 17: And in the End...Lyrical and Tonal Movement (p. 658)
+## Chapter 17
 
 ---
 
-## Coda: 'She Loves You': The Anatomy of a Perfect Pop Song (p. 692)
+## Coda
 
 ---
 
-## Appendix 1: A Beginner's Guide to Music Theory (p. 709)
+## Appendix 1
 
 ---
 
-## Appendix 2: Beatles Chords in Practice (p. 729)
+## Appendix 2
 
 ---
 
-## Appendix 3: An Introduction to Harmonisation (p. 738)
+## Appendix 3
 
 - (p. 753) Ascending intervals table with examples
 - (p. 754) Descending intervals table with examples
 
 ---
 
-## Appendix 4: An Introduction to Beatles Song Form (p. 756)
+## Appendix 4
 
 ---
 
-## Appendix 5: Science, Surprise and the 'Tingle' factor (p. 765)
+## Appendix 5
 
 ---
 
-## Appendix 6: A Summary of Early Beatles Influences (p. 769)
+## Appendix 6
