@@ -30,6 +30,9 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 - What you're doing (intro)
 - Besame Mucho, coming out of chorus, and all the high string chord comping, and really all throughout
 - I feel Fine, intro
+- It won't be long
+- One after 909
+- Rocky raccoon (the vocalization I guess)
 
 ---
 
@@ -297,14 +300,14 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 - That seems to be what we get if we start 2 bars late, not one bar late... Hmm.. I guess it's 2 chords per bar.
 - ✅ _How do you do it?_ (0:32), nice "middle 8"
 - ✅ All my loving (0:00-0:06),
-- ✅ Fool on the hill (0:17-0:23), "Nobody wants to know him, they can see he's just a fool" (Em7 A7 D6 Bm6)
+- ✅✅ Fool on the hill (0:17-0:23), "Nobody wants to know him, they can see he's just a fool" (Em7 A7 D6 Bm6)
 - (p. 72) And sure, we also see just VI-V-I-vi (I want to hold your hand)
 
 #### Substitution summary - the diatonic 'families'
 
-- Tonic family (I, vi, iii): stability
-- Subdominant family (IV, ii): movement away from tonic
-- Dominant family (V, vii): movement toward tonic
+- **Tonic family** (I, vi, iii): stability
+- **Subdominant family** (IV, ii): movement away from tonic
+- **Dominant family** (V, vii): movement toward tonic
 
 ### iii minor
 
@@ -348,7 +351,7 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 - ✅ _Across the universe_: opening/intro, very clear I-vi-iii
 - ✅ _There's a place_: nice V-iii transition
 - ✅ _Nowhere man_ (iii to IV movement in chorus)
-- ✅ Ask me why: very last chord, iii-for-I subtitution
+- ✅✅ Ask me why: very last chord, iii-for-I subtitution
 
 #### The mediant and melody
 
@@ -373,6 +376,7 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 - ✅ _Yesterday_: uses same exact idea as Here there everywhere
 - ✅ _Moon river_, another great example of this vii-III-vi move.
 - Which, we reinterpret as a ii-V-i, modulating to the parallel minor scale. Nice (From E to C#m).
+- So, again, the 7-3-6-2-5-1 chain can be interpreted as 2 ii-V-I groups, linked together.
 
 ---
 
@@ -388,109 +392,112 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 
 - Recall Doo Woop cliche: I-vi-ii-V
 - Now replace the ii with a II7: the major third wants to resolve to the V's root.
-- Like Dreamers do
+- ✅ Like Dreamers do, 0:45, nice clear example of ii->II7->V7
 
 #### VI7 (the 'V of ii' or 'V of II')
 
 - In just the same way that II7 leaves to V, VI7 leads to II
 - So Doo Wop sequence (I-vi-ii-V) becomes I-VI7-II7-V7
-- Good day sunshine
-- I call your name
-- Hello little girl
-- Maxwell's silver hammer
+- ✅ Good day sunshine, verse
+- ✅ I call your name, verse
+- ✅ Hello little girl, intro, I-VI7-ii7-V7
+- ✅ Maxwell's silver hammer, verse
 - We also see I-VI7-ii-V-I
-- Little child
-- My Bonnie
-- Mr Moonlight
-- Her Majesty
+- ✅ Hello little girl, ending/postscript
+- ✅ Little child, ending/coda
+- ✅✅ Her Majesty
+- ✅ My Bonnie
+- ✅ Mr Moonlight
 
 #### II7 and the 'Imperfect Cadence' - 'the middle feeling'
 
 - (p. 102) Same idea as before: ending on the V without resolving to the I; the II7 contributes more strongly to this than the ii.
+- (Recall It Won't Be Long)
 - See: Jingle bells?
-- I will
+- ✅ I will: "Love you where we're apart...", II7-V7
 - (p. 104) 'The middle feeling' imperfect cadence: table of examples -- extended on p. 105
-- I'll get you
-- One after 909
+- ✅ Besame Mucho, 1:08
+- ✅ I'll get you, bridge, 1:09
+- ✅ One after 909, bridge, 0:55
 
 #### II7 and the Cycle of Fifths
 
-- Rocky Raccoon: vi7-II7-V7-I
+- ✅ Rocky Raccoon: vi7-II7-V7-I, mm just nasty, the vocals
 
 #### III7 (The 'V of vi' or 'V of VI')
 
-- Well what do you: Just as II is V of V, and VII is V of II, well, the III is V of VI.
+- Well what do you know: Just as II is V of V, and VII is V of II, well, the III is V of VI.
 - So we see III7 preparing the vi or VI7.
-- Ain't she sweet
-- Ask me why
-- You can't do that
-- Cry for a shadow
-- No reply
+- 🎵 Ain't she sweet
+- 🎵 Ask me why
+- 🎵 You can't do that
+- 🎵 Cry for a shadow
+- 🎵 No reply
 
 #### Case Study: 'Your Mother Should Know'
 
-- Your mother should know: vi-IV-VI7-ii-V7-I-VI7-II7-V7-I-III7 (and back to vi)
+- 🎵 Your mother should know: vi-IV-VI7-ii-V7-I-VI7-II7-V7-I-III7 (and back to vi)
 
 #### VII7 (the 'V of iii')
 
 - And aha! We are done! The V of III!
-- Sexy Sadie
+- 🎵 Sexy Sadie
 - (p. 113) Mr. Sandman: C-B7-E7-A7-D7-G7-C.
-- Martha My Dear
-- Moon River (and the chromatic cycle of Fifths): bV-VII7-iiim7-VI7-iim7-V7-I.
+- 🎵 Martha My Dear
+- 🎵 Moon River (and the chromatic cycle of Fifths): bV-VII7-iiim7-VI7-iim7-V7-I.
 - Again, it's: 7-3-6-2-5-1.
 
 #### The tonic secondary dominant 'V of IV' - The I7-IV change
 
 - Casting the I chord as the "V of IV".
-- (p. 116) If I Fell, Hey Jude, Oh Darling
-- This Boy
+- 🎵 (p. 116) If I Fell, Hey Jude, Oh Darling
+- 🎵 This Boy
 
 ### Non-Functioning Secondary Dominants
 
 #### II7
 
 - I-II(7)-IV-I
-- Eight days a week
-- You won't see me
+- 🎵 Eight days a week
+- 🎵 You won't see me
 - Stay with me, Lifestyles of the Rich and famous
 
 #### Voice-Leading in I-II-IV-I
 
 - (p. 118): In e.g. C-D7-F-C, a chromatic line is spelled out: G-F#-F-E.
-- (see Eight days a week)
+- 🎵 (see Eight days a week)
 - And we can do a vi-for-I to get vi-II-IV-I, shown in following two songs
-- She's leaving home
-- Yesterday
-- In my life (example of II-IV rather than expected II-V)
+- 🎵 She's leaving home
+- 🎵 Yesterday
+- 🎵 In my life (example of II-IV rather than expected II-V)
 
 #### III7
 
-- _Like dreamers do_
-- _I want to hold your hand_ (The III7, a B7, propels us up to IV of C, via its F# fifth and D# third, each going up a semitone.)
+- 🎵 _Like dreamers do_
+- 🎵 _I want to hold your hand_ (The III7, a B7, propels us up to IV of C, via its F# fifth and D# third, each going up a semitone.)
 - (And also exhibits the "vi-III" plunge from Em to B7)
-- _Solider of Love_
-- _Yes it is_
-- _You're Going to lose that girl_
-- _That means a lot_
-- _Piggies_
+- 🎵 _Solider of Love_
+- 🎵 _Yes it is_
+- 🎵 _You're Going to lose that girl_
+- 🎵 _That means a lot_
+- 🎵 _Piggies_
 
 #### VI7
 
 - (p. 126) Inherent dissonance between the major third of the VI7 and the parent key (it's the m2 interval).
 - It's used in a weirdly effective but "dysfunctional" way in following 2 songs.
-- _Revolution_
-- _Dr. Robert_
+- 🎵 _Revolution_
+- 🎵 _Dr. Robert_
 
 #### VII7
 
-- _I'm so tired_
-- _P.S. I Love you_
+- 🎵 _I'm so tired_
+- 🎵 _P.S. I Love you_
 - also the phrase C-B-C in Octopus's Garden
 
 #### Case Study: "Day Tripper"
 
-- _Day tripper_: I7-IV7-I7-II7-IV7-III7-VI7-V7.
+- 🎵 _Day tripper_: I7-IV7-I7-II7-IV7-III7-VI7-V7.
 - (p. 130) Here, the III7 is the only functioning secondary dominant.
 - Again, the VI7 contains the dissonant m2 interval.
 
@@ -505,16 +512,16 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 
 ### Surprise and the search for 'Mann's moment'
 
-- _Not a second time_: Finding the correct "Mann's moment" in the middle, not at the end
+- 🎵 _Not a second time_: Finding the correct "Mann's moment" in the middle, not at the end
 - At 1:47
 
 ### Playing 'tag' - The Interrupted/Deceptive cadence
 
 - (p. 141) deceptiveness and surprise of the "Aeolian" cadence, where I is replaced by vi: D7 leading not to G, but to Em
 - This is the Interrupted/Deceptive cadence: dominant to relative minor, or dominant to submediant
-- _The honeymoon song_ (early cover)
-- _Do you want to know a secret_ (debut album)
-- _Octopus's Garden_ ("in an octopus's garden with you")
+- 🎵 _The honeymoon song_ (early cover)
+- 🎵 _Do you want to know a secret_ (debut album)
+- 🎵 _Octopus's Garden_ ("in an octopus's garden with you")
 
 ### The Aeolian cadence - the search continues
 
@@ -530,19 +537,20 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 ### The Aeolian/Ionian connection
 
 - (p. 146) The equality of the Ionian and Aeolian "modes".
-- Here there and everywhere, and Yesterday, and the ii-V-vi sequence. (Recall Chapter 3 - where exactly?)
-- Key point: The D7 (the V of G major) is the bVII of Em (the relative Aeolian to which we shift).
+- Here there and everywhere, and Yesterday, and the ii-V-i sequence. (Recall Chapter 3 - yes, the "cyclical vii")
+- aka the vii-III-vi sequence.
+- **Key point: The D7 (the V of G major) is the bVII of Em (the relative Aeolian to which we shift).**
 
 ### The Aeolian cadence 'unmasked': the flattened leading note
 
 - (p. 147) So instead of describing the movement as V7-vi, we can describe it as bVII7-i. Neat.
 - A nice voice-leading table to show this.
-- _Not a second time_
+  -🎵 _Not a second time_
 
 ### The Aeolian cadence in typical context
 
 - A minor key song that uses the bVII-i move is...
-- _A Taste of honey_
+- 🎵 _A Taste of honey_
 
 ### 'Tonal ambiguity' - an introduction
 
@@ -551,16 +559,16 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 - Much of rest of book is about this: tonal ambiguity.
 - But there is always room for subjective interpretation, with tonality.
 - (p. 150) Lol Lennon dismissed Mann as a 'twit'.
-- _Do you want to know a secret_, 0:38
+- 🎵 _Do you want to know a secret_, 0:38
 
 ### Aeolian deception revisited - 'When I get home'
 
-- _When I get home_
+- 🎵 _When I get home_
 
 ### The Aeolian cadence revisited - 'bVII-I' major
 
 - (p. 152) The "V7" (e.g. G7 of C) can pull us not only toward the vi (Am) but also toward VI (A or A7).
-- _When I get home_
+- 🎵 _When I get home_
 
 ### Main Takeaways
 
@@ -623,7 +631,7 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 - I'm happy just to dance with you
 - (p. 169) Again, we see B play the pivot chord role in key of E or C#m.
 - I should have known better
-- Shows both pivots: Uses the I's V === vi's bVII to pivot to I, and then the I's III7 === vi's V7 to pivot out of I, to vi (or, "i").
+- **Shows both pivots: Uses the I's V === vi's bVII to pivot to I, and then the I's III7 === vi's V7 to pivot out of I, to vi (or, "i").**
 - Don't ever change
 - Example: In key of E, we have B7 as the pivot chord into C#m key.
 - And, we have G#7 as the III7 of E, who is also the V7 of the new C#m key.
