@@ -4,14 +4,6 @@ A ✅ next to a song signifies that we have listened to it.
 
 Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songwriting-secrets-of-the-beatles/Songwriting%20Secrets%20of%20The%20Beatles.pdf).
 
-- [Chapter 1](https://github.com/zackstout/beatles-songwriting/blob/master/README.md#chapter-7-borrowingand-the-rise-of-rock-p-200)
-- [Chapter 2](https://github.com/zackstout/beatles-songwriting/blob/master/README.md#chapter-7-borrowingand-the-rise-of-rock-p-200)
-- [Chapter 3](https://github.com/zackstout/beatles-songwriting/blob/master/README.md#chapter-7-borrowingand-the-rise-of-rock-p-200)
-- [Chapter 4](https://github.com/zackstout/beatles-songwriting/blob/master/README.md#chapter-7-borrowingand-the-rise-of-rock-p-200)
-- [Chapter 5](https://github.com/zackstout/beatles-songwriting/blob/master/README.md#chapter-7-borrowingand-the-rise-of-rock-p-200)
-- [Chapter 6](https://github.com/zackstout/beatles-songwriting/blob/master/README.md#chapter-7-borrowingand-the-rise-of-rock-p-200)
-- [Chapter 7](https://github.com/zackstout/beatles-songwriting/blob/master/README.md#chapter-7-borrowingand-the-rise-of-rock-p-200)
-
 ---
 
 ## Tables of Examples
@@ -27,6 +19,7 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 ## Voice Leading Tables
 
 - (p. 41) Voice lading in the Plagal cadence
+- (p. 67) Voice leading in the iim7-V7 change
 - (p. 224) Voice-leading in thd VII 'Pre-dominant' of'All l\1y Loving'
 
 ## Nice Riffs
@@ -36,6 +29,7 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 - Anna (go to him), intro
 - What you're doing (intro)
 - Besame Mucho, coming out of chorus, and all the high string chord comping, and really all throughout
+- I feel Fine, intro
 
 ---
 
@@ -252,17 +246,19 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 - (p. 62) Shared notes -- the ii is the relative minor of the IV
 - Ex: D-F-A vs F-A-C
 - ✅ _This boy_
-- _Tell me why_
-- (p. 64) You're going to lose that girl,
-- I will,
-- penny lane
+- ✅ _Tell me why_
+- ✅ (p. 64) You're going to lose that girl,
+- ✅ I will,
+- ✅ penny lane
 - (p. 65) All a variation on the original Three-chord I-IV-I-V, adding in vi-for-I and ii-for-IV.
 
 #### (b) The diatonic walk: I-ii and beyond
 
 - I-ii-iii-IV-V walk
-- _Don't let me down_
-- _Getting better_
+- ✅ _Don't let me down_ (I-ii)
+- If I fell, I'm only sleeping (I-ii-iii)
+- Here there and everywhere, Sexy Sadie (I-ii-iii-IV)
+- ✅ _Getting better_ (all the way up to V)
 - _Boys don't cry_, _Like a rolling stone_ (Hendrix cover)
 
 #### (c) ii-V-I - the role of ii as a 'pre-dominant'
@@ -282,15 +278,16 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 ##### Ending a section with a prepared Perfect cadence
 
 - Can use the ii-V-I to end a song or section.
-- _Got to get you into my life_
-- _Tell me why_
+- ✅ _Got to get you into my life_ ("every single day of my life...")
+- ✅ _Tell me why_ (1:40, end of bridge)
 
 ##### Ending a section with an Imperfect cadence
 
 - (p. 70) A simple ii-V to end it, leave things "hanging".
-- _It won't be long_
-- Oh Darling and I'm a Loser
-- _Sun king_
+- ✅ _It won't be long_ (0:50)
+- Oh Darling and
+- ✅ I'm a Loser (opening)
+- ✅ _Sun king_
 
 ##### The four-chord cycle revisited - ii-V-I-vi
 
@@ -298,8 +295,9 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 - (and it becomes a ii-V-I! -- Reinterpreting the V as new I!)
 - (p. 71) So we get a ii-V-I-vi (??? -- if we actually cycle by 2 chords, and don't reinterpret V as I)
 - That seems to be what we get if we start 2 bars late, not one bar late... Hmm.. I guess it's 2 chords per bar.
-- All my loving (0:00-0:06), Fool on the hill (0:17-0:23)
-- _How do you do it?_
+- ✅ _How do you do it?_ (0:32), nice "middle 8"
+- ✅ All my loving (0:00-0:06),
+- ✅ Fool on the hill (0:17-0:23), "Nobody wants to know him, they can see he's just a fool" (Em7 A7 D6 Bm6)
 - (p. 72) And sure, we also see just VI-V-I-vi (I want to hold your hand)
 
 #### Substitution summary - the diatonic 'families'
@@ -311,48 +309,53 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 ### iii minor
 
 - Can be substituted for the vi in the 4 chord (I-vi-IV-V) and Doo Woop (I-vi-ii-V)
-- _I feel fine_ (shows both example substitutions)
+- ✅ _I feel fine_ (shows both example substitutions), nice "middle eight", "I'm so glad that she's my little girl..."
 - _I'm happy just to dance with you_
 - _Do you want to know a secret_ (very similar chord progressino to above)
 - (p. 75) the mediant is the middle point between the tonic and the dominant
 - (p. 76) McCartney's 'formula' - The 'iii-chord Trick': table of examples
-- "I read the _news_ today..."
+- ✅ A Day in the Life - "I read the _news_ today..."
+- ✅ Help! - "When I was younger so much _younger_ than today..."
 
 #### The I-iii scale walk in the 12-bar blues
 
 - I7-ii7-iii7-biii7-ii7-V7-I
+- ✅ They call it (stormy monday), T. Bone Walker
 - (p. 76) The fifth of the iii7 is the major 7 of parent key, which gives a cheerier version of the blues.
-- _Ask me why_
-- i-iii-vi progression:
-- _If you gotta make a fool of somebody_
-- _Help!_
-- _A hard day's night_
-- And indeed, the iii-vi is a descending fifth. What do you know!
+- ✅ _Ask me why_
+- I-iii-vi progression:
+- ✅ _If you gotta make a fool of somebody_
+- ✅ _Help!_, I-iii-vi, cf. bridge of Something
+- ✅ _A hard day's night_ (bridge)
+- And indeed, the iii-vi is a descending fifth. What do you know! So natural progression.
 
 #### The mediant and the Cycle of Fifths
 
 ##### The cycle of fifths
 
 - _Moon river_ and _Fly me to the moon_, travelling around the cycle (starting at least at iii)
-- _Can't buy me love_ as textbook example
-- _Golden slumbers_ as another one
+- ✅ _Can't buy me love_ as textbook example, intro
+- ✅ _Golden slumbers_ as another one, 0:20
 - _The long and winding road_
 
 #### Reversing direction - The 'vi-iii' minor drop
 
 - (p. 83) Dropping a 4th from the vi to the iii
-- _I will_ (changing from I-vi-ii-V to I-vi-iii-V)
-- _Please please me_
-- (p. 85) She Loves you and Julia
-- _Across the universe_
-- _There's a place_
-- _Nowhere man_ (iii to IV movement)
+- ✅ _I will_ (changing from I-vi-ii-V to I-vi-iii-V)
+- ✅ _Please please me_: gorgeous example in the pre-chorus: see the C#m and F#m not as part of E, but as part of the IV, A, which is trying to assert itself.
+- (p. 85) She Loves you, and
+- Julia
+- ✅ _Across the universe_: opening/intro, very clear I-vi-iii
+- ✅ _There's a place_: nice V-iii transition
+- ✅ _Nowhere man_ (iii to IV movement in chorus)
+- ✅ Ask me why: very last chord, iii-for-I subtitution
 
 #### The mediant and melody
 
 - (p. 86) the submediant includes the parent scale's "leading tone", major 7, as its stable fifth -- not just "leading" somewhere.
 - Using both this 7 and the blusey minor 7 is cool and fun.
-- _She's a woman_
+- ✅ _She's a woman_, 0:38
+- Melodic (natural) seventh over the iii
 
 ### The elusive vii chord
 
@@ -361,14 +364,15 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 
 #### The cyclical vii7
 
-- _Here there and everywhere_
+- ✅ _Here there and everywhere_: verse is in G, then the F#m7b5-B7 pulls us toward Em.
 
 #### The pull to vi
 
 - (p. 91) MODULATION INTRODUCED: The vii descends a fifth to the III, which then descends a fifth to the vi.
 - So you can use it to modulate into the relative minor (vi) key, with a "ii-V-i" move.
-- _Yesterday_
-- _Moon river_, another great example of this vii-III-vi move.
+- ✅ _Yesterday_: uses same exact idea as Here there everywhere
+- ✅ _Moon river_, another great example of this vii-III-vi move.
+- Which, we reinterpret as a ii-V-i, modulating to the parallel minor scale. Nice (From E to C#m).
 
 ---
 
