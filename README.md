@@ -609,11 +609,11 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 
 - If we follow the diatonic rules, the v in a minor key is minor, not major. So (how) do we get the dominant sound?
 - Usually, we break the rules and use the V7.
-- Things we said today: Am-Em7
+- 🎵 Things we said today: Am-Em7
 
 #### Breaking the diatonic minor rules - the 'borrowed V7'
 
-- Cayenne: Em-Am-B7
+- 🎵 Cayenne: Em-Am-B7
 - (p. 165) The V7 helps to establish the tonality of the i center -- since the whole step from original v's root up doesn't have same pull as half-step involved in the major scale version of the cadence.
 - This leads us to...
 - The harmonic minor scale!
@@ -623,23 +623,27 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 
 #### (1) The relative minor bridge
 
-- There's a Place -- first example of flirting with this tonal ambiguity.
+- 🎵 There's a Place -- first example of flirting with this tonal ambiguity.
 - Recall our pivot chord from before: The I's V, equals the vi's bVII.
 - This can be used in conjunction with the V-i to reinforce the minor tonality.
 - (p. 168) The V in a V7-i cadence can also be viewed as a "functioning secondary dominant", III7, in the original I key.
 - That is: The III7, which we saw is "V of vi", can also be seen as the V7 leading into the new i home.
-- I'm happy just to dance with you
+- 🎵 I'm happy just to dance with you
 - (p. 169) Again, we see B play the pivot chord role in key of E or C#m.
-- I should have known better
+- 🎵 I should have known better
 - **Shows both pivots: Uses the I's V === vi's bVII to pivot to I, and then the I's III7 === vi's V7 to pivot out of I, to vi (or, "i").**
-- Don't ever change
+- 🎵 Don't ever change
 - Example: In key of E, we have B7 as the pivot chord into C#m key.
 - And, we have G#7 as the III7 of E, who is also the V7 of the new C#m key.
 
 #### 'vi at the bridge' - move or modulation?
 
-- Examples of mere move: _Drive my Car_, _In My Life_
-- Examples of true modulation: _We Can Work it out_, _When I'm Sixty Four_
+- Examples of mere move:
+- 🎵 _Drive my Car_,
+- 🎵 _In My Life_
+- Examples of true modulation:
+- 🎵 _We Can Work it out_,
+- 🎵 _When I'm Sixty Four_
 
 #### Minor to relative major switches - a caveat
 
@@ -650,8 +654,8 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 
 #### (2) The relative major chorus
 
-- Girl, each key is reinforced by its dominant V7.
-- I'm Only Sleeping: uses the bVI of the i, or the IV of the I, as pivot chord, this time.
+- 🎵 Girl, each key is reinforced by its dominant V7.
+- 🎵 I'm Only Sleeping: uses the bVI of the i, or the IV of the I, as pivot chord, this time.
 - Ex: Cb, between Eb minor and Gb major.
 - (p. 178) Roxanne, Watching the Detectives
 
@@ -663,14 +667,15 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 #### 'And I love her' - the final chord - a Picardy third?
 
 - (p. 180) Picardy third: when the minor iii has its third lifted up a semitone to make it into a major triad.
-- Cf. end of _A Taste of Honey_, or _Shine on you crazy diamond_
+- 🎵 Cf. end of _A Taste of Honey_,
+- or _Shine on you crazy diamond_
 
 ### Part 1.5: Minor-key Progressions
 
 #### (a) The 'minor two-five-one': 'ii7b5-V7-i'
 
 - The ii7b5 is rarely used, but a neat dark tone
-- _You never give me your money_ (and cycle of fifths!), great example.
+- 🎵 _You never give me your money_ (and cycle of fifths!), great example.
 - Again, note the use of the bVII of the i (or the V of the I) as pivot chord.
 
 #### (b) The diatonic minor Cycle of Fifths
@@ -680,41 +685,38 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 - but wasn't this also true in the original Cycle????
 - _Autumn Leaves_, _I will survive_
 - And again, recall Can't buy me leave and Golden slumbers from Ch. 3
-- _Carry that weight_: G as the pivot chord moving us from Am to C major. (same idea we've seen a few times)
+- 🎵 _Carry that weight_: G as the pivot chord moving us from Am to C major. (same idea we've seen a few times)
 
 #### (c) The bVI7-V7-i resolution
 
 - Ex: Eb7 / D7 / Gm
 - The thrill is gone, Sweet dreams (Are made of this)
-- _Besame Mucho_
-- _I want you (she's so heavy)_
+- 🎵 _Besame Mucho_
+- 🎵 _I want you (she's so heavy)_
 
 #### (d) The minor rock runs: bVI-bVII-i and i-bVII-bVI-V7
 
 - Ex: F / G / Am in key of Am
-- _The story of Bungalow Bill_, Layla, Stairway to Heaven
+- 🎵 _The story of Bungalow Bill_, Layla, Stairway to Heaven
 - Ex: Am / G / F / E7
-- _Runaway_ (Del shannon), Don't let me be misunderstood, Sultans of Swing
-- (p. 186) Also in the bassline of We can work it out
+- 🎵 _Runaway_ (Del shannon),
+- Also: Don't let me be misunderstood, Sultans of Swing
+- 🎵 (p. 186) Also in the bassline of We can work it out
 
 ### Part 2: parallel major/minor switches
 
 - Now we'll look at cases of switching not to the relative minor, but to the parallel minor.
-- _I'll be back_
+- 🎵 _I'll be back_
 - (p. 188) Using E to take us from Am to A, and the melody intermingles C and C#. Cool.
-- _Norwegian Wood_
+- 🎵 _Norwegian Wood_
 - Has a parallel minor bridge (claimed by McCartney), cf. Michelle, whose parallel minor bridge Lennon claims
 - Note how the ii-V-I takes us out of i and into I. ("so I looked around and I noticed there wasn't a chair...")
 - i-bIII-bIV-V7 seen in Michelle, starting at "I love you, I love you, I love you..."
-- _Night and day_
-- _The fool on the hill_: great move from D major to D minor, facilitated by ii7-V7-i.
+- 🎵 _Night and day_
+- 🎵 _The fool on the hill_: great move from D major to D minor, facilitated by ii7-V7-i.
 - (p. 192) Table of examples from Beatles songs
-- _Come together_: mostly in Dm, but we emphasize the Bm chord in a way that feels like brief move to D major.
+- 🎵 _Come together_: mostly in Dm, but we emphasize the Bm chord in a way that feels like brief move to D major.
 - Nice fall from Bm to A to G, back to A.
-
----
-
-(Woof: next 4 chapters, 7-10, take as many pages as 1-6.)
 
 ---
 
@@ -722,99 +724,100 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 
 ### (a) iv minor
 
-- That Means a lot
-- What Goes on
-- I'll follow the sun
-- Nowhere Man
-- All I've Got to do
-- Real Love
-- The continuing story of Bungalow Bill
+- 🎵 That Means a lot
+- 🎵 What Goes on
+- 🎵 I'll follow the sun
+- 🎵 Nowhere Man
+- 🎵 All I've Got to do
+- 🎵 Real Love
+- 🎵 The continuing story of Bungalow Bill
 
 ### (b) v minor
 
-- I'll Get you
-- Strawberry Fields
-- She's Leaving home
-- Julia
-- Sun King
+- 🎵 I'll Get you
+- 🎵 Strawberry Fields
+- 🎵 She's Leaving home
+- 🎵 Julia
+- 🎵 Sun King
 
 #### Dominant minor substitution rule
 
-- (p. 209) 'When a dominant seventh chord appears, you can substitute a minor chord a fifth above.'
-- Something
+- (p. 209) **'When a dominant seventh chord appears, you can substitute a minor chord a fifth above.'**
+- 🎵 Something
 
 ### (c) bVI
 
-- P.S. I love you, and, Do you wnat to know a secret.
-- It won't be long
-- Honey Don't
-- Til There was you
-- I saw her standing there
-- Hello Goodbye
-- When I'm 64
-- Ain't She sweet (bridge)
-- Oh! Darling (bridge)
+- 🎵 P.S. I love you, and,
+- 🎵 Do you wnat to know a secret.
+- 🎵 It won't be long
+- 🎵 Honey Don't
+- 🎵 Til There was you
+- 🎵 I saw her standing there
+- 🎵 Hello Goodbye
+- 🎵 When I'm 64
+- 🎵 Ain't She sweet (bridge)
+- 🎵 Oh! Darling (bridge)
 
 #### The 'bVI7' 'pre-dominant'
 
-- Ain't She sweet
-- I call your name
-- Mean Mr Mustard
+- 🎵 Ain't She sweet
+- 🎵 I call your name
+- 🎵 Mean Mr Mustard
 
-### (d) bVI7 and the crazy case of 'Honey Pie'
+#### bVI7 and the crazy case of 'Honey Pie'
 
-- Honey Pie
+- 🎵 Honey Pie
 
-### (e) bIII
+### (d) bIII
 
-- Please please me
-- Magical Mystery Tour
-- Back in the USSR
-- Please please me (again!)
+- 🎵 Please please me
+- 🎵 Magical Mystery Tour
+- 🎵 Back in the USSR
+- 🎵 Please please me (again!)
 
-### (f) bVII
+### (e) bVII
 
 #### bVII as a 'pre-dominant': fueling the V7
 
-- All my loving
+- 🎵 All my loving
 - (p. 224) voice leading
-- Help!
+- 🎵 Help!
 
 #### bVII and the Four-Chord Turnaround
 
-- The Night Before
-- Another Girl
-- The Word
+- 🎵 The Night Before
+- 🎵 Another Girl
+- 🎵 The Word
 
 #### The Cycle of Fifths revisited - the sharp and flat side of 'Lovely Rita'
 
-- Lovely Rita
-- Every day
+- 🎵 Lovely Rita
+- 🎵 Every day
 
 #### The Power of the bVII-I 'major rock' cadence
 
-- A Hard Day's night
-- Help!
-- We Can work it out
+- 🎵 A Hard Day's night
+- 🎵 Help!
+- 🎵 We Can work it out
 
 #### Reconceiving the bVII-I cadence: the 'Reverse Dominant Minor Substitution'
 
-- Hello Goodbye
-- 'Given a minor chord, we can substitute a dominant seventh chord a fourth higher.'
+- 🎵 Hello Goodbye
+- **'Given a minor chord, we can substitute a dominant seventh chord a fourth higher.'**
 
 #### Theory interlude
 
 #### The Beatles origins of the 'major' Aeolian rock run: bVI-bVII-I
 
-- P.S. I love you
-- Lady Madonna
-- Polythene Pam
+- 🎵 P.S. I love you
+- 🎵 Lady Madonna
+- 🎵 Polythene Pam
 
 #### A post-Beatles tour of the major 'Aeolian rock run'
 
 #### 'Borrowing' - the primary text: 'I Am the Walrus'
 
-- I am the Walrus
+- 🎵 I am the Walrus
 
 #### Schenker revisited: the bVII 'spanner in the works'
 
@@ -882,9 +885,204 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 
 ## Chapter 11: Diminished: Songwriting Sleight-of-Hand (p. 403)
 
+- A 'handle with care' chord: often (wrongly!) assumed to be reserved for speciality jazz use.
+- When none of its notes are a leading note of the following chord, it is passing.
+- Otherwise, it is sub-for-dom, or dominant substitute.
+
+### Part 1: Diminished as a passing chord
+
+- 🎵 Like Dreamers do
+- The dim7 can help to harmonize with the b5 "blue note", or all the microtones between 4 and 5. (aka, tritone city.)
+
+#### Theory interlude: the structure of the diminished seventh
+
+- Whole-half scale, and Half-whole scale, both give rise to dim7.
+- Each contains 8, rather than the usual 7, notes.
+- (p. 406) 3 minor thirds stacked up, which creates 2 tritone intervals (!).
+- 🎵 The Sheik of Araby (intro)
+- Substitution of vi dim7 for vi, in the typical Doo wop cliche (I-vi-ii-V)
+- Has voice leading from G (fifth of C) to Gb (bb7 of Am) to F (m3 of Dm7).
+
+#### How A dim subs for 'vi' in a Four-Chord Turnaround
+
+- (p. 408) Rarely, we see a IV-VII7-I, to emphasize the plagal cadence.
+- This can be softened with the #iv dim.
+
+#### The #iv dim and the 12-bar blues
+
+- I / IV / I / I / IV / #iv dim / I
+- Cool voice leading from root of IV, to its sharp, and up one more to the fifth of the I.
+- 🎵 Hallelujah, I love her so
+
+#### Relating a diminished chord to a dominant 7b9
+
+- 🎵 It won't be long
+- (p. 410) A# dim7 === A7b9.
+- Omg, this is what we've seen in the shapes -- the 7b9 is weird and can be construed as multiple different diminished chords!!!
+- **The b9 rule: When a 7b9 chord appears, you can substitute a dim7 built on a root a semitone higher.**
+- Cf. Cole Porter's "True Love"
+- 🎵 The End (intro theme)
+- (p. 413) The IV-#ivdim-I is a way of "supercharging" the plagal cadence.
+- Instead of descending like the IV-iv-I voice leading, this one ascends. Cool "mirror image".
+
+### Part 2: Diminished as a dominant substitute
+
+- Since it contains double tritones, it can be substituted for multiple different dominant seventh chords.
+- _The harmonic minor scale is the only scale that contains the dim 7 as a diatonic chord._
+- 🎵 S.O.S. (verse), Abba
+- (p. 415) The vii dim 7 (e.g. C# dim7 in D minor) has almost all same notes as the V7 (e.g. A7b9 with no root, in D minor).
+- So it can function as a surrogate dominant, even outside of the harmonic minor habitat.
+- And... INDEED! We can see that C# and A# are separated by a minor third.
+- And we saw in previous section that A# dim7 can sub for A7b9.
+- And now we see that C# dim7 can do the same thing.
+- Aha...!
+- And that is because of....
+
+#### The symmetry of diminished and its inversions
+
+- C#-E-G-Bb
+- D-F-G#-B
+- Eb-F#-A-C
+- Notice that memorizing these 3 sequences also gives you all the tritones.
+- **So, when going to D minor tonic, any of C# dim7, E# dim7, G# dim7, and Bb dim7, can function as a primary dominant substitute.**
+- So if we are doing a ii-V-I in D, we are going Em-A7-D.
+- Any of following can substitute for A7: C#dim, Edim, Gdim, Bbdim
+- These are the vii, ii, iv, and bvi.
+- These last 3 will be exemplified by I want to tell you, You won't see me, and Because.
+
+#### Subbing for a I7 that cues a bridge on IV
+
+- 🎵 Till there was you (1:22), one of Harrison's "most enlightened" solos
+- 🎵 Blue Jay Way (0:21), the initial melody rising by 2 minor thirds.
+
+#### Dimished for primary dominant - 'the vii dim7 of I'
+
+- 🎵 I want to tell you (0:36)
+- This song is in A, and uses E7b9 === Bdim7 to interesting effect. (built on the ii)
+- 🎵 I want to tell you (0:59)
+- 🎵 You won't see me (1:18), bridge, we have E7 wanting to return to A, but it becomes D dim. (built on the iv)
+
+#### Diminished for secondary dominant - 'vii dim7 of ii, iii, and vi'
+
+- (p. 422) Will focus on the II7, III7 and VI7, from Chapter 4.
+
+##### #i dim - or the 'vii dim7 of ii'
+
+- 🎵 Til there was you (0:07)
+- #i dim7 can substitute for VI 7b9.
+- So we see: I - #i dim7 - ii - V.
+- 🎵 My Sweet Lord
+- Here we see: I - #i dim7 - VI7 - ii - V.
+- 🎵 Blackbird
+- 🎵 Life on mars
+- 🎵 Don't look back in anger
+- 🎵 The tears of a clown
+- 🎵 I'm not in love
+
+##### #iv dim to V: The Imperfect Cadence revisited
+
+- #iv dim is the most popular of all diminished chords in practice.
+- It functionally replaces the II on the way to V.
+- 🎵 Old Brown Shoe
+- 🎵 You Know my name
+- (p. 429) quick summary table
+- 🎵 Michelle
+
+- 🎵 September in the Rain
+- 🎵 You never give me your money
+- 🎵 Ghost Town
+- 🎵 Because (... long time...)
+- 🎵 Moonlight Sonata
+
 ---
 
 ## Chapter 12: Tritone Subtitutions and Other Mystery Chords (p. 454)
+
+Some harmonic colors we've seen:
+
+- 6th of Can't buy me love
+- dominant 9 of This boy
+- augmented thrill of Please please me
+- slick diminished of It won't be long
+- jazzy maj7 of Till there was you
+- 9 in intro of Cry for a shadow
+- 7#5 in The sheik of araby
+- diminished ornamentation in Like Dreamers do
+- 6/9 closer in Hello little girl
+
+Let's look at some more wacky chords they used.
+
+### The Gretty Chord Mystery - from Whitechapel to the World Wide Web
+
+- The 7#9 chord, aka the Hendrix chord.
+- The 7#9 chord on Till there was you, Gretty said it was used again in Michelle ("ma belle").
+- (p. 458) Played on E string root with b7 and #9 on B and E strings, respectively (3 frets up from root).
+- So, no! It's NOT Bbm7! It's Bb7#9!
+- 🎵 Till There was you (Solo at 1:10)
+- 🎵 Michelle (verse at 0:08)
+- 🎵 Taxman (refrain at 1:25)
+- In this case, the chord is played on the A string root, and it also known as the Hendrix chord.
+- (p. 460) In both cases we have a IV 7#9.
+- In Taxman, we have a bVII-IV-I, double plagal descent.
+- Whereas in Michelle, we have a I-IV-bVII, double fifths descent.
+
+### Tritone or 'Flat Five' substitution
+
+- 🎵 Til There was you: Gm7-Gb7#9-F
+- Here the Gb is replacing a C7
+- Tritones become mirror images in the substituted 7th, right.
+- (p. 462) So in addition to annotating things as the 'V of x', we can also say, the 'bII of x'.
+- 🎵 Sexy Sadie: II7-bII7#9-I.
+
+### Beyond the Gretty Chord - More Beatles tritone subs
+
+- We more often see the 7b5 used as tritone substitution.
+- The reason is that the b5 mirrors the root of the replaced chord.
+- e.g. E7 and Bb7b5
+
+### bII: Tritone substitution and the Phrygian cadence
+
+- 🎵 Things we said today
+- Replaces a II-V-I with a II-bII-i.
+- 🎵 You're going to lose that girl
+- 🎵 If I fell (intro to verse)
+
+### More Tritone substitution - beyond the V replacement
+
+- 🎵 Here there and everywhere
+- 🎵 Back in the USSR
+- 🎵 Tell me Why
+- 🎵 Hello Little Girl
+- 🎵 I remember You
+
+### Polychords: more inversions, slash chords and cool cadences
+
+- 🎵 All I've got to do
+
+### What is a Polychord?
+
+- 🎵 Only a Northern song: verse
+- 🎵 All you need is love
+
+### Slash chords and Combination cadences
+
+- 🎵 The long and winding road
+
+#### The long and winding road
+
+#### Martha my dear
+
+- 🎵 Martha my dear
+- 🎵 Sun king
+- 🎵 You never give me your money
+
+### The special case of 'add 6' and 'minor 6'
+
+#### The added 6th and its inversion
+
+#### The minor 6th and its incarnations
+
+- 🎵 Honey pie
 
 ---
 
