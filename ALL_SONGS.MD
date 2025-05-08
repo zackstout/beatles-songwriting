@@ -8,28 +8,28 @@ Wow I cannot believe how long these wiki articles are...
 
 ### Beatlemania (1962-64)
 
-- Please Please Me
-- With the Beatles
-- Hard Day's Night
-- Beatles for Sale
+- _Please Please Me_
+- _With the Beatles_
+- _Hard Day's Night_
+- _Beatles for Sale_
 
 ### Transitional/Folk-Rock (1965-66)
 
-- Help!
-- Rubber Soul
-- Revolver
+- _Help!_
+- _Rubber Soul_
+- _Revolver_
 
 ### Psychedelic
 
-- Sgt. Pepper's Lonely Hearts Club Band
-- Magical Mystery Tour
-- White Album
-- (Yellow Submarine?)
+- _Sgt. Pepper's Lonely Hearts Club Band_
+- _Magical Mystery Tour_
+- _White Album_
+- (_Yellow Submarine_?)
 
 ### Farewell
 
-- Abbey Road
-- Let It Be
+- _Abbey Road_
+- _Let It Be_
 
 ## Please Please Me (1963)
 
