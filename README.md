@@ -16,7 +16,7 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 - [Chapter 6: Relative and Parallel Minor Switches (p. 161)](#Chapter-6)
 - [Chapter 7: "Borrowing"...and the Rise of Rock (p. 200)](#Chapter-7)
 - [Chapter 8: The Modal Connection (p. 250)](#Chapter-8)
-- [Chapter 9: Descending Bass, Inversions and 'Aug' chords (. 309)](#Chapter-9)
+- [Chapter 9: Descending Bass, Inversions and 'Aug' chords (p. 309)](#Chapter-9)
 - [Chapter 10: Middle Eights and Mega Modulations (p. 356)](#Chapter-10)
 - [Chapter 11: Diminished: Songwriting Sleight-of-Hand (p. 403)](#Chapter-11)
 - [Chapter 12: Tritone Subtitutions and Other Mystery Chords (p. 454)](#Chapter-12)
@@ -33,10 +33,6 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 - [Appendix 5: Science, Surprise and the 'Tingle' factor (p. 765)](#Appendix-5)
 - [Appendix 6: A Summary of Early Beatles Influences (p. 769)](#Appendix-6)
 
-## Lyrics
-
-- When you find yourself in the thick of it, help yourself to a bit of what is all around you
-
 ## Tables of Examples
 
 - (p. 12) Dramatic dominants
@@ -47,9 +43,96 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 - (pp. 104-105) 'The middle feeling' imperfect cadence
 - (p. 192) Parallel major/minor switch
 
+## Chord Progressions/Motifs
+
+V:
+
+- 5-4-3-2-1 (p. 20)
+- I7-IV7-V7 (p. 34)
+
+IV:
+
+- IV-I (p. 41)
+- IV-iv (p. 45)
+- I-IV (p. 47)
+- I-IV-V (p. 49)
+- I-IV-I-V
+- I-vi-I-vi
+- I-vi-IV-V (p. 60)
+
+ii:
+
+- I-vi-ii-V (doo woop)
+- I-ii-iii-IV-V
+- ii-V-I (perfect)
+- iim7-V7-I
+- ii-V (imperfect)
+- ii-V-I-vi (rotated doo woop), Fool on a hill
+
+iii:
+
+- I-iii-IV-V
+- I-iii-ii-V, both in I Feel fine
+- I7-ii7-iii7-biii7-ii7-V7-I
+- I-iii-vi
+- I-vi-iii-V
+
+vii:
+
+- vii-III-vi (a ii-V-i in disguise)
+
+II7:
+
+- I-vi-II7-V
+- II7-V7
+- vi7-II7-V7-I (Rocky Raccoon)
+- I-II(7)-IV-I (Eight days a week: non-functioning)
+
+VI7:
+
+- I-VI7-II7-V7
+- I-VI7-ii-V-I
+
+III7:
+
+- vi-IV-VI7-ii-V7-I-VI7-II7-V7-I-III7 (Your mother should know)
+- III7-IV (I want to hold your hand, non-functioning)
+- I7-IV7-I7-II7-IV7-III7-VI7-V7 (Day tripper)
+
+VII7;
+
+- bV-VII7-iiim7-VI7-iim7-V7-I (Moon River)
+
+I7:
+
+- I7-IV
+
+i:
+
+- bVII-i (aka V7-vi)
+- bVII-I (aka V7-VI)
+- i-iv-V7
+- ...
+- ii7b5-V7-i
+- i -> iv -> bVII -> bIII -> bVI -> ii -> V -> i (Cycle of fifths)
+- bVI7-V7-i
+- bVI-bVII-i
+- i-bVII-bVI-V7
+- i-bIII-bIV-V7
+
+## Chords
+
+- 7
+- 9
+- 6
+- 7#5
+- 7sus4
+- 7#9
+- 7b9
+
 ## Voice Leading Tables
 
-- (p. 41) Voice lading in the Plagal cadence
+- (p. 41) Voice leading in the Plagal cadence
 - (p. 67) Voice leading in the iim7-V7 change
 - (p. 224) Voice-leading in thd VII 'Pre-dominant' of'All l\1y Loving'
 
@@ -64,6 +147,11 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 - It won't be long
 - One after 909
 - Rocky raccoon (the vocalization I guess)
+
+## Lyrics
+
+- When you find yourself in the thick of it, help yourself to a bit of what is all around you
+- Fun is the only thing money can't buy
 
 ---
 
@@ -753,7 +841,7 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 
 ## Chapter 7
 
-### (a) iv minor
+### (a) iv minor (e.g. Fm)
 
 - 🎵 That Means a lot
 - 🎵 What Goes on
@@ -763,7 +851,7 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 - 🎵 Real Love
 - 🎵 The continuing story of Bungalow Bill
 
-### (b) v minor
+### (b) v minor (e.g. Gm)
 
 - 🎵 I'll Get you
 - 🎵 Strawberry Fields
@@ -776,7 +864,7 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 - (p. 209) **'When a dominant seventh chord appears, you can substitute a minor chord a fifth above.'**
 - 🎵 Something
 
-### (c) bVI
+### (c) bVI (e.g. Ab)
 
 - 🎵 P.S. I love you, and,
 - 🎵 Do you wnat to know a secret.
@@ -799,14 +887,14 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 
 - 🎵 Honey Pie
 
-### (d) bIII
+### (d) bIII (e.g. Eb)
 
 - 🎵 Please please me
 - 🎵 Magical Mystery Tour
 - 🎵 Back in the USSR
 - 🎵 Please please me (again!)
 
-### (e) bVII
+### (e) bVII (e.g. Bb)
 
 #### bVII as a 'pre-dominant': fueling the V7
 
@@ -1101,7 +1189,7 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 - 🎵 You Know my name
 - (p. 429) quick summary table
 - 🎵 Michelle
-
+- ...
 - 🎵 September in the Rain
 - 🎵 You never give me your money
 - 🎵 Ghost Town
