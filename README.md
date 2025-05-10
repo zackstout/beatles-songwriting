@@ -33,6 +33,10 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 - [Appendix 5: Science, Surprise and the 'Tingle' factor (p. 765)](#Appendix-5)
 - [Appendix 6: A Summary of Early Beatles Influences (p. 769)](#Appendix-6)
 
+## Lyrics
+
+- When you find yourself in the thick of it, help yourself to a bit of what is all around you
+
 ## Tables of Examples
 
 - (p. 12) Dramatic dominants
@@ -53,10 +57,10 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 
 - Twist and shout, 1:08
 - Devil in her Heart, 0:24
-- Anna (go to him), intro
+- Anna (go to him), intro/all
 - What you're doing (intro)
 - Besame Mucho, coming out of chorus, and all the high string chord comping, and really all throughout
-- I feel Fine, intro
+- ✅ I feel Fine, intro
 - It won't be long
 - One after 909
 - Rocky raccoon (the vocalization I guess)
@@ -852,31 +856,114 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 
 ## Chapter 8
 
+- 'A mode is an inverted scale, where one of the notes from the scale functions as a starting point (tonic or root) and is the focal point of the scale.'
+
 ### (a) The Mixolydian Mode
 
-#### F Mixolydian
+- 🎵 Hey Jude
+- The key movement is bVII-IV-I.
+- The F / Eb / Bb should not be heard as in Bb, but instead as related to the F tonic.
+- So this is coming from F Mixolydian.
+- When lowering the 7th of the F major scale, you get Eb major as the 7th chord, instead of E dim.
+- That bVII is a 'character chord' of the Mixolydian.
+- And this bVII - IV - I movement is nothing other than a double plagal movement! (Eb - Bb - F)
 
 #### The Double Plagal
 
-- The Beatles 'bVII-IV-I' Double Plagal excursions - table of examples
+- 🎵 You never give me your money
+- Overall the bVII-IV-I movement is more stable than its "mirror", the II-V-I, because the IV and I share I's root.
+- 🎵 With a little help from my friends: chorus, D - A - E in key of E.
+- (p. 258)The Beatles 'bVII-IV-I' Double Plagal excursions - table of examples
+- 🎵 intro to polythene pam
+- 🎵 intro to magical mystery tour
+- "verse tag" to dear prudence ("won't you come out...to play")
+- 🎵 She said, she said: lyrics echo sense of being "trapped" in the chord cycle, nowhere to go
+- Also features a v (Fm) that works as a ii in a ii-V-I to Eb (from Bb).
+- "Turning the subdominant into the tonic can be used to signify a retreat into the inner self."
+- Paradise City, "Please, please, take me home.."
+- 🎵 So how come (no one loves me)
 
 #### Beyond the Double Plagal: 'Triples' and 'Quads'
 
+- We have: bII -> bVI -> bIII -> bVII -> IV -> I
+- 🎵 Here comes the sun: "Sun, sun, sun...":
+- C G D A (E7): bIII, bVII, IV, I (V7)
+- 🎵 A day in the life (2:49)
+- 🎵 Hey Joe, revolves around Quadri-plagal harmony.
+- 🎵 Wonderwall, the Triple-plagal.
+
 #### Rationalizing the bVII chord: Mixolydian or 'borrowed'?
+
+- So: is the bVII Aeolian (part of the parallel minor), or Mixolydian?
+- We saw that bVI-bVII-I can define the Aeolian.
+- _"There is only good music, and bad music."_ - Miles Davis
+- Mixolydian emerges both from blues (cf. A Hard Day's Night, b3) and country (3 and 6 and b7).
+- 🎵 I'm a loser
+- 🎵 Good morning, good morning
 
 #### More Mixolydian - folk flavors, pedals and 'Indian-esque drones'
 
+- 🎵 You've got to hide your love away
+- 🎵 Norwegian Wood
+- 🎵 If I needed someone
+- 🎵 Got to get you into my life
+- 🎵 Baby you're a rich man
+- 🎵 Rain
+- 🎵 Tomorrow Never knows
+- 🎵 Strawberry fields forever
+
 ### (b) The Lydian Mode
+
+- 🎵 I will
+- 🎵 Blue jay way
+- 🎵 Flying
+- 🎵 I am the walrus
+- 🎵 Julia
 
 ### (c) The Dorian Mode
 
+- Character chord is the major IV, in a minor setting.
+- Think of as a natural minor scale with a raised (natural, not flat) sixth.
+- 🎵 Los Paranoias
+- vamp in Cm7/F7, think of as being in C Dorian, since you don't want to use the b6 of C (Ab) over the F chord.
+- 🎵 Don't bother me, also using the i - IV - i progression.
+- (See: while my guitar gently weeps, run for your life, norwegian wood)
+- (p. 285) Those all contain the IV -- but none contains the "brave" major 6 note in the melody.
+- 🎵 A taste of honey: clearly Dorian
+- 🎵 Eleanor Rigby: ambiguously Dorian or Aeolian (in E minor, using C natural in melody) (mccartney)
+- 🎵 Happiness is a warm gun (lennon)
+- 🎵 I me mine (harrison)
+- 🎵 Wait ("it's been long time, now I'm, coming back home.."), descending melody hits both 6 and b6.
+
 ### (d) The Locrian Mode
+
+- (p. 289) hm, maybe try to match a color with each interval...
+- Metallica's "Blackened"
+- "Diabolus in Musica" warnings of the Middle Ages: the tritone.
+- Title track to Black Sabbath's eponymous debut, also called... "Black Sabbath"
 
 ### (e) The Phrygian Mode
 
+- Starts on 3rd degree of scale.
+- Think of as natural minor with flattened second.
+- This creates a major triad on the bII, so we have i-bII...
+- Spanish guitar solo to start Bungalow Bill, lol came from a Mellotron (like flutes on Strawberry fields)
+- 🎵 The continuing story of Bungalow bill
+
 #### bII and the search for 'Phrygian' and 'Neapolitan' cadences
 
+- 🎵 Things we said today (0:23) -- 'to go to Bb was quite good', Paul lol.
+- The anticlockwise circle of fifths: Am - D - G - C - F - Bb
+- I - IV - bVII - bIII - bVI - bII
+- 🎵 Cry baby cry
+- Uses F as pivot chord from G major to Em.
+- 🎵 A day in the life
+
 #### Phrygian Trivia
+
+- 🎵 Do you want to know a secret
+- 'Super Phyrgian' cadence of bII-V7-I
+- The bII is called the 'Neapolitan' chord, and indeed the 'Neapolitan Sixth' when voiced in first inversion.
 
 ---
 
