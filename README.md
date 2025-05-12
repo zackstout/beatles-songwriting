@@ -158,7 +158,9 @@ i:
 - One after 909
 - Rocky raccoon (the vocalization I guess)
 - Drive my car
-- Norwegian Wood
+- Norwegian Wood, intro
+- I me mine, has plenty
+- A hard day's night, 1:30
 
 ## Lyrics
 
@@ -871,47 +873,48 @@ i:
 ### (a) iv minor (e.g. Fm)
 
 - Can just be subbed in for the IV.
-- 🎵 That Means a lot
-- 🎵 What Goes on
-- 🎵 I'll follow the sun
+- ✅ That Means a lot, intro
+- ✅ What Goes on, "as I walked along the road...", 0:33
+- ✅ I'll follow the sun, 0:33
 - Creates a sophisticated ballad feel.
-- 🎵 Nowhere Man ("his nowhere plans..." -- the "novelty")
-- 🎵 All I've Got to do
-- 🎵 Real Love
+- ✅ Nowhere Man ("his nowhere plans..." -- the "novelty", along with predictable descending bassline)
+- ✅ All I've Got to do, intro
+- ✅ Real Love, 0:56
 - 🎵 The continuing story of Bungalow Bill
 
 ### (b) v minor (e.g. Gm)
 
-- 🎵 I'll Get you
-- 🎵 Strawberry Fields ("cause I'm going to...")
-- 🎵 She's Leaving home ("Wednesday morning at...")
-- 🎵 Julia
-- 🎵 Sun King, mention of C7-A7 as "the familiar cadence" that we are changing by using Gm7-A7 instead.
+- ✅ I'll Get you, 0:27, small moment, singled out in Ian MacDonald's _Revolution in the Head_
+- ✅ Strawberry Fields ("cause I'm going to...", 0:15)
+- ✅ She's Leaving home ("Wednesday morning at...", intro)
+- ✅ Julia, 0:15
+- ✅ Sun King, 0:58, mention of C7-A7 as "the familiar cadence" that we are changing by using Gm7-A7 instead.
+- Yeah you can really hear the similarity between those last two.
 
 #### Dominant minor substitution rule
 
 - (p. 209) **'When a dominant seventh chord appears, you can substitute a minor chord a fifth above.'**
 - Ex: Gm7 can substitute for a C dominant chord (C7).
-- 🎵 Something (this shows the "familiar" C7 that we should have expected in Sun King.)
+- ✅ Something, intro (this shows the "familiar" C7 that we should have expected in Sun King.)
 
 ### (c) bVI (e.g. Ab)
 
-- 🎵 P.S. I love you, and,
-- 🎵 Do you want to know a secret.
-- 🎵 It won't be long (The C chord does not belong, in key of E!)
-- 🎵 Honey Don't
-- 🎵 Til There was you
-- 🎵 I saw her standing there (0:25)
+- 🎵 () P.S. I love you, and,
+- 🎵 () Do you want to know a secret.
+- ✅ It won't be long (The C chord does not belong, in key of E!), 0:17
+- ✅ Honey Don't, intro, cool sound wow, departure from three chord trick indeed!
+- ✅ Til There was you, the ending, nice: great old tune
+- ✅ I saw her standing there (0:25), it's the "ooh!" chord!!!!
 - (p. 214) **Illustrates how the bVI is a functional substitute for iv.**
 - Ex: In E major, the iv is Am, and the bVI is C.
-- 🎵 Hello Goodbye (nice, will be revisited later in this chapter)
+- ✅ Hello Goodbye, 0:27 (nice, will be revisited later in this chapter)
 - Another good example of this bVI-for-iv switch, in a super-plagal cadence (IV-iv-I).
 - The minor third interval between IV and bVI is 'the essence of rock'.
 - 🎵 When I'm 64: try yourself swapping in the bVI for iv here.
 - 🎵 Ain't She sweet (bridge): another example.
 - And indeed: what we are swapping is a typical vi-for-I swap.
 - Because when we swap iv for bVI, we are swapping a minor for its relative major.
-- 🎵 Oh! Darling (bridge)
+- ✅ Oh! Darling (bridge), 1:12, "you didn't need me anymore.."
 
 #### The 'bVI7' 'pre-dominant'
 
@@ -925,7 +928,7 @@ i:
 - 🎵 Honey Pie: G to Eb7 change.
 - (p. 220) We can see the next 2 borrowed chords as embellishing the minor pentatonic scale, giving us:
 - I-bIII-IV-V-bVII
-- The word: I-bVII-bIII-IV
+- 🎵 () The word: I-bVII-bIII-IV
 - Wannabe (spice girls): I-bIII-IV-bVII
 
 ### (d) bIII (e.g. Eb)
@@ -933,14 +936,14 @@ i:
 - i.e. the chord that _would_ be the relative major of your tonic, if your tonic were minor.
 - a key ingredient of "hard rock".
 - (p. 221) I-bIII-IV-V (replaces bIII for II in the eight days a week cycle)
-- 🎵 Please please me: iconic early moment (beginning of song)
-- 🎵 Magical Mystery Tour
-- 🎵 Sgt. Pepper's lonely hearts club band
+- ✅ Please please me: iconic early chord movement moment (beginning of song)
+- ✅ Magical Mystery Tour, intro, "Roll up, roll up for the mystery tour!"
+- ✅ Sgt. Pepper's lonely hearts club band
 - i can see for miles, the who
-- 🎵 Back in the USSR ("Didn't get to bed last night...")
+- ✅ Back in the USSR ("Didn't get to bed last night...")
 - Think for yourself ('To say about the things that you do')
 - Bye bye love, everly brothers
-- 🎵 Please please me (again!) -- the ending, using both bIII and bVI.
+- ✅ Please please me (again!) -- the ending, using both bIII and bVI. (I-bIII-bVI-V-I)
 
 ### (e) bVII (e.g. Bb)
 
