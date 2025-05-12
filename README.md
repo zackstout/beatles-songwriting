@@ -130,14 +130,23 @@ i:
 - 7#9
 - 7b9
 
+## Scales
+
+- (p. 166) Harmonic minor scale harmonised
+- (p. 253) Mixolydian mode harmonised
+- (p. 281) Lydian mode harmonised
+- (p. 284) Dorian mode harmonised
+- (p. 291) Phrygian mode harmonised
+
 ## Voice Leading Tables
 
 - (p. 41) Voice leading in the Plagal cadence
 - (p. 67) Voice leading in the iim7-V7 change
+- (p. 118) Voice-Leading in I-II-IV-I
 - (p. 147) Resolution in the Aeolian Cadence
 - (p. 224) Voice-leading in thd VII 'Pre-dominant' of'All l\1y Loving'
 
-## Nice Riffs
+## Cool Riffs
 
 - Twist and shout, 1:08
 - Devil in her Heart, 0:24
@@ -148,11 +157,14 @@ i:
 - It won't be long
 - One after 909
 - Rocky raccoon (the vocalization I guess)
+- Drive my car
+- Norwegian Wood
 
 ## Lyrics
 
 - When you find yourself in the thick of it, help yourself to a bit of what is all around you
 - Fun is the only thing money can't buy
+- With lovers and friends i still recall (lolol)... But of all these friends and lovers...
 
 ---
 
@@ -632,16 +644,16 @@ i:
 
 ### Surprise and the search for 'Mann's moment'
 
-- 🎵 _Not a second time_: Finding the correct "Mann's moment" in the middle, not at the end
-- At 1:47
+- ✅ _Not a second time_: Finding the correct "Mann's moment" in the middle, not at the end
+- At 1:47, -- and also 0:45, right?
 
 ### Playing 'tag' - The Interrupted/Deceptive cadence
 
 - (p. 141) deceptiveness and surprise of the "Aeolian" cadence, where I is replaced by vi: D7 leading not to G, but to Em
 - This is the Interrupted/Deceptive cadence: dominant to relative minor, or dominant to submediant
-- 🎵 _The honeymoon song_ (early cover)
-- 🎵 _Do you want to know a secret_ (debut album)
-- 🎵 _Octopus's Garden_ ("in an octopus's garden with you")
+- ✅ _The honeymoon song_ (early cover, 0:52)
+- ✅ _Do you want to know a secret_ (debut album, 0:40)
+- ✅ _Octopus's Garden_ ("in an octopus's garden with you", 2:34)
 
 ### The Aeolian cadence - the search continues
 
@@ -666,12 +678,12 @@ i:
 - (p. 147) So instead of describing the movement as V7-vi, we can describe it as bVII7-i. Neat.
 - A nice voice-leading table to show this.
 - The Aeolian cadence is a "modal cadence", which are characterized by flattened leading note... (?)
-  -🎵 _Not a second time_
+  -✅ _Not a second time_
 
 ### The Aeolian cadence in typical context
 
 - A minor key song that uses the bVII-i move is...
-- 🎵 _A Taste of honey_
+- ✅ _A Taste of honey_ (cool song)
 
 ### 'Tonal ambiguity' - an introduction
 
@@ -680,16 +692,16 @@ i:
 - Much of rest of book is about this: tonal ambiguity.
 - But there is always room for subjective interpretation, with tonality.
 - (p. 150) Lol Lennon dismissed Mann as a 'twit'.
-- 🎵 _Do you want to know a secret_, 0:38
+- ✅ _Do you want to know a secret_, 0:38
 
 ### Aeolian deception revisited - 'When I get home'
 
-- 🎵 _When I get home_, 1:32
+- ✅ _When I get home_, 1:32
 
 ### The Aeolian cadence revisited - 'bVII-I' major
 
 - (p. 152) The "V7" (e.g. G7 of C) can pull us not only toward the vi (Am) but also toward VI (A or A7).
-- 🎵 _When I get home_
+- ✅ _When I get home_, 2:02
 
 ### Main Takeaways
 
@@ -718,6 +730,8 @@ i:
 
 ## Chapter 6
 
+### Part 0: Intro
+
 - "I don't know why, it just makes me want to weep", This is Spinal Tap
 - Del Shannon's Runaway, The Ventures' Walk Don't Run, The Shadows' Apache, the Animals' The House of Rising Sun and Johnny Kid's Shakin' All Over.
 - Also, A Taste of Honey, Besame Mucho, I just don't understand, Three cool cats
@@ -725,17 +739,18 @@ i:
 #### The minor tonality - a framework for analysis
 
 - (p. 162) Most Beatles songs will add a dabble of the minor key, while staying in a related major key for most of the time.
-- Cayenne and Mr Kite are a few of the only pure-minor songs.
+- Cayenne (cool tune, no vocals)
+- and Mr Kite are a few of the only pure-minor songs.
 
 #### 'v or V'? - the dominant dilemma
 
 - If we follow the diatonic rules, the v in a minor key is minor, not major. So (how) do we get the dominant sound?
 - Usually, we "break the rules" and use the V7.
-- 🎵 Things we said today: Am-Em7
+- ✅ Things we said today: Am-Em7, vamping on this for the verse
 
 #### Breaking the diatonic minor rules - the 'borrowed V7'
 
-- 🎵 Cayenne: Em-Am-B7
+- ✅ Cayenne: Em-Am-B7, yes this 7th is what makes it!
 - (p. 165) The V7 helps to establish the tonality of the i center -- since the whole step from original v's root up doesn't have same pull as half-step involved in the major scale version of the cadence.
 - This leads us to...
 - **The harmonic minor scale!**
@@ -745,27 +760,27 @@ i:
 
 #### (1) The relative minor bridge
 
-- 🎵 There's a Place -- first example of flirting with this tonal ambiguity.
+- ✅ There's a Place -- first example of flirting with this tonal ambiguity (0:50)
 - Recall our pivot chord from before: The I's V, equals the vi's bVII.
 - This can be used in conjunction with the V-i to reinforce the minor tonality.
 - (p. 168) The V in a V7-i cadence can also be viewed as a "functioning secondary dominant", III7, in the original I key.
 - That is: The III7, which we saw is "V of vi", can also be seen as the V7 leading into the new i home.
-- 🎵 I'm happy just to dance with you
+- ✅ I'm happy just to dance with you (0:25)
 - (p. 169) Again, we see B play the pivot chord role in key of E or C#m.
-- 🎵 I should have known better
+- ✅ I should have known better (0:40)
 - **Shows both pivots: Uses the I's V === vi's bVII to pivot to I, and then the I's III7 === vi's V7 to pivot out of I, to vi (or, "i").**
-- 🎵 Don't ever change
+- ✅ Don't ever change (nice old one), using the III7, opening verse, 0:19
 - Example: In key of E, we have B7 as the pivot chord into C#m key.
 - And, we have G#7 as the III7 of E, who is also the V7 of the new C#m key.
 
 #### 'vi at the bridge' - move or modulation?
 
 - Examples of mere move:
-- 🎵 _Drive my Car_,
-- 🎵 _In My Life_
+- ✅ _Drive my Car_, 0:22, going from D key into Bm, "..in between, Baby you can drive my car.."
+- ✅ _In My Life_, 0:28, "all these places have their moments..."
 - Examples of true modulation:
-- 🎵 _We Can Work it out_,
-- 🎵 _When I'm Sixty Four_
+- ✅ _We Can Work it out_, 0:36, going to Bm but in a true modulating way, "Life is very short.."
+- 🎵 _When I'm Sixty Four_, 1:36
 
 #### Minor to relative major switches - a caveat
 
@@ -773,16 +788,19 @@ i:
 - Girl, Wait, I'm Only Sleeping, You Never give me your money
 - Recall Cycle of Fifths songs: Rocky raccoon, golden slumbers, your mother should know: move from relative minor to major key.
 - Again, that was: 7-3-6-2-5-1 (which is kinda like 2 2-5-1s back to back)
+- ✅ Any Time at all, cool song
+- ✅ It won't be long
 
 #### (2) The relative major chorus
 
-- 🎵 Girl: each key is reinforced by its dominant V7.
-- 🎵 I'm Only Sleeping: uses the bVI of the i, or the IV of the I, as pivot chord, this time.
+- ✅ Girl: each key is reinforced by its dominant V7, and the bIII is the relative major to which we move in chorus.
+- ✅ I'm Only Sleeping: uses the bVI of the i, or the IV of the I, as pivot chord, this time. (0:21)
 - Ex: Cb, between Eb minor and Gb major.
 - (p. 178) Roxanne, Watching the Detectives
 
 #### The special case of 'And I love her'
 
+- ✅ And I Love her
 - E major or C# minor??
 - And the final chord is a Picardy third, weird.
 
@@ -797,8 +815,9 @@ i:
 #### (a) The 'minor two-five-one': 'ii7b5-V7-i'
 
 - The ii7b5 is rarely used, but a neat dark tone
-- 🎵 _You never give me your money_ (and cycle of fifths!), great example.
-- Again, note the use of the bVII of the i (or the V of the I) as pivot chord.
+- ✅ _You never give me your money_ (and cycle of fifths!), great example.
+  - Exemplifies descending along the circle.
+  - And also, note the use of the bVII of the i (or the V of the I) as pivot chord.
 
 #### (b) The diatonic minor Cycle of Fifths
 
@@ -807,36 +826,38 @@ i:
 - **but wasn't this also true in the original Cycle????**
 - _Autumn Leaves_, _I will survive_
 - And again, recall Can't buy me leave and Golden slumbers from Ch. 3
-- 🎵 _Carry that weight_: G as the pivot chord moving us from Am to C major. (same idea we've seen a few times)
+- ✅ _Carry that weight_: G as the pivot chord moving us from Am all the way to C major. (same idea we've seen a few times)
 
 #### (c) The bVI7-V7-i resolution
 
 - Ex: Eb7 / D7 / Gm
 - Ex: F7 / E7 / Am (Castle in the cloud??)
 - The thrill is gone, Sweet dreams (Are made of this)
-- 🎵 _Besame Mucho_
-- 🎵 _I want you (she's so heavy)_
+- ✅ _Besame Mucho_, 0:22, "say that you'll always be mine.."
+- ✅ _I want you (she's so heavy)_, 4:50
 
 #### (d) The minor rock runs: bVI-bVII-i and i-bVII-bVI-V7
 
 - Ex: F / G / Am in key of Am
-- 🎵 _The story of Bungalow Bill_, Layla, Stairway to Heaven
+- ✅ _The story of Bungalow Bill_,
+- and, Layla, Stairway to Heaven
 - Ex: Am / G / F / E7
-- 🎵 _Runaway_ (Del shannon),
+- ✅ _Runaway_ (Del shannon), intro
 - Also: Don't let me be misunderstood, Sultans of Swing
 - 🎵 (p. 186) Also in the bassline of We can work it out
 
 ### Part 2: parallel major/minor switches
 
 - Now we'll look at cases of switching not to the relative minor, but to the parallel minor.
-- 🎵 _I'll be back_
+- ✅ _I'll be back_
 - (p. 188) Using E to take us from Am to A, and the melody intermingles C and C#. Cool.
-- 🎵 _Norwegian Wood_
+- ✅ _Norwegian Wood_
 - Has a parallel minor bridge (claimed by McCartney), cf. Michelle, whose parallel minor bridge Lennon claims
 - Note how the ii-V-I takes us out of i and into I. ("so I looked around and I noticed there wasn't a chair...")
-- i-bIII-bIV-V7 seen in Michelle, starting at "I love you, I love you, I love you..."
+- ✅ i-bIII-bIV-V7 seen in Michelle, starting at "I love you, I love you, I love you..."
 - 🎵 _Night and day_
-- 🎵 _The fool on the hill_: great move from D major to D minor, facilitated by ii7-V7-i.
+- ✅ _The fool on the hill_: great move from D major to D minor, facilitated by ii7-V7-i.
+- _He annotates the Bb/D as Dm#5, makes sense._
 - (p. 192) Table of examples from Beatles songs
 - cf. Happy Together (nice!), and Pinball Wizard (aha!)
 - 🎵 _Come together_: mostly in Dm, but we emphasize the Bm chord in a way that feels like brief move to D major. Cool.
@@ -963,8 +984,13 @@ i:
 
 #### Theory interlude
 
-- The bVII and v are relative major and minor.
-- Just like I and iv, ii and IV, and iv and bVI.
+- **The bVII and v are relative major and minor.**
+- **Just like vi and I, ii and IV, and iv and bVI.**
+- Examples in C:
+  - Am and C
+  - Dm and F
+  - Gm and Bb
+  - Fm and Ab
 - Multiple options for harmonizing a tricky b7 note in melody:
   - Turn I to I7
   - Throw in a v
@@ -992,20 +1018,27 @@ i:
 
 ### (a) The Mixolydian Mode
 
+- Harmonization table, p. 253
 - 🎵 Hey Jude
 - The key movement is bVII-IV-I.
 - The F / Eb / Bb should not be heard as in Bb, but instead as related to the F tonic.
-- So this is coming from F Mixolydian.
+- We move down two semitones, and then descend by two perfect fourths to get back to F.
+- **So this is coming from F Mixolydian, rather than Bb major.**
 - When lowering the 7th of the F major scale, you get Eb major as the 7th chord, instead of E dim.
 - That bVII is a 'character chord' of the Mixolydian.
 - And this bVII - IV - I movement is nothing other than a double plagal movement! (Eb - Bb - F)
 
 #### The Double Plagal
 
+- We can see this movement as going CW around circle of fifths, starting behind tonic.
+- **Very interesting: the bVII-IV-I is coming from a set of chords that could alternatively be grouped as I-IV-V.**
+- (This is the movement from Ionian to Mixolydian.)
 - 🎵 You never give me your money
 - Overall the bVII-IV-I movement is more stable than its "mirror", the II-V-I, because the IV and I share I's root.
-- 🎵 With a little help from my friends: chorus, D - A - E in key of E.
-- (p. 258)The Beatles 'bVII-IV-I' Double Plagal excursions - table of examples
+- (descent by fourths vs descent by fifths)
+- 🎵 With a little help from my friends
+- chorus, D - A - E in key of E.
+- (p. 258) The Beatles 'bVII-IV-I' Double Plagal excursions - table of examples
 - 🎵 intro to polythene pam
 - 🎵 intro to magical mystery tour
 - "verse tag" to dear prudence ("won't you come out...to play")
@@ -1021,12 +1054,12 @@ i:
 - 🎵 Here comes the sun: "Sun, sun, sun...":
 - C G D A (E7): bIII, bVII, IV, I (V7)
 - 🎵 A day in the life (2:49)
-- 🎵 Hey Joe, revolves around Quadri-plagal harmony.
+- 🎵 Hey Joe, revolves around Quadri-plagal harmony (!!!)
 - 🎵 Wonderwall, the Triple-plagal.
 
 #### Rationalizing the bVII chord: Mixolydian or 'borrowed'?
 
-- So: is the bVII Aeolian (part of the parallel minor), or Mixolydian?
+- So: is the bVII 'Aeolian' (part of the parallel minor), or "Mixolydian"?
 - We saw that bVI-bVII-I can define the Aeolian.
 - _"There is only good music, and bad music."_ - Miles Davis
 - Mixolydian emerges both from blues (cf. A Hard Day's Night, b3) and country (3 and 6 and b7).
@@ -1046,16 +1079,25 @@ i:
 
 ### (b) The Lydian Mode
 
+- Harmonization table, p. 281
+- Characteristic note is the #11, and less so the major 7 (though not so much as leading, more as floating)
 - 🎵 I will
 - 🎵 Blue jay way
 - 🎵 Flying
+- The non-functioning II (not moving to a V) is very characteristic of Lydian feeling.
 - 🎵 I am the walrus
+- Also we have the vii7 chord (note: no flat 5th. The 5th is the lydian #11 note.)
+- We saw this in Yesterday, Julia, Here there and everywhere (but not quite w/ Lydian feel.)
+- 🎵 I am the walrus (again)
 - 🎵 Julia
 
 ### (c) The Dorian Mode
 
-- Character chord is the major IV, in a minor setting.
+- Harmonization table, p. 284
+- Character chord is the major IV, in a minor setting -- indeed, the IV7 often.
+- **(The m3 of the IV is I's b6. So when we raise it to 3, we get 6.)**
 - Think of as a natural minor scale with a raised (natural, not flat) sixth.
+- So the characteristic note is the natural sixth.
 - 🎵 Los Paranoias
 - vamp in Cm7/F7, think of as being in C Dorian, since you don't want to use the b6 of C (Ab) over the F chord.
 - 🎵 Don't bother me, also using the i - IV - i progression.
@@ -1063,6 +1105,7 @@ i:
 - (p. 285) Those all contain the IV -- but none contains the "brave" major 6 note in the melody.
 - 🎵 A taste of honey: clearly Dorian
 - 🎵 Eleanor Rigby: ambiguously Dorian or Aeolian (in E minor, using C natural in melody) (mccartney)
+- We should think of it as E minor, with different "moods" emphasized at different times.
 - 🎵 Happiness is a warm gun (lennon)
 - 🎵 I me mine (harrison)
 - 🎵 Wait ("it's been long time, now I'm, coming back home.."), descending melody hits both 6 and b6.
@@ -1076,6 +1119,7 @@ i:
 
 ### (e) The Phrygian Mode
 
+- Harmonization table, p. 291
 - Starts on 3rd degree of scale.
 - Think of as natural minor with flattened second.
 - This creates a major triad on the bII, so we have i-bII...
@@ -1094,7 +1138,7 @@ i:
 #### Phrygian Trivia
 
 - 🎵 Do you want to know a secret
-- 'Super Phyrgian' cadence of bII-V7-I
+- 'Super Phrygian' cadence of bII-V7-I
 - The bII is called the 'Neapolitan' chord, and indeed the 'Neapolitan Sixth' when voiced in first inversion.
 
 ---
@@ -1144,7 +1188,7 @@ i:
 
 - Whole-half scale, and Half-whole scale, both give rise to dim7.
 - Each contains 8, rather than the usual 7, notes.
-- (p. 406) 3 minor thirds stacked up, which creates 2 tritone intervals (!).
+- (p. 406) **3 minor thirds stacked up, which creates 2 tritone intervals** (!).
 - 🎵 The Sheik of Araby (intro)
 - Substitution of vi dim7 for vi, in the typical Doo wop cliche (I-vi-ii-V)
 - Has voice leading from G (fifth of C) to Gb (bb7 of Am) to F (m3 of Dm7).
@@ -1164,7 +1208,7 @@ i:
 
 - 🎵 It won't be long
 - (p. 410) A# dim7 === A7b9.
-- Omg, this is what we've seen in the shapes -- the 7b9 is weird and can be construed as multiple different diminished chords!!!
+- **Omg, this is what we've seen in the shapes -- the 7b9 is weird and can be construed as multiple different diminished chords!!!**
 - **The b9 rule: When a 7b9 chord appears, you can substitute a dim7 built on a root a semitone higher.**
 - Cf. Cole Porter's "True Love"
 - 🎵 The End (intro theme)
@@ -1176,8 +1220,8 @@ i:
 - Since it contains double tritones, it can be substituted for multiple different dominant seventh chords.
 - _The harmonic minor scale is the only scale that contains the dim 7 as a diatonic chord._
 - 🎵 S.O.S. (verse), Abba
-- (p. 415) The vii dim 7 (e.g. C# dim7 in D minor) has almost all same notes as the V7 (e.g. A7b9 with no root, in D minor).
-- So it can function as a surrogate dominant, even outside of the harmonic minor habitat.
+- (p. 415) **The vii dim 7 (e.g. C# dim7 in D minor) has almost all same notes as the V7 (e.g. A7b9 with no root, in D minor)**.
+- **So it can function as a surrogate dominant, even outside of the harmonic minor habitat.**
 - And... INDEED! We can see that C# and A# are separated by a minor third.
 - And we saw in previous section that A# dim7 can sub for A7b9.
 - And now we see that C# dim7 can do the same thing.
