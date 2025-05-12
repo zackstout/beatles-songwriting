@@ -99,7 +99,7 @@ III7:
 - III7-IV (I want to hold your hand, non-functioning)
 - I7-IV7-I7-II7-IV7-III7-VI7-V7 (Day tripper)
 
-VII7;
+VII7:
 
 - bV-VII7-iiim7-VI7-iim7-V7-I (Moon River)
 
@@ -134,6 +134,7 @@ i:
 
 - (p. 41) Voice leading in the Plagal cadence
 - (p. 67) Voice leading in the iim7-V7 change
+- (p. 147) Resolution in the Aeolian Cadence
 - (p. 224) Voice-leading in thd VII 'Pre-dominant' of'All l\1y Loving'
 
 ## Nice Riffs
@@ -657,13 +658,14 @@ i:
 
 - (p. 146) The equality of the Ionian and Aeolian "modes".
 - Here there and everywhere, and Yesterday, and the ii-V-i sequence. (Recall Chapter 3 - yes, the "cyclical vii")
-- aka the vii-III-vi sequence.
+- aka the vii-III-vi sequence. (pulling us toward the relative minor key.)
 - **Key point: The D7 (the V of G major) is the bVII of Em (the relative Aeolian to which we shift).**
 
 ### The Aeolian cadence 'unmasked': the flattened leading note
 
 - (p. 147) So instead of describing the movement as V7-vi, we can describe it as bVII7-i. Neat.
 - A nice voice-leading table to show this.
+- The Aeolian cadence is a "modal cadence", which are characterized by flattened leading note... (?)
   -🎵 _Not a second time_
 
 ### The Aeolian cadence in typical context
@@ -682,7 +684,7 @@ i:
 
 ### Aeolian deception revisited - 'When I get home'
 
-- 🎵 _When I get home_
+- 🎵 _When I get home_, 1:32
 
 ### The Aeolian cadence revisited - 'bVII-I' major
 
@@ -693,6 +695,7 @@ i:
 
 #### (a) The pivot chord
 
+- A pivot chord is one that has a clear role in two different keys.
 - The V7=bVII7 is the pivot chord that can take us into or out of a I (into/from its relative vi as the new i).
 - For instance G7 (in key of C) can take us to Am, or to A major.
 
@@ -727,7 +730,7 @@ i:
 #### 'v or V'? - the dominant dilemma
 
 - If we follow the diatonic rules, the v in a minor key is minor, not major. So (how) do we get the dominant sound?
-- Usually, we break the rules and use the V7.
+- Usually, we "break the rules" and use the V7.
 - 🎵 Things we said today: Am-Em7
 
 #### Breaking the diatonic minor rules - the 'borrowed V7'
@@ -735,7 +738,7 @@ i:
 - 🎵 Cayenne: Em-Am-B7
 - (p. 165) The V7 helps to establish the tonality of the i center -- since the whole step from original v's root up doesn't have same pull as half-step involved in the major scale version of the cadence.
 - This leads us to...
-- The harmonic minor scale!
+- **The harmonic minor scale!**
 - (p. 166) The raised 7th in the harmonic minor scale means that, when we take diatonic chords, the v becomes major (V7). That is, its third gets raised. This helps it perform its function of leading back to tonic, i.
 
 ### Part 1: relative major/minor switches
@@ -773,7 +776,7 @@ i:
 
 #### (2) The relative major chorus
 
-- 🎵 Girl, each key is reinforced by its dominant V7.
+- 🎵 Girl: each key is reinforced by its dominant V7.
 - 🎵 I'm Only Sleeping: uses the bVI of the i, or the IV of the I, as pivot chord, this time.
 - Ex: Cb, between Eb minor and Gb major.
 - (p. 178) Roxanne, Watching the Detectives
@@ -801,7 +804,7 @@ i:
 
 - (p. 183): i -> iv -> bVII -> bIII -> bVI -> ii -> V -> i
 - Note that jump from bVI -> ii is just a diminished fifth (or augmented fourth), not a true fifth --
-- but wasn't this also true in the original Cycle????
+- **but wasn't this also true in the original Cycle????**
 - _Autumn Leaves_, _I will survive_
 - And again, recall Can't buy me leave and Golden slumbers from Ch. 3
 - 🎵 _Carry that weight_: G as the pivot chord moving us from Am to C major. (same idea we've seen a few times)
@@ -809,6 +812,7 @@ i:
 #### (c) The bVI7-V7-i resolution
 
 - Ex: Eb7 / D7 / Gm
+- Ex: F7 / E7 / Am (Castle in the cloud??)
 - The thrill is gone, Sweet dreams (Are made of this)
 - 🎵 _Besame Mucho_
 - 🎵 _I want you (she's so heavy)_
@@ -834,8 +838,10 @@ i:
 - 🎵 _Night and day_
 - 🎵 _The fool on the hill_: great move from D major to D minor, facilitated by ii7-V7-i.
 - (p. 192) Table of examples from Beatles songs
-- 🎵 _Come together_: mostly in Dm, but we emphasize the Bm chord in a way that feels like brief move to D major.
+- cf. Happy Together (nice!), and Pinball Wizard (aha!)
+- 🎵 _Come together_: mostly in Dm, but we emphasize the Bm chord in a way that feels like brief move to D major. Cool.
 - Nice fall from Bm to A to G, back to A.
+- So they were among progenitors of the 'Aeolian' sound of Santana, Metallica, Ozzy, Iron Maiden, GnR
 
 ---
 
@@ -843,10 +849,12 @@ i:
 
 ### (a) iv minor (e.g. Fm)
 
+- Can just be subbed in for the IV.
 - 🎵 That Means a lot
 - 🎵 What Goes on
 - 🎵 I'll follow the sun
-- 🎵 Nowhere Man
+- Creates a sophisticated ballad feel.
+- 🎵 Nowhere Man ("his nowhere plans..." -- the "novelty")
 - 🎵 All I've Got to do
 - 🎵 Real Love
 - 🎵 The continuing story of Bungalow Bill
@@ -854,77 +862,113 @@ i:
 ### (b) v minor (e.g. Gm)
 
 - 🎵 I'll Get you
-- 🎵 Strawberry Fields
-- 🎵 She's Leaving home
+- 🎵 Strawberry Fields ("cause I'm going to...")
+- 🎵 She's Leaving home ("Wednesday morning at...")
 - 🎵 Julia
-- 🎵 Sun King
+- 🎵 Sun King, mention of C7-A7 as "the familiar cadence" that we are changing by using Gm7-A7 instead.
 
 #### Dominant minor substitution rule
 
 - (p. 209) **'When a dominant seventh chord appears, you can substitute a minor chord a fifth above.'**
-- 🎵 Something
+- Ex: Gm7 can substitute for a C dominant chord (C7).
+- 🎵 Something (this shows the "familiar" C7 that we should have expected in Sun King.)
 
 ### (c) bVI (e.g. Ab)
 
 - 🎵 P.S. I love you, and,
-- 🎵 Do you wnat to know a secret.
-- 🎵 It won't be long
+- 🎵 Do you want to know a secret.
+- 🎵 It won't be long (The C chord does not belong, in key of E!)
 - 🎵 Honey Don't
 - 🎵 Til There was you
-- 🎵 I saw her standing there
-- 🎵 Hello Goodbye
-- 🎵 When I'm 64
-- 🎵 Ain't She sweet (bridge)
+- 🎵 I saw her standing there (0:25)
+- (p. 214) **Illustrates how the bVI is a functional substitute for iv.**
+- Ex: In E major, the iv is Am, and the bVI is C.
+- 🎵 Hello Goodbye (nice, will be revisited later in this chapter)
+- Another good example of this bVI-for-iv switch, in a super-plagal cadence (IV-iv-I).
+- The minor third interval between IV and bVI is 'the essence of rock'.
+- 🎵 When I'm 64: try yourself swapping in the bVI for iv here.
+- 🎵 Ain't She sweet (bridge): another example.
+- And indeed: what we are swapping is a typical vi-for-I swap.
+- Because when we swap iv for bVI, we are swapping a minor for its relative major.
 - 🎵 Oh! Darling (bridge)
 
 #### The 'bVI7' 'pre-dominant'
 
+- The bVI7 also as a role as a special type of dom 7th, which slides down to V7 to lead back to I.
 - 🎵 Ain't She sweet
 - 🎵 I call your name
 - 🎵 Mean Mr Mustard
 
 #### bVI7 and the crazy case of 'Honey Pie'
 
-- 🎵 Honey Pie
+- 🎵 Honey Pie: G to Eb7 change.
+- (p. 220) We can see the next 2 borrowed chords as embellishing the minor pentatonic scale, giving us:
+- I-bIII-IV-V-bVII
+- The word: I-bVII-bIII-IV
+- Wannabe (spice girls): I-bIII-IV-bVII
 
 ### (d) bIII (e.g. Eb)
 
-- 🎵 Please please me
+- i.e. the chord that _would_ be the relative major of your tonic, if your tonic were minor.
+- a key ingredient of "hard rock".
+- (p. 221) I-bIII-IV-V (replaces bIII for II in the eight days a week cycle)
+- 🎵 Please please me: iconic early moment (beginning of song)
 - 🎵 Magical Mystery Tour
-- 🎵 Back in the USSR
-- 🎵 Please please me (again!)
+- 🎵 Sgt. Pepper's lonely hearts club band
+- i can see for miles, the who
+- 🎵 Back in the USSR ("Didn't get to bed last night...")
+- Think for yourself ('To say about the things that you do')
+- Bye bye love, everly brothers
+- 🎵 Please please me (again!) -- the ending, using both bIII and bVI.
 
 ### (e) bVII (e.g. Bb)
 
+- (p. 223) The most important "borrowed chord", perhaps of the whole book.
+- The chord has many functions.
+
 #### bVII as a 'pre-dominant': fueling the V7
 
-- 🎵 All my loving
+- 🎵 All my loving ("I'll always be trueeee...")
 - (p. 224) voice leading
-- 🎵 Help!
+- 🎵 Help! ('Won't you please please help me?', end of chorus)
+- (p. 226) bVII-V7 move, Dock of the Bay.
 
 #### bVII and the Four-Chord Turnaround
 
+- I-bVII-IV-V
 - 🎵 The Night Before
-- 🎵 Another Girl
-- 🎵 The Word
+- 🎵 Another Girl: I-bVII-I-IV7
+- 🎵 The Word: I-bVII-bIII-IV
 
 #### The Cycle of Fifths revisited - the sharp and flat side of 'Lovely Rita'
 
+- Ah, yes, finally we open it up without 'cheating' at the vii, and truly go all the way around... "to the flat side".
+- We do so by starting on one side, descending through tonic, to other side.
 - 🎵 Lovely Rita
-- 🎵 Every day
+- vi-ii-V-I-VI-bVII-bIII
+- 🎵 Every day (Buddy holly, covered by Beatles), shows we can extend to bVI, heading to V.
 
 #### The Power of the bVII-I 'major rock' cadence
 
-- 🎵 A Hard Day's night
-- 🎵 Help!
-- 🎵 We Can work it out
+- 🎵 A Hard Day's night ("I've been working, like a dog...")
+- 🎵 Help! ("help in any way..")
+- You really got me (the kinks), born to be wild, my generation (the who)
+- 🎵 We Can work it out ("talking til i can't go on..")
 
 #### Reconceiving the bVII-I cadence: the 'Reverse Dominant Minor Substitution'
 
-- 🎵 Hello Goodbye
+- 🎵 Hello Goodbye, revisited, nice to see both examples, the bVI-for-iv and the bVII-I.
 - **'Given a minor chord, we can substitute a dominant seventh chord a fourth higher.'**
+- (p. 235) Just as bVI is relative major of phantom iv, bVII9 is a reverse dominant minor sub of iv.
 
 #### Theory interlude
+
+- The bVII and v are relative major and minor.
+- Just like I and iv, ii and IV, and iv and bVI.
+- Multiple options for harmonizing a tricky b7 note in melody:
+  - Turn I to I7
+  - Throw in a v
+  - Throw in a bVII
 
 #### The Beatles origins of the 'major' Aeolian rock run: bVI-bVII-I
 
