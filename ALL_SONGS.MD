@@ -4,8 +4,6 @@ Wow I cannot believe how long these wiki articles are...
 
 186 total songs represented here. Wild.
 
-## Eras
-
 ### Beatlemania (1962-64)
 
 - _Please Please Me_
@@ -30,6 +28,8 @@ Wow I cannot believe how long these wiki articles are...
 
 - _Abbey Road_
 - _Let It Be_
+
+# Albums
 
 ## Please Please Me (1963)
 
@@ -259,11 +259,13 @@ Wow I cannot believe how long these wiki articles are...
 
 ## Extras
 
-1. 🎵 We Can Work It Out
-2. 🎵 Day Tripper
-3. 🎵 This Boy
-4. 🎵 I Want To Hold Your Hand
-5. 🎵🎵🎵 She Loves You
-6. From Me To You
-7. Lady Madonna
-8. 🎵 Hey Jude
+1. 🎵 "We Can Work It Out"
+2. 🎵 "Day Tripper"
+3. 🎵 "This Boy"
+4. 🎵 "I Want To Hold Your Hand"
+5. 🎵🎵🎵 "She Loves You"
+6. "From Me To You"
+7. "Lady Madonna"
+8. 🎵 "Hey Jude"
+9. "Real Love"
+<!-- 10. "Some thing that doesn't really exist" -->

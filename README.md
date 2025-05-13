@@ -158,7 +158,7 @@ i:
 - One after 909
 - Rocky raccoon (the vocalization I guess)
 - Drive my car
-- Norwegian Wood, intro
+- Norwegian Wood (this bird has flown), intro
 - I me mine, has plenty
 - A hard day's night, 1:30
 - Got to get you into my life, 1:50
@@ -207,7 +207,7 @@ i:
 - ✅ You've got to hide your love away (0:35) - yeah, very pronounced
 - ✅ She came in through the bathroom window (transition into the song), orchestrates a key switch this time
 - ✅ Penny lane shows how the V7 can be used to change/modulate to new keys, in and out of chorus at 0:33 and 0:50
-- ✅ Back in the USSR (intro chord)
+- ✅ Back in the U.S.S.R. (intro chord)
 - 'tonic-to-dominant' opening gambit in Hey Jude, Let it Be, Oh! Darling
 
 ### Beyond the V7 - extensions, additions and alterations
@@ -342,7 +342,7 @@ i:
 #### The I-vi-I-vi vamp - The Beatles' first formula?
 
 - ✅ _Misery_ (C and Am, 1:33-1:45, ending))
-- ✅ _Anna Go to him_
+- ✅ _Anna (Go to him)_
 - ✅ _Baby it's you_
 - ✅ _From me to you_ (intro, 'da da daaa da da daa daa daaaa')
 - Also: All my loving, Not a second time, All I've got to do
@@ -395,7 +395,7 @@ i:
 - I-ii-iii-IV-V walk
 - ✅ _Don't let me down_ (I-ii)
 - If I fell, I'm only sleeping (I-ii-iii)
-- Here there and everywhere, Sexy Sadie (I-ii-iii-IV)
+- Here, there and everywhere, Sexy Sadie (I-ii-iii-IV)
 - ✅ _Getting better_ (all the way up to V)
 - _Boys don't cry_, _Like a rolling stone_ (Hendrix cover)
 
@@ -435,7 +435,7 @@ i:
 - That seems to be what we get if we start 2 bars late, not one bar late... Hmm.. I guess it's 2 chords per bar.
 - ✅ _How do you do it?_ (0:32), nice "middle 8"
 - ✅ All my loving (0:00-0:06),
-- ✅✅ Fool on the hill (0:17-0:23), "Nobody wants to know him, they can see he's just a fool" (Em7 A7 D6 Bm6)
+- ✅ Fool on the hill (0:17-0:23), "Nobody wants to know him, they can see he's just a fool" (Em7 A7 D6 Bm6)
 - (p. 72) And sure, we also see just VI-V-I-vi (I want to hold your hand)
 
 #### Substitution summary - the diatonic 'families'
@@ -486,7 +486,7 @@ i:
 - ✅ _Across the universe_: opening/intro, very clear I-vi-iii
 - ✅ _There's a place_: nice V-iii transition
 - ✅ _Nowhere man_ (iii to IV movement in chorus)
-- ✅✅ Ask me why: very last chord, iii-for-I subtitution
+- ✅ Ask me why: very last chord, iii-for-I subtitution
 
 #### The mediant and melody
 
@@ -502,13 +502,13 @@ i:
 
 #### The cyclical vii7
 
-- ✅ _Here there and everywhere_: verse is in G, then the F#m7b5-B7 pulls us toward Em.
+- ✅ _Here, there and everywhere_: verse is in G, then the F#m7b5-B7 pulls us toward Em.
 
 #### The pull to vi
 
 - (p. 91) MODULATION INTRODUCED: The vii descends a fifth to the III, which then descends a fifth to the vi.
 - So you can use it to modulate into the relative minor (vi) key, with a "ii-V-i" move.
-- ✅ _Yesterday_: uses same exact idea as Here there everywhere
+- ✅ _Yesterday_: uses same exact idea as Here, there everywhere
 - ✅ _Moon river_, another great example of this vii-III-vi move.
 - Which, we reinterpret as a ii-V-i, modulating to the parallel minor scale. Nice (From E to C#m).
 - So, again, the 7-3-6-2-5-1 chain can be interpreted as 2 ii-V-I groups, linked together.
@@ -540,9 +540,9 @@ i:
 - We also see I-VI7-ii-V-I
 - ✅ Hello little girl, ending/postscript
 - ✅ Little child, ending/coda
-- ✅✅ Her Majesty
+- ✅ Her Majesty
 - ✅ My Bonnie
-- ✅ Mr Moonlight
+- ✅ Mr. Moonlight
 
 #### II7 and the 'Imperfect Cadence' - 'the middle feeling'
 
@@ -672,7 +672,7 @@ i:
 ### The Aeolian/Ionian connection
 
 - (p. 146) The equality of the Ionian and Aeolian "modes".
-- Here there and everywhere, and Yesterday, and the ii-V-i sequence. (Recall Chapter 3 - yes, the "cyclical vii")
+- Here, there and everywhere, and Yesterday, and the ii-V-i sequence. (Recall Chapter 3 - yes, the "cyclical vii")
 - aka the vii-III-vi sequence. (pulling us toward the relative minor key.)
 - **Key point: The D7 (the V of G major) is the bVII of Em (the relative Aeolian to which we shift).**
 
@@ -842,22 +842,22 @@ i:
 #### (d) The minor rock runs: bVI-bVII-i and i-bVII-bVI-V7
 
 - Ex: F / G / Am in key of Am
-- ✅ _The story of Bungalow Bill_,
+- ✅ _The continuing story of Bungalow Bill_,
 - and, Layla, Stairway to Heaven
 - Ex: Am / G / F / E7
 - ✅ _Runaway_ (Del shannon), intro
 - Also: Don't let me be misunderstood, Sultans of Swing
-- 🎵 (p. 186) Also in the bassline of We can work it out
+- 🎵 We can work it out, (p. 186) Also in the bassline of
 
 ### Part 2: parallel major/minor switches
 
 - Now we'll look at cases of switching not to the relative minor, but to the parallel minor.
 - ✅ _I'll be back_
 - (p. 188) Using E to take us from Am to A, and the melody intermingles C and C#. Cool.
-- ✅ _Norwegian Wood_
+- ✅ _Norwegian Wood (this bird has flown)_
 - Has a parallel minor bridge (claimed by McCartney), cf. Michelle, whose parallel minor bridge Lennon claims
 - Note how the ii-V-I takes us out of i and into I. ("so I looked around and I noticed there wasn't a chair...")
-- ✅ i-bIII-bIV-V7 seen in Michelle, starting at "I love you, I love you, I love you..."
+- ✅ Michelle, i-bIII-bIV-V7 seen, starting at "I love you, I love you, I love you..."
 - 🎵 _Night and day_
 - ✅ _The fool on the hill_: great move from D major to D minor, facilitated by ii7-V7-i.
 - _He annotates the Bb/D as Dm#5, makes sense._
@@ -886,7 +886,7 @@ i:
 ### (b) v minor (e.g. Gm)
 
 - ✅ I'll Get you, 0:27, small moment, singled out in Ian MacDonald's _Revolution in the Head_
-- ✅ Strawberry Fields ("cause I'm going to...", 0:15)
+- ✅ Strawberry Fields forever ("cause I'm going to...", 0:15)
 - ✅ She's Leaving home ("Wednesday morning at...", intro)
 - ✅ Julia, 0:15
 - ✅ Sun King, 0:58, mention of C7-A7 as "the familiar cadence" that we are changing by using Gm7-A7 instead.
@@ -900,11 +900,11 @@ i:
 
 ### (c) bVI (e.g. Ab)
 
-- 🎵 () P.S. I love you, and,
-- 🎵 () Do you want to know a secret.
+- 🎵 P.S. I love you, and,
+- 🎵 Do you want to know a secret.
 - ✅ It won't be long (The C chord does not belong, in key of E!), 0:17
 - ✅ Honey Don't, intro, cool sound wow, departure from three chord trick indeed!
-- ✅ Til There was you, the ending, nice: great old tune
+- ✅ Till There was you, the ending, nice: great old tune
 - ✅ I saw her standing there (0:25), it's the "ooh!" chord!!!!
 - (p. 214) **Illustrates how the bVI is a functional substitute for iv.**
 - Ex: In E major, the iv is Am, and the bVI is C.
@@ -929,7 +929,7 @@ i:
 - 🎵 Honey Pie: G to Eb7 change.
 - (p. 220) We can see the next 2 borrowed chords as embellishing the minor pentatonic scale, giving us:
 - I-bIII-IV-V-bVII
-- 🎵 () The word: I-bVII-bIII-IV
+- 🎵 The word: I-bVII-bIII-IV
 - Wannabe (spice girls): I-bIII-IV-bVII
 
 ### (d) bIII (e.g. Eb)
@@ -941,8 +941,8 @@ i:
 - ✅ Magical Mystery Tour, intro, "Roll up, roll up for the mystery tour!"
 - ✅ Sgt. Pepper's lonely hearts club band
 - i can see for miles, the who
-- ✅ Back in the USSR ("Didn't get to bed last night...")
-- Think for yourself ('To say about the things that you do')
+- ✅ Back in the U.S.S.R. ("Didn't get to bed last night...")
+- 🎵 Think for yourself ('To say about the things that you do')
 - Bye bye love, everly brothers
 - ✅ Please please me (again!) -- the ending, using both bIII and bVI. (I-bIII-bVI-V-I)
 
@@ -1047,8 +1047,8 @@ i:
 - ✅ With a little help from my friends
 - chorus, D - A - E in key of E.
 - (p. 258) The Beatles 'bVII-IV-I' Double Plagal excursions - table of examples
-- ✅ intro to polythene pam
-- 🎵 intro to magical mystery tour
+- ✅ polythene pam, intro
+- 🎵 magical mystery tour, intro
 - "verse tag" to dear prudence ("won't you come out...to play")
 - 🎵 She said, she said: lyrics echo sense of being "trapped" in the chord cycle, nowhere to go
 - Also features a v (Fm) that works as a ii in a ii-V-I to Eb (from Bb).
@@ -1079,7 +1079,7 @@ i:
 #### More Mixolydian - folk flavors, pedals and 'Indian-esque drones'
 
 - 🎵 You've got to hide your love away
-- 🎵 Norwegian Wood
+- 🎵 Norwegian Wood (this bird has flown)
 - 🎵 If I needed someone
 - 🎵 Got to get you into my life
 - 🎵 Baby you're a rich man
@@ -1097,7 +1097,7 @@ i:
 - **The non-functioning II (not moving to a V) is very characteristic of Lydian feeling.**
 - 🎵 I am the walrus
 - **Also we have the vii7 chord** (note: no flat 5th. The 5th is the lydian #11 note.)
-- We saw this in Yesterday, Julia, Here there and everywhere (but not quite w/ Lydian feel.)
+- We saw this in Yesterday, Julia, Here, there and everywhere (but not quite w/ Lydian feel.)
 - 🎵 I am the walrus (again)
 - 🎵 Julia
 
@@ -1111,7 +1111,7 @@ i:
 - 🎵 Los Paranoias
 - vamp in Cm7/F7, think of as being in C Dorian, since you don't want to use the b6 of C (Ab) over the F chord.
 - 🎵 Don't bother me, also using the i - IV - i progression.
-- (See: while my guitar gently weeps, run for your life, norwegian wood)
+- (See: while my guitar gently weeps, run for your life, norwegian wood (this bird has flown))
 - (p. 285) Those all contain the IV -- but none contains the "brave" major 6 note in the melody.
 - 🎵 A taste of honey: clearly Dorian
 - 🎵 Eleanor Rigby: ambiguously Dorian or Aeolian (in E minor, using C natural in melody) (mccartney)
@@ -1249,17 +1249,17 @@ i:
 ### Intro (and IV)
 
 - The principle of modulation goes a long way toward explaining the re-listen-ability of Beatles songs.
-- From Me to you, 0:35, Paul singles this moment out
+- 🎵 From Me to you, 0:35, Paul singles this moment out
 - Bridges typically started with IV and moved to V.
 - But this opening on IV came to feel cliched.
-- From me to you: Gm (v) instead of IV.
+- 🎵 From me to you: Gm (v) instead of IV.
 - But it's functioning as the ii of F: we have modulated briefly!
 - Table of examples of bridge starting chords (p. 360)
 - The blues connection: a way to "jazz up" the I-IV move, with a relative ii-V-I into the IV.
 - They repeat the idea in...
-- I want to hold your hand, 0:51
+- 🎵 I want to hold your hand, 0:51
 - Shows the familiar ii-V-I-vi idea, but in a different key from the verse.
-- Octopus's garden, solo modulation.
+- 🎵 Octopus's garden, solo modulation.
 - (p. 364) A key switch can only occur when it involves a chord that does not belong to the original key.
 - (p. 366) The modulation map: using the circle of fifths to map out "distance" between key centers.
 - We see that "From me to you" was just the tip of the iceberg.
@@ -1377,7 +1377,7 @@ i:
 
 ##### #i dim - or the 'vii dim7 of ii'
 
-- 🎵 Til there was you (0:07)
+- 🎵 Till there was you (0:07)
 - #i dim7 can substitute for VI 7b9.
 - So we see: I - #i dim7 - ii - V.
 - 🎵 My Sweet Lord
@@ -1437,7 +1437,7 @@ Let's look at some more wacky chords they used.
 
 ### Tritone or 'Flat Five' substitution
 
-- 🎵 Til There was you: Gm7-Gb7#9-F
+- 🎵 Till There was you: Gm7-Gb7#9-F
 - Here the Gb is replacing a C7
 - Tritones become mirror images in the substituted 7th, right. -- _wait, what? haha_
 - (p. 462) So in addition to annotating things as the 'V of x', we can also say, the 'bII of x'.
@@ -1458,8 +1458,8 @@ Let's look at some more wacky chords they used.
 
 ### More Tritone substitution - beyond the V replacement
 
-- 🎵 Here there and everywhere
-- 🎵 Back in the USSR
+- 🎵 Here, there and everywhere
+- 🎵 Back in the U.S.S.R.
 - 🎵 Tell me Why
 - 🎵 Hello Little Girl
 - 🎵 I remember You
