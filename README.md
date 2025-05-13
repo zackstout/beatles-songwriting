@@ -161,6 +161,7 @@ i:
 - Norwegian Wood, intro
 - I me mine, has plenty
 - A hard day's night, 1:30
+- Got to get you into my life, 1:50
 
 ## Lyrics
 
@@ -1150,29 +1151,136 @@ i:
 
 ### (1) The Diatonic Major Descent (8-7-6-5)
 
+- A Whiter shade of pale, Procol Harum
+- no woman, no cry; Air on a G String
+- Her Majesty: Descending Elaboration of Static Harmony, simplest example, unchanging chord.
+- For no one, "Your day breaks..."
+
 #### 'Inversions': implied chordsfor the '8-7-6-5' descent
+
+- Ex: B/G# is really just G#m7.
+- **In general, the I6 and vi7 are inversions of each other.**
+- First inversion: third in bass
+- Second inversion: fifth in bass
+- Third inversion: seventh in bass
+- So, three options for harmonizing the descending natural seventh:
+  - Imaj7
+  - V (All you need is love, Free bird)
+  - iii (Real love)
+- Harmonizing the descending 6th:
+  - I
+  - vi
+  - vi7
+  - IV
+- Harmonizing the descending 5th:
+  - I
+  - V
+  - vi
+  - iii
+- Table of examples for returning to tonic after descent (p. 317)
+- Hey Jude, a descent from the IV chord instead of from the I. (Right -- remember Mixolydian vibe.)
+- Merry Xmas Everybody, Slade
 
 ### (2) The Diatonic Minor Descent (8-b7-b6-5)
 
+- Easily harmonized with chords from the scale: i-bVII-bVI-V.
+- We can work it out, bass descent under the Bm.
+
 ### (3) The Dorian/Aeolian hybrid descent (8-b7-6-b6)
+
+- While my guitar gently weeps
+- Gives a Dorian flavor, using the natural sixth and IV chord (D, over Am key).
+- Babe I'm gonna leave on; Dream on
 
 ### (4) The Rock Descent 8-b7-6-b6 - in major)
 
+- Table of (some) examples (p. 323)
+- Lucy in the sky with diamonds ("Picture yourself in a boat on a river...")
+- Recall: You've got to hide your love away (descending bassline)
+- Dear Prudence
+- Also, needle and the damage done
+
 ### (5) The Chromatic Descent (8-7-b7-6) - in Minor )
 
+- Michelle!
+- And yes, stairway to heaven! and into the great wide open, and Feelings.
+- How does the natural seventh get used?
+- -> Back to the harmnonic minor scale!
+- Also seen in Cry baby Cry, and a Taste of Honey
+- Can also be unfolded not from the tonic, but from a minor chord in a parent major key.
+- Ex: Got to get you into my life (iii)
+- And your bird can sing
+- And... a few other examples.
+
 ### (6) The Chromatic Descent (8-7-b7-6) - in Major )
+
+- It won't be long (aug chord)
+- Hello Goodbye
 
 ### 'Mr Kite's Circus Tricks'
 
 ### The augmented chord - anatomy of a secret weapon
 
+- Symmetry very reminiscent of diminshed chord symmetry: can substitute for each other within a family.
+- Four possible augmented families:
+  - B / D# / G
+  - C / E / G#
+  - C# / F / A
+  - D / F# / A#
+
 ### The Augmented Masterclass: 'Fixing A Hole', 'I'm So Tired' and 'Old Brown Shoe'.
 
 ### The Augmented Ascent (5-#5-6-#5) - James Bond and beyond
 
+- Table of examples of early Beatles covers (p. 345)
+
 ---
 
 ## Chapter 10
+
+### Intro (and IV)
+
+- The principle of modulation goes a long way toward explaining the re-listen-ability of Beatles songs.
+- From Me to you, 0:35, Paul singles this moment out
+- Bridges typically started with IV and moved to V.
+- But this opening on IV came to feel cliched.
+- From me to you: Gm (v) instead of IV.
+- But it's functioning as the ii of F: we have modulated briefly!
+- Table of examples of bridge starting chords (p. 360)
+- The blues connection: a way to "jazz up" the I-IV move, with a relative ii-V-I into the IV.
+- They repeat the idea in...
+- I want to hold your hand, 0:51
+- Shows the familiar ii-V-I-vi idea, but in a different key from the verse.
+- Octopus's garden, solo modulation.
+- (p. 364) A key switch can only occur when it involves a chord that does not belong to the original key.
+- (p. 366) The modulation map: using the circle of fifths to map out "distance" between key centers.
+- We see that "From me to you" was just the tip of the iceberg.
+
+### bVII
+
+### bIII
+
+### bVI
+
+### bII
+
+- The "Gear-box" effect table of examples (p. 380)
+
+### bV
+
+### III
+
+### VI
+
+### II
+
+#### Mr. Kite
+
+### V
+
+### The Big Picture
+
+### Lucy in the Sky with Diamonds: triple key heaven
 
 ---
 
