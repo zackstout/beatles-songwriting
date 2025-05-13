@@ -188,3 +188,6 @@ console.log({ empty, commented });
 
 console.log("COMMENT COUNTS PER SONG:");
 console.log(counts);
+
+// NOTE: keep in mind that there may still be items in the notes that are not being brought in properly here
+// because the song name is not properly written
