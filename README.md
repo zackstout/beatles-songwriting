@@ -948,53 +948,56 @@ i:
 
 ### (e) bVII (e.g. Bb)
 
-- (p. 223) The most important "borrowed chord", perhaps of the whole book.
+- (p. 223) **The most important "borrowed chord", perhaps of the whole book.**
 - The chord has many functions.
+- (Note how we see it show up immediately in next chapter, as Mixolydian character chord.)0
 
 #### bVII as a 'pre-dominant': fueling the V7
 
-- 🎵 All my loving ("I'll always be trueeee...")
+- ✅ All my loving ("I'll always be trueeee...", opening verse)
 - (p. 224) voice leading
-- 🎵 Help! ('Won't you please please help me?', end of chorus)
+- ✅ Help! ('and i do appreciate you being round...', middle of chorus)
 - (p. 226) bVII-V7 move, Dock of the Bay.
 
 #### bVII and the Four-Chord Turnaround
 
 - I-bVII-IV-V
-- 🎵 The Night Before
-- 🎵 Another Girl: I-bVII-I-IV7
-- 🎵 The Word: I-bVII-bIII-IV
+- ✅ The Night Before, opening verse
+- ✅ Another Girl: I-bVII-I-IV7, opening verse
+- ✅ The Word: I-bVII-bIII-IV, 0:30, "In the beginning, i misunderstood..."
 
 #### The Cycle of Fifths revisited - the sharp and flat side of 'Lovely Rita'
 
 - Ah, yes, finally we open it up without 'cheating' at the vii, and truly go all the way around... "to the flat side".
 - We do so by starting on one side, descending through tonic, to other side.
-- 🎵 Lovely Rita
-- vi-ii-V-I-VI-bVII-bIII
-- 🎵 Every day (Buddy holly, covered by Beatles), shows we can extend to bVI, heading to V.
+- ✅ Lovely Rita
+- vi-ii-V-I-VI-bVII-bIII, chorus into verse, neat!
+- ✅ Everyday (Buddy holly, covered by Beatles), shows we can extend to bVI, heading to V, start at 0:32
 
 #### The Power of the bVII-I 'major rock' cadence
 
-- 🎵 A Hard Day's night ("I've been working, like a dog...")
-- 🎵 Help! ("help in any way..")
+- ✅ A Hard Day's night ("I've been working, like a dog...")
+- ✅ Help! ("help in any way.."), passing chord
 - You really got me (the kinks), born to be wild, my generation (the who)
-- 🎵 We Can work it out ("talking til i can't go on..")
+- ✅ We Can work it out ("talking til i can't go on..")
 
 #### Reconceiving the bVII-I cadence: the 'Reverse Dominant Minor Substitution'
 
-- 🎵 Hello Goodbye, revisited, nice to see both examples, the bVI-for-iv and the bVII-I.
+- ✅ Hello Goodbye, revisited, nice to see both examples, the bVI-for-iv and the bVII-I, 0:27-0:36
 - **'Given a minor chord, we can substitute a dominant seventh chord a fourth higher.'**
 - (p. 235) Just as bVI is relative major of phantom iv, bVII9 is a reverse dominant minor sub of iv.
+- That is, both of those chords share many notes with the phantom iv chord.
 
 #### Theory interlude
 
+- (I feel like this hasn't sunk in yet...)
 - **The bVII and v are relative major and minor.**
 - **Just like vi and I, ii and IV, and iv and bVI.**
 - Examples in C:
-  - Am and C
-  - Dm and F
-  - Gm and Bb
-  - Fm and Ab
+  - Am and C (vi => I)
+  - Dm and F (ii => IV)
+  - Gm and Bb (v => bVII)
+  - Fm and Ab (iv => bVI)
 - Multiple options for harmonizing a tricky b7 note in melody:
   - Turn I to I7
   - Throw in a v
@@ -1002,9 +1005,9 @@ i:
 
 #### The Beatles origins of the 'major' Aeolian rock run: bVI-bVII-I
 
-- 🎵 P.S. I love you
-- 🎵 Lady Madonna
-- 🎵 Polythene Pam
+- ✅ P.S. I love you, cool tune
+- ✅ Lady Madonna, 'make ends meet..'
+- ✅ Polythene Pam, iconic: "yeah yeah yeah"
 
 #### A post-Beatles tour of the major 'Aeolian rock run'
 
@@ -1029,21 +1032,22 @@ i:
 - We move down two semitones, and then descend by two perfect fourths to get back to F.
 - **So this is coming from F Mixolydian, rather than Bb major.**
 - When lowering the 7th of the F major scale, you get Eb major as the 7th chord, instead of E dim.
-- That bVII is a 'character chord' of the Mixolydian.
+- **That bVII is a 'character chord' of the Mixolydian. (Eb in this example)**
 - And this bVII - IV - I movement is nothing other than a double plagal movement! (Eb - Bb - F)
 
 #### The Double Plagal
 
 - We can see this movement as going CW around circle of fifths, starting behind tonic.
 - **Very interesting: the bVII-IV-I is coming from a set of chords that could alternatively be grouped as I-IV-V.**
+- **This is worth thinking about more.**
 - (This is the movement from Ionian to Mixolydian.)
-- 🎵 You never give me your money
+- ✅ You never give me your money, 1:31-2:09
 - Overall the bVII-IV-I movement is more stable than its "mirror", the II-V-I, because the IV and I share I's root.
 - (descent by fourths vs descent by fifths)
-- 🎵 With a little help from my friends
+- ✅ With a little help from my friends
 - chorus, D - A - E in key of E.
 - (p. 258) The Beatles 'bVII-IV-I' Double Plagal excursions - table of examples
-- 🎵 intro to polythene pam
+- ✅ intro to polythene pam
 - 🎵 intro to magical mystery tour
 - "verse tag" to dear prudence ("won't you come out...to play")
 - 🎵 She said, she said: lyrics echo sense of being "trapped" in the chord cycle, nowhere to go
@@ -1054,6 +1058,7 @@ i:
 
 #### Beyond the Double Plagal: 'Triples' and 'Quads'
 
+- **Going "backwards" (or forwards? fourthwards) around circle of fifths, to descend in fourths**:
 - We have: bII -> bVI -> bIII -> bVII -> IV -> I
 - 🎵 Here comes the sun: "Sun, sun, sun...":
 - C G D A (E7): bIII, bVII, IV, I (V7)
@@ -1063,6 +1068,7 @@ i:
 
 #### Rationalizing the bVII chord: Mixolydian or 'borrowed'?
 
+- Ah yes, great question. Was wondering the same thing!
 - So: is the bVII 'Aeolian' (part of the parallel minor), or "Mixolydian"?
 - We saw that bVI-bVII-I can define the Aeolian.
 - _"There is only good music, and bad music."_ - Miles Davis
@@ -1084,13 +1090,13 @@ i:
 ### (b) The Lydian Mode
 
 - Harmonization table, p. 281
-- Characteristic note is the #11, and less so the major 7 (though not so much as leading, more as floating)
+- **Characteristic note is the #11, and less so the major 7** (though not so much as leading, more as floating)
 - 🎵 I will
 - 🎵 Blue jay way
 - 🎵 Flying
-- The non-functioning II (not moving to a V) is very characteristic of Lydian feeling.
+- **The non-functioning II (not moving to a V) is very characteristic of Lydian feeling.**
 - 🎵 I am the walrus
-- Also we have the vii7 chord (note: no flat 5th. The 5th is the lydian #11 note.)
+- **Also we have the vii7 chord** (note: no flat 5th. The 5th is the lydian #11 note.)
 - We saw this in Yesterday, Julia, Here there and everywhere (but not quite w/ Lydian feel.)
 - 🎵 I am the walrus (again)
 - 🎵 Julia
@@ -1098,10 +1104,10 @@ i:
 ### (c) The Dorian Mode
 
 - Harmonization table, p. 284
-- Character chord is the major IV, in a minor setting -- indeed, the IV7 often.
+- **Character chord is the major IV, in a minor setting -- indeed, the IV7 often.**
 - **(The m3 of the IV is I's b6. So when we raise it to 3, we get 6.)**
 - Think of as a natural minor scale with a raised (natural, not flat) sixth.
-- So the characteristic note is the natural sixth.
+- **So the characteristic note is the natural sixth.**
 - 🎵 Los Paranoias
 - vamp in Cm7/F7, think of as being in C Dorian, since you don't want to use the b6 of C (Ab) over the F chord.
 - 🎵 Don't bother me, also using the i - IV - i progression.
@@ -1116,6 +1122,7 @@ i:
 
 ### (d) The Locrian Mode
 
+- Includes the flat fifth, which is a tritone away from root. Yeesh!
 - (p. 289) hm, maybe try to match a color with each interval...
 - Metallica's "Blackened"
 - "Diabolus in Musica" warnings of the Middle Ages: the tritone.
@@ -1127,6 +1134,7 @@ i:
 - Starts on 3rd degree of scale.
 - Think of as natural minor with flattened second.
 - This creates a major triad on the bII, so we have i-bII...
+- **And bII is the character chord.**
 - Spanish guitar solo to start Bungalow Bill, lol came from a Mellotron (like flutes on Strawberry fields)
 - 🎵 The continuing story of Bungalow bill
 
@@ -1143,7 +1151,7 @@ i:
 
 - 🎵 Do you want to know a secret
 - 'Super Phrygian' cadence of bII-V7-I
-- The bII is called the 'Neapolitan' chord, and indeed the 'Neapolitan Sixth' when voiced in first inversion.
+- **The bII is called the 'Neapolitan' chord, and indeed the 'Neapolitan Sixth' when voiced in first inversion.**
 
 ---
 
@@ -1345,7 +1353,7 @@ i:
 - D-F-G#-B
 - Eb-F#-A-C
 - Notice that memorizing these 3 sequences also gives you all the tritones.
-- **So, when going to D minor tonic, any of C# dim7, E# dim7, G# dim7, and Bb dim7, can function as a primary dominant substitute.**
+- **So, when going to D minor tonic, any of C# dim7, E dim7, G dim7, and Bb dim7, can function as a primary dominant substitute (for A7).**
 - So if we are doing a ii-V-I in D, we are going Em-A7-D.
 - Any of following can substitute for A7: C#dim, Edim, Gdim, Bbdim
 - These are the vii, ii, iv, and bvi.
@@ -1415,7 +1423,7 @@ Let's look at some more wacky chords they used.
 
 ### The Gretty Chord Mystery - from Whitechapel to the World Wide Web
 
-- The 7#9 chord, aka the Hendrix chord.
+- **The Grety Chord is 7#9, aka the Hendrix chord.**
 - The 7#9 chord on Till there was you, Gretty said it was used again in Michelle ("ma belle").
 - (p. 458) Played on E string root with b7 and #9 on B and E strings, respectively (3 frets up from root).
 - So, no! It's NOT Bbm7! It's Bb7#9!
@@ -1431,20 +1439,20 @@ Let's look at some more wacky chords they used.
 
 - 🎵 Til There was you: Gm7-Gb7#9-F
 - Here the Gb is replacing a C7
-- Tritones become mirror images in the substituted 7th, right.
+- Tritones become mirror images in the substituted 7th, right. -- _wait, what? haha_
 - (p. 462) So in addition to annotating things as the 'V of x', we can also say, the 'bII of x'.
 - 🎵 Sexy Sadie: II7-bII7#9-I.
 
 ### Beyond the Gretty Chord - More Beatles tritone subs
 
 - We more often see the 7b5 used as tritone substitution.
-- The reason is that the b5 mirrors the root of the replaced chord.
-- e.g. E7 and Bb7b5
+- **The reason is that the b5 mirrors the root of the replaced chord.**
+- e.g. E7 and Bb7b5: the flattened fifth of Bb is E.
 
 ### bII: Tritone substitution and the Phrygian cadence
 
 - 🎵 Things we said today
-- Replaces a II-V-I with a II-bII-i.
+- _Replaces a II-V-I with a II-bII-i._
 - 🎵 You're going to lose that girl
 - 🎵 If I fell (intro to verse)
 
@@ -1513,20 +1521,43 @@ Let's look at some more wacky chords they used.
 
 ## Appendix 1
 
+- "I will" and "Fool on the Hill" both use melodies with all 7 pitches from the scale.
+
 ---
 
 ## Appendix 2
+
+- Opening chord changes table, p. 734: every case is covered!
+- Bridge modulation changes table, p. 736: again, every case, almost.
+- Mechanisms for modulation (cadences), p. 737.
 
 ---
 
 ## Appendix 3
 
+- **Harmonisation requires us to view notes in a melody both in terms of the parent major scale and also the prevailing chord.** (p. 740)
+- non-triad tones are important in making a melody 'work', even if in this context, those notes are merely linking the strong chord tones. (p. 742)
+- the nature of harmony is that notes from the melody combine with notes in the underlying chord to determine the complete, overall sonority that the listener ultimately enjoys.
+- ...
 - (p. 753) Ascending intervals table with examples
 - (p. 754) Descending intervals table with examples
 
 ---
 
 ## Appendix 4
+
+- p. 762, Abbey Road side 2 as a "self-contained challenge"
+  - Here comes the sun
+  - Because
+  - You never give me your money
+  - Sun king
+  - Mean mr mustard
+  - (Her majesty)
+  - Polythene Pam
+  - She came in through the bathroom window
+  - Golden Slumbers
+  - Carry that weight
+  - The end
 
 ---
 
