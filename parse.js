@@ -191,3 +191,19 @@ console.log(counts);
 
 // NOTE: keep in mind that there may still be items in the notes that are not being brought in properly here
 // because the song name is not properly written
+
+// And yeah.... I mean, at the end of the day, I think what we'd like is...
+// Pick a particular song.
+// And then see the references to all the times it's mentioned in the text.
+
+// Oh.... I guess that's called an INDEX lmao....
+// Maybe there's a way to make it more useful.
+
+// You can link directly to each part of YOUR notes that corresponds to it.
+// You can write a nice description of what exactly is being highlighted about the song.
+// Can include the time link.
+
+// We currently have 144 songs in the Beatles Songwriting Secrets Spotify playlist.
+// 6 and a half hours, lol.
+
+// Oh, so we probably want to have an "early covers" "album list", to handle those cases.

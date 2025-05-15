@@ -42,6 +42,10 @@ Here is a [link to the source pdf](https://dn790008.ca.archive.org/0/items/songw
 - (p. 76) McCartney's 'formula' - The 'iii-chord Trick'
 - (pp. 104-105) 'The middle feeling' imperfect cadence
 - (p. 192) Parallel major/minor switch
+- (p. 258) Double Plagal excursions
+- (p. 317) Return to bass after Chromatic descent
+- (p. 323) Rock Descent
+- (p. 345) Augmented Ascent: James Bond and beyond
 
 ## Chord Progressions/Motifs
 
@@ -810,7 +814,7 @@ i:
 #### 'And I love her' - the final chord - a Picardy third?
 
 - (p. 180) Picardy third: when the minor iii has its third lifted up a semitone to make it into a major triad.
-- 🎵 Cf. end of _A Taste of Honey_,
+- 🎵 _A Taste of Honey_, the ending
 - or _Shine on you crazy diamond_
 
 ### Part 1.5: Minor-key Progressions
@@ -827,7 +831,7 @@ i:
 - (p. 183): i -> iv -> bVII -> bIII -> bVI -> ii -> V -> i
 - Note that jump from bVI -> ii is just a diminished fifth (or augmented fourth), not a true fifth --
 - **but wasn't this also true in the original Cycle????**
-- _Autumn Leaves_, _I will survive_
+- 🎵 _Autumn Leaves_, _I will survive_
 - And again, recall Can't buy me leave and Golden slumbers from Ch. 3
 - ✅ _Carry that weight_: G as the pivot chord moving us from Am all the way to C major. (same idea we've seen a few times)
 
@@ -1161,8 +1165,8 @@ i:
 
 - A Whiter shade of pale, Procol Harum
 - no woman, no cry; Air on a G String
-- Her Majesty: Descending Elaboration of Static Harmony, simplest example, unchanging chord.
-- For no one, "Your day breaks..."
+- 🎵 Her Majesty: Descending Elaboration of Static Harmony, simplest example, unchanging chord.
+- 🎵 For no one, "Your day breaks..."
 
 #### 'Inversions': implied chordsfor the '8-7-6-5' descent
 
@@ -1186,46 +1190,50 @@ i:
   - vi
   - iii
 - Table of examples for returning to tonic after descent (p. 317)
-- Hey Jude, a descent from the IV chord instead of from the I. (Right -- remember Mixolydian vibe.)
+- 🎵 Hey Jude, a descent from the IV chord instead of from the I. (Right -- remember Mixolydian vibe.)
 - Merry Xmas Everybody, Slade
 
 ### (2) The Diatonic Minor Descent (8-b7-b6-5)
 
 - Easily harmonized with chords from the scale: i-bVII-bVI-V.
-- We can work it out, bass descent under the Bm.
+- 🎵 We can work it out, bass descent under the Bm.
 
 ### (3) The Dorian/Aeolian hybrid descent (8-b7-6-b6)
 
-- While my guitar gently weeps
+- 🎵 While my guitar gently weeps
 - Gives a Dorian flavor, using the natural sixth and IV chord (D, over Am key).
 - Babe I'm gonna leave on; Dream on
 
 ### (4) The Rock Descent 8-b7-6-b6 - in major)
 
 - Table of (some) examples (p. 323)
-- Lucy in the sky with diamonds ("Picture yourself in a boat on a river...")
+- 🎵 Lucy in the sky with diamonds ("Picture yourself in a boat on a river...")
 - Recall: You've got to hide your love away (descending bassline)
-- Dear Prudence
+- 🎵 Dear Prudence
 - Also, needle and the damage done
 
 ### (5) The Chromatic Descent (8-7-b7-6) - in Minor )
 
-- Michelle!
+- 🎵 Michelle!
 - And yes, stairway to heaven! and into the great wide open, and Feelings.
 - How does the natural seventh get used?
 - -> Back to the harmnonic minor scale!
-- Also seen in Cry baby Cry, and a Taste of Honey
+- Also seen in
+- 🎵 Cry baby Cry, and
+- 🎵 a Taste of Honey
 - Can also be unfolded not from the tonic, but from a minor chord in a parent major key.
-- Ex: Got to get you into my life (iii)
-- And your bird can sing
+- 🎵 Got to get you into my life (iii)
+- 🎵 And your bird can sing
 - And... a few other examples.
 
 ### (6) The Chromatic Descent (8-7-b7-6) - in Major )
 
-- It won't be long (aug chord)
-- Hello Goodbye
+- 🎵 It won't be long (aug chord)
+- 🎵 Hello Goodbye
 
 ### 'Mr Kite's Circus Tricks'
+
+- 🎵 Being for the benefit of mr. kite
 
 ### The augmented chord - anatomy of a secret weapon
 
@@ -1300,7 +1308,7 @@ i:
 
 ### Part 1: Diminished as a passing chord
 
-- 🎵 Like Dreamers do
+- ✅ Like Dreamers do, 2:17
 - The dim7 can help to harmonize with the b5 "blue note", or all the microtones between 4 and 5. (aka, tritone city.)
 
 #### Theory interlude: the structure of the diminished seventh
@@ -1308,7 +1316,7 @@ i:
 - Whole-half scale, and Half-whole scale, both give rise to dim7.
 - Each contains 8, rather than the usual 7, notes.
 - (p. 406) **3 minor thirds stacked up, which creates 2 tritone intervals** (!).
-- 🎵 The Sheik of Araby (intro)
+- ✅ The Sheik of Araby (intro)
 - Substitution of vi dim7 for vi, in the typical Doo wop cliche (I-vi-ii-V)
 - Has voice leading from G (fifth of C) to Gb (bb7 of Am) to F (m3 of Dm7).
 
@@ -1321,16 +1329,17 @@ i:
 
 - I / IV / I / I / IV / #iv dim / I
 - Cool voice leading from root of IV, to its sharp, and up one more to the fifth of the I.
-- 🎵 Hallelujah, I love her so
+- ✅ Hallelujah I love her so: nice classic change
 
 #### Relating a diminished chord to a dominant 7b9
 
-- 🎵 It won't be long
+- ✅ It won't be long
 - (p. 410) A# dim7 === A7b9.
+- IV-#iv dim-I of Hallelujah I love her so
 - **Omg, this is what we've seen in the shapes -- the 7b9 is weird and can be construed as multiple different diminished chords!!!**
 - **The b9 rule: When a 7b9 chord appears, you can substitute a dim7 built on a root a semitone higher.**
 - Cf. Cole Porter's "True Love"
-- 🎵 The End (intro theme)
+- ✅ The End (intro theme)
 - (p. 413) The IV-#ivdim-I is a way of "supercharging" the plagal cadence.
 - Instead of descending like the IV-iv-I voice leading, this one ascends. Cool "mirror image".
 
@@ -1338,13 +1347,20 @@ i:
 
 - Since it contains double tritones, it can be substituted for multiple different dominant seventh chords.
 - _The harmonic minor scale is the only scale that contains the dim 7 as a diatonic chord._
-- 🎵 S.O.S. (verse), Abba
+- ✅ S.O.S. (verse), Abba
 - (p. 415) **The vii dim 7 (e.g. C# dim7 in D minor) has almost all same notes as the V7 (e.g. A7b9 with no root, in D minor)**.
 - **So it can function as a surrogate dominant, even outside of the harmonic minor habitat.**
+- The dim7 changes to sharpened minor with 3 semitone changes.
+- Voice leading table! (414)
 - And... INDEED! We can see that C# and A# are separated by a minor third.
 - And we saw in previous section that A# dim7 can sub for A7b9.
 - And now we see that C# dim7 can do the same thing.
+- Because it leads back into the I: the same way that the V does..right?
 - Aha...!
+- Indeed, we have the vii dim 7, the iv dim7, the ii dim7, and the #v dim7....
+- Wait, but I thought it was #iv....Oh I guess that was for a V? Different role...No -- it was for the IV.
+- I'm confused, lol.
+- It's confusing because he uses A7b9 as example twice, but one time in key of E major (It won't be long) and other time in key of D minor (S.O.S.).
 - And that is because of....
 
 #### The symmetry of diminished and its inversions
@@ -1354,6 +1370,8 @@ i:
 - Eb-F#-A-C
 - Notice that memorizing these 3 sequences also gives you all the tritones.
 - **So, when going to D minor tonic, any of C# dim7, E dim7, G dim7, and Bb dim7, can function as a primary dominant substitute (for A7).**
+  - That is: The vii, ii, iv, or #v.
+  - (Or: 2, 5, 8, 11; out of 12 total semitones.)
 - So if we are doing a ii-V-I in D, we are going Em-A7-D.
 - Any of following can substitute for A7: C#dim, Edim, Gdim, Bbdim
 - These are the vii, ii, iv, and bvi.
@@ -1361,15 +1379,15 @@ i:
 
 #### Subbing for a I7 that cues a bridge on IV
 
-- 🎵 Till there was you (1:22), one of Harrison's "most enlightened" solos
-- 🎵 Blue Jay Way (0:21), the initial melody rising by 2 minor thirds.
+- ✅ Till there was you (1:22), one of Harrison's "most enlightened" solos
+- ✅ Blue Jay Way (0:21), the initial melody rising by 2 minor thirds.
 
 #### Dimished for primary dominant - 'the vii dim7 of I'
 
-- 🎵 I want to tell you (0:36)
+- ✅ I want to tell you (0:36)
 - This song is in A, and uses E7b9 === Bdim7 to interesting effect. (built on the ii)
-- 🎵 I want to tell you (0:59)
-- 🎵 You won't see me (1:18), bridge, we have E7 wanting to return to A, but it becomes D dim. (built on the iv)
+- ✅ I want to tell you (0:59)
+- ✅ You won't see me (1:18), bridge, we have E7 wanting to return to A, but it becomes D dim. (built on the iv), "time after time..."
 
 #### Diminished for secondary dominant - 'vii dim7 of ii, iii, and vi'
 
@@ -1377,12 +1395,13 @@ i:
 
 ##### #i dim - or the 'vii dim7 of ii'
 
-- 🎵 Till there was you (0:07)
+- ✅ Till there was you (0:07)
 - #i dim7 can substitute for VI 7b9.
 - So we see: I - #i dim7 - ii - V.
-- 🎵 My Sweet Lord
+- ✅ My Sweet Lord
 - Here we see: I - #i dim7 - VI7 - ii - V.
-- 🎵 Blackbird
+- ✅ Blackbird
+- Then, oddly, we have four NON-Beatles songs...
 - 🎵 Life on mars
 - 🎵 Don't look back in anger
 - 🎵 The tears of a clown
@@ -1423,7 +1442,7 @@ Let's look at some more wacky chords they used.
 
 ### The Gretty Chord Mystery - from Whitechapel to the World Wide Web
 
-- **The Grety Chord is 7#9, aka the Hendrix chord.**
+- **The Gretty Chord is 7#9, aka the Hendrix chord.**
 - The 7#9 chord on Till there was you, Gretty said it was used again in Michelle ("ma belle").
 - (p. 458) Played on E string root with b7 and #9 on B and E strings, respectively (3 frets up from root).
 - So, no! It's NOT Bbm7! It's Bb7#9!
