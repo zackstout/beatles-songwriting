@@ -36,7 +36,7 @@ Regular text means 0 references.
 - **Not a Second Time**
 - Money (That's What I Want)
 ## Hard Day's Night
-- **A Hard Day's Night**
+- ***A Hard Day's Night***
 - *I Should Have Known Better*
 - **If I Fell**
 - *I'm Happy Just to Dance with You*
@@ -76,7 +76,7 @@ Regular text means 0 references.
 - *It's Only Love*
 - You Like Me Too Much
 - Tell Me What You See
-- I've Just Seen a Face
+- *I've Just Seen a Face*
 - **Yesterday**
 - Dizzy Miss Lizzy
 ## Rubber Soul
@@ -101,7 +101,7 @@ Regular text means 0 references.
 - Love You To
 - ***Here, There and Everywhere***
 - Yellow Submarine
-- She Said She Said
+- *She Said She Said*
 - *Good Day Sunshine*
 - *And Your Bird Can Sing*
 - ***For No One***
@@ -116,11 +116,11 @@ Regular text means 0 references.
 - *Getting Better*
 - *Fixing a Hole*
 - **She's Leaving Home**
-- Being for the Benefit of Mr. Kite!
+- **Being for the Benefit of Mr. Kite!**
 - Within You Without You
-- When I'm Sixty-Four
+- *When I'm Sixty-Four*
 - *Lovely Rita*
-- Good Morning Good Morning
+- *Good Morning Good Morning*
 - Sgt. Pepper's Lonely Hearts Club Band (Reprise)
 - ***A Day in the Life***
 ## Magical Mystery Tour
@@ -145,7 +145,7 @@ Regular text means 0 references.
 - *While My Guitar Gently Weeps*
 - **Happiness Is a Warm Gun**
 - **Martha My Dear**
-- **I'm So Tired**
+- ***I'm So Tired***
 - *Blackbird*
 - *Piggies*
 - *Rocky Raccoon*
@@ -178,7 +178,7 @@ Regular text means 0 references.
 - **Something**
 - *Maxwell's Silver Hammer*
 - **Oh! Darling**
-- **Octopus's Garden**
+- ***Octopus's Garden***
 - *I Want You (She's So Heavy)*
 - *Here Comes the Sun*
 - *Because*

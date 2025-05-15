@@ -364,11 +364,11 @@ i:
 - Often a small break from a larger theme: A Hard Day's Night, I'm So Tired, I'll Get You
 - ✅ _Real love_
 - (p. 60) The Beatles and the I-vi-IV-V turnaround: table of examples
-- A Hard Day's Night (bridge)
-- I'll Get You (verse)
-- I'm So Tired (verse)
-- I've Just seen a face (verse)
-- Octopus's Garden
+- 🎵 A Hard Day's Night (bridge)
+- 🎵 I'll Get You (verse)
+- 🎵 I'm So Tired (verse)
+- 🎵 I've Just seen a face (verse)
+- 🎵 Octopus's Garden
 
 #### Diatonic substitution: the first steps
 
@@ -787,7 +787,7 @@ i:
 - ✅ _In My Life_, 0:28, "all these places have their moments..."
 - Examples of true modulation:
 - ✅ _We Can Work it out_, 0:36, going to Bm but in a true modulating way, "Life is very short.."
-- 🎵 _When I'm Sixty Four_, 1:36
+- 🎵 _When I'm Sixty-Four_, 1:36
 
 #### Minor to relative major switches - a caveat
 
@@ -1054,7 +1054,7 @@ i:
 - ✅ polythene pam, intro
 - 🎵 magical mystery tour, intro
 - "verse tag" to dear prudence ("won't you come out...to play")
-- 🎵 She said, she said: lyrics echo sense of being "trapped" in the chord cycle, nowhere to go
+- 🎵 She said she said: lyrics echo sense of being "trapped" in the chord cycle, nowhere to go
 - Also features a v (Fm) that works as a ii in a ii-V-I to Eb (from Bb).
 - "Turning the subdominant into the tonic can be used to signify a retreat into the inner self."
 - Paradise City, "Please, please, take me home.."
@@ -1078,7 +1078,7 @@ i:
 - _"There is only good music, and bad music."_ - Miles Davis
 - Mixolydian emerges both from blues (cf. A Hard Day's Night, b3) and country (3 and 6 and b7).
 - 🎵 I'm a loser
-- 🎵 Good morning, good morning
+- 🎵 Good morning good morning
 
 #### More Mixolydian - folk flavors, pedals and 'Indian-esque drones'
 
@@ -1236,7 +1236,7 @@ i:
 
 ### 'Mr Kite's Circus Tricks'
 
-- 🎵 Being for the benefit of mr. kite
+- 🎵 Being for the benefit of mr. kite!
 
 ### The augmented chord - anatomy of a secret weapon
 
@@ -1337,7 +1337,7 @@ i:
 
 #### Mr. Kite
 
-- 🎵 Being for the benefit of mr. kite
+- 🎵 Being for the benefit of mr. kite!
 
 ### V
 
