@@ -214,10 +214,15 @@ console.log(counts);
 
 let file = `
 This file represents the number of references that are made to each song within the book.
-Regular text means 0 references.
-*Italics* means 1 reference.
-**Bold** means 2 references.
-***Bold italics*** means 3 or more references.
+
+- Regular text means 0 references. (${counts[0]} total)
+- *Italics* means 1 reference. (${counts[1]} total)
+- **Bold** means 2 references. (${counts[2]} total)
+- ***Bold italics*** means 3 or more references. (${Object.keys(counts)
+  .filter((k) => parseInt(k) >= 3)
+  .reduce((sum, val) => sum + counts[val], 0)} total)
+
+There are ${allSongs.length} total songs.
 
 `;
 

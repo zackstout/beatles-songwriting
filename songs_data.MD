@@ -1,9 +1,12 @@
 
 This file represents the number of references that are made to each song within the book.
-Regular text means 0 references.
-*Italics* means 1 reference.
-**Bold** means 2 references.
-***Bold italics*** means 3 or more references.
+
+- Regular text means 0 references. (50 total)
+- *Italics* means 1 reference. (67 total)
+- **Bold** means 2 references. (40 total)
+- ***Bold italics*** means 3 or more references. (37 total)
+
+There are 196 total songs.
 
 ## Please Please Me
 - ***I Saw Her Standing There***
