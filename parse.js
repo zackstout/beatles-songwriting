@@ -224,7 +224,7 @@ Regular text means 0 references.
 albumMatches.forEach((album) => {
   console.log("album", album);
   const songs = finalObject[album];
-  file += `##${album}`;
+  file += `## ${album}`;
   file += "\n";
 
   Object.keys(songs).forEach((song) => {

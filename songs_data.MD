@@ -5,7 +5,7 @@ Regular text means 0 references.
 **Bold** means 2 references.
 ***Bold italics*** means 3 or more references.
 
-##Please Please Me
+## Please Please Me
 - ***I Saw Her Standing There***
 - *Misery*
 - *Anna (Go to Him)*
@@ -20,7 +20,7 @@ Regular text means 0 references.
 - ***A Taste of Honey***
 - **There's a Place**
 - *Twist and Shout*
-##With the Beatles
+## With the Beatles
 - ***It Won't Be Long***
 - **All I've Got to Do**
 - ***All My Loving***
@@ -35,7 +35,7 @@ Regular text means 0 references.
 - *Devil In Her Heart*
 - **Not a Second Time**
 - Money (That's What I Want)
-##Hard Day's Night
+## Hard Day's Night
 - **A Hard Day's Night**
 - *I Should Have Known Better*
 - **If I Fell**
@@ -49,7 +49,7 @@ Regular text means 0 references.
 - **When I Get Home**
 - **You Can't Do That**
 - *I'll Be Back*
-##Beatles For Sale
+## Beatles For Sale
 - *No Reply*
 - **I'm a Loser**
 - Baby's in Black
@@ -64,7 +64,7 @@ Regular text means 0 references.
 - I Don't Want to Spoil the Party
 - *What You're Doing*
 - Everybody's Trying to Be My Baby
-##Help!
+## Help!
 - ***Help!***
 - **The Night Before**
 - **You've Got to Hide Your Love Away**
@@ -79,7 +79,7 @@ Regular text means 0 references.
 - I've Just Seen a Face
 - **Yesterday**
 - Dizzy Miss Lizzy
-##Rubber Soul
+## Rubber Soul
 - **Drive My Car**
 - **Norwegian Wood (This Bird Has Flown)**
 - **You Won't See Me**
@@ -94,7 +94,7 @@ Regular text means 0 references.
 - *Wait*
 - ***If I Needed Someone***
 - *Run for Your Life*
-##Revolver
+## Revolver
 - *Taxman*
 - **Eleanor Rigby**
 - *I'm Only Sleeping*
@@ -109,7 +109,7 @@ Regular text means 0 references.
 - **I Want to Tell You**
 - ***Got to Get You into My Life***
 - *Tomorrow Never Knows*
-##Sgt. Pepper's Lonely Hearts Club Band
+## Sgt. Pepper's Lonely Hearts Club Band
 - *Sgt. Pepper's Lonely Hearts Club Band*
 - *With a Little Help from My Friends*
 - ***Lucy in the Sky with Diamonds***
@@ -123,7 +123,7 @@ Regular text means 0 references.
 - Good Morning Good Morning
 - Sgt. Pepper's Lonely Hearts Club Band (Reprise)
 - ***A Day in the Life***
-##Magical Mystery Tour
+## Magical Mystery Tour
 - ***Magical Mystery Tour***
 - *The Fool on the Hill*
 - *Flying*
@@ -135,7 +135,7 @@ Regular text means 0 references.
 - ***Penny Lane***
 - Baby, You're a Rich Man
 - **All You Need Is Love**
-##White Album
+## White Album
 - ***Back in the U.S.S.R.***
 - *Dear Prudence*
 - **Glass Onion**
@@ -166,14 +166,14 @@ Regular text means 0 references.
 - **Cry Baby Cry**
 - Revolution 9
 - Good Night
-##Yellow Submarine
+## Yellow Submarine
 - Yellow Submarine
 - *Only a Northern Song*
 - *All Together Now*
 - *Hey Bulldog*
 - It's All Too Much
 - All You Need Is Love
-##Abbey Road
+## Abbey Road
 - *Come Together*
 - **Something**
 - *Maxwell's Silver Hammer*
@@ -191,7 +191,7 @@ Regular text means 0 references.
 - *Carry That Weight*
 - **The End**
 - ***Her Majesty***
-##Let It Be
+## Let It Be
 - **Two of Us**
 - Dig a Pony
 - *Across the Universe*
@@ -204,7 +204,7 @@ Regular text means 0 references.
 - *The Long and Winding Road*
 - *For You Blue*
 - Get Back
-##Extr
+## Extr
 - ***We Can Work It Out***
 - *Day Tripper*
 - **This Boy**
