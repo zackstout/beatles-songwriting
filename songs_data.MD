@@ -1,0 +1,215 @@
+
+This file represents the number of references that are made to each song within the book.
+Regular text means 0 references.
+*Italics* means 1 reference.
+**Bold** means 2 references.
+***Bold italics*** means 3 or more references.
+
+##Please Please Me
+- ***I Saw Her Standing There***
+- *Misery*
+- *Anna (Go to Him)*
+- Chains
+- Boys
+- ***Ask Me Why***
+- ***Please Please Me***
+- *Love Me Do*
+- ***P.S. I Love You***
+- *Baby It's You*
+- ***Do You Want to Know a Secret***
+- ***A Taste of Honey***
+- **There's a Place**
+- *Twist and Shout*
+##With the Beatles
+- ***It Won't Be Long***
+- **All I've Got to Do**
+- ***All My Loving***
+- *Don't Bother Me*
+- *Little Child*
+- ***Till There Was You***
+- Please Mr. Postman
+- Roll Over Beethoven
+- Hold Me Tight
+- You Really Got a Hold on Me
+- I Wanna Be Your Man
+- *Devil In Her Heart*
+- **Not a Second Time**
+- Money (That's What I Want)
+##Hard Day's Night
+- **A Hard Day's Night**
+- *I Should Have Known Better*
+- **If I Fell**
+- *I'm Happy Just to Dance with You*
+- *And I Love Her*
+- ***Tell Me Why***
+- *Can't Buy Me Love*
+- *Any Time at All*
+- I'll Cry Instead
+- ***Things We Said Today***
+- **When I Get Home**
+- **You Can't Do That**
+- *I'll Be Back*
+##Beatles For Sale
+- *No Reply*
+- **I'm a Loser**
+- Baby's in Black
+- Rock and Roll Music
+- *I'll Follow the Sun*
+- *Mr. Moonlight*
+- Kansas City/Hey-Hey-Hey-Hey!
+- **Eight Days a Week**
+- Words of Love
+- *Honey Don't*
+- Every Little Thing
+- I Don't Want to Spoil the Party
+- *What You're Doing*
+- Everybody's Trying to Be My Baby
+##Help!
+- ***Help!***
+- **The Night Before**
+- **You've Got to Hide Your Love Away**
+- I Need You
+- **Another Girl**
+- **You're Going to Lose That Girl**
+- *Ticket to Ride*
+- Act Naturally
+- *It's Only Love*
+- You Like Me Too Much
+- Tell Me What You See
+- I've Just Seen a Face
+- **Yesterday**
+- Dizzy Miss Lizzy
+##Rubber Soul
+- **Drive My Car**
+- **Norwegian Wood (This Bird Has Flown)**
+- **You Won't See Me**
+- **Nowhere Man**
+- *Think for Yourself*
+- **The Word**
+- ***Michelle***
+- *What Goes On*
+- *Girl*
+- I'm Looking Through You
+- ***In My Life***
+- *Wait*
+- ***If I Needed Someone***
+- *Run for Your Life*
+##Revolver
+- *Taxman*
+- **Eleanor Rigby**
+- *I'm Only Sleeping*
+- Love You To
+- ***Here, There and Everywhere***
+- Yellow Submarine
+- She Said She Said
+- *Good Day Sunshine*
+- *And Your Bird Can Sing*
+- ***For No One***
+- *Doctor Robert*
+- **I Want to Tell You**
+- ***Got to Get You into My Life***
+- *Tomorrow Never Knows*
+##Sgt. Pepper's Lonely Hearts Club Band
+- *Sgt. Pepper's Lonely Hearts Club Band*
+- *With a Little Help from My Friends*
+- ***Lucy in the Sky with Diamonds***
+- *Getting Better*
+- *Fixing a Hole*
+- **She's Leaving Home**
+- Being for the Benefit of Mr. Kite!
+- Within You Without You
+- When I'm Sixty-Four
+- *Lovely Rita*
+- Good Morning Good Morning
+- Sgt. Pepper's Lonely Hearts Club Band (Reprise)
+- ***A Day in the Life***
+##Magical Mystery Tour
+- ***Magical Mystery Tour***
+- *The Fool on the Hill*
+- *Flying*
+- **Blue Jay Way**
+- *Your Mother Should Know*
+- ***I Am the Walrus***
+- Hello, Goodbye
+- **Strawberry Fields Forever**
+- ***Penny Lane***
+- Baby, You're a Rich Man
+- **All You Need Is Love**
+##White Album
+- ***Back in the U.S.S.R.***
+- *Dear Prudence*
+- **Glass Onion**
+- Ob-La-Di, Ob-La-Da
+- Wild Honey Pie
+- ***The Continuing Story of Bungalow Bill***
+- *While My Guitar Gently Weeps*
+- **Happiness Is a Warm Gun**
+- **Martha My Dear**
+- **I'm So Tired**
+- *Blackbird*
+- *Piggies*
+- *Rocky Raccoon*
+- Don't Pass Me By
+- Why Don't We Do It in the Road?
+- ***I Will***
+- **Julia**
+- *Birthday*
+- Yer Blues
+- Mother Nature's Son
+- Everybody's Got Something to Hide Except Me and My Monkey
+- **Sexy Sadie**
+- Helter Skelter
+- Long, Long, Long
+- Revolution 1
+- **Honey Pie**
+- *Savoy Truffle*
+- **Cry Baby Cry**
+- Revolution 9
+- Good Night
+##Yellow Submarine
+- Yellow Submarine
+- *Only a Northern Song*
+- *All Together Now*
+- *Hey Bulldog*
+- It's All Too Much
+- All You Need Is Love
+##Abbey Road
+- *Come Together*
+- **Something**
+- *Maxwell's Silver Hammer*
+- **Oh! Darling**
+- **Octopus's Garden**
+- *I Want You (She's So Heavy)*
+- *Here Comes the Sun*
+- *Because*
+- ***You Never Give Me Your Money***
+- ***Sun King***
+- Mean Mr. Mustard
+- **Polythene Pam**
+- **She Came In Through the Bathroom Window**
+- *Golden Slumbers*
+- *Carry That Weight*
+- **The End**
+- ***Her Majesty***
+##Let It Be
+- **Two of Us**
+- Dig a Pony
+- *Across the Universe*
+- **I Me Mine**
+- Dig It
+- *Let It Be*
+- Maggie Mae
+- I've Got a Feeling
+- *One After 909*
+- *The Long and Winding Road*
+- *For You Blue*
+- Get Back
+##Extr
+- ***We Can Work It Out***
+- *Day Tripper*
+- **This Boy**
+- ***I Want To Hold Your Hand***
+- She Loves You
+- ***From Me To You***
+- ***Lady Madonna***
+- ***Hey Jude***

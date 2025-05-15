@@ -207,3 +207,46 @@ console.log(counts);
 // 6 and a half hours, lol.
 
 // Oh, so we probably want to have an "early covers" "album list", to handle those cases.
+
+// =================================
+
+// Writing time
+
+let file = `
+This file represents the number of references that are made to each song within the book.
+Regular text means 0 references.
+*Italics* means 1 reference.
+**Bold** means 2 references.
+***Bold italics*** means 3 or more references.
+
+`;
+
+albumMatches.forEach((album) => {
+  console.log("album", album);
+  const songs = finalObject[album];
+  file += `##${album}`;
+  file += "\n";
+
+  Object.keys(songs).forEach((song) => {
+    const count = songs[song].length;
+    switch (count) {
+      case 0:
+        file += `- ${song}`;
+        break;
+      case 1:
+        file += `- *${song}*`;
+        break;
+      case 2:
+        file += `- **${song}**`;
+        break;
+      default:
+        file += `- ***${song}***`;
+        break;
+    }
+    file += "\n";
+  });
+
+  //   console.log(Object.keys(songs));
+});
+
+writeFileSync("songs_data.MD", file, "utf-8");

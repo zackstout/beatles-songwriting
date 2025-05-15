@@ -1163,13 +1163,15 @@ i:
 
 ### (1) The Diatonic Major Descent (8-7-6-5)
 
-- A Whiter shade of pale, Procol Harum
+- 🎵 A Whiter shade of pale, Procol Harum
 - no woman, no cry; Air on a G String
 - 🎵 Her Majesty: Descending Elaboration of Static Harmony, simplest example, unchanging chord.
 - 🎵 For no one, "Your day breaks..."
 
 #### 'Inversions': implied chordsfor the '8-7-6-5' descent
 
+- 🎵 All you need is love
+- 🎵 Real Love
 - Ex: B/G# is really just G#m7.
 - **In general, the I6 and vi7 are inversions of each other.**
 - First inversion: third in bass
@@ -1192,6 +1194,7 @@ i:
 - Table of examples for returning to tonic after descent (p. 317)
 - 🎵 Hey Jude, a descent from the IV chord instead of from the I. (Right -- remember Mixolydian vibe.)
 - Merry Xmas Everybody, Slade
+- 🎵 Two of us
 
 ### (2) The Diatonic Minor Descent (8-b7-b6-5)
 
@@ -1243,12 +1246,25 @@ i:
   - C / E / G#
   - C# / F / A
   - D / F# / A#
+- 🎵 All my loving
+- 🎵 Don't ever change
+- 🎵 From me to you
+- 🎵 That means a lot
 
 ### The Augmented Masterclass: 'Fixing A Hole', 'I'm So Tired' and 'Old Brown Shoe'.
+
+- 🎵 Fixing a hole
+- 🎵 I'm so tired
+- 🎵 Old brown shoe
 
 ### The Augmented Ascent (5-#5-6-#5) - James Bond and beyond
 
 - Table of examples of early Beatles covers (p. 345)
+- 🎵 Savoy truffle
+- 🎵 Raining in my heart
+- 🎵 Hey bulldog
+- 🎵 Glass onion
+- 🎵 Eleanor Rigby
 
 ---
 
@@ -1257,6 +1273,11 @@ i:
 ### Intro (and IV)
 
 - The principle of modulation goes a long way toward explaining the re-listen-ability of Beatles songs.
+- Here are four examples!
+- 🎵 I'm gonna sit right down and cry (over you)
+- 🎵 you'll be mine
+- 🎵 nothin' shakin'
+- 🎵 are you lonesome tonight?
 - 🎵 From Me to you, 0:35, Paul singles this moment out
 - Bridges typically started with IV and moved to V.
 - But this opening on IV came to feel cliched.
@@ -1271,12 +1292,27 @@ i:
 - (p. 364) A key switch can only occur when it involves a chord that does not belong to the original key.
 - (p. 366) The modulation map: using the circle of fifths to map out "distance" between key centers.
 - We see that "From me to you" was just the tip of the iceberg.
+- 🎵 The night before
 
 ### bVII
 
+- 🎵 Penny lane
+- 🎵 magical mystery tour
+
 ### bIII
 
+- 🎵 two of us
+- 🎵 another girl
+- 🎵 lady madonna
+- 🎵 she came in through the bathroom window
+- 🎵 free as a bird
+- 🎵 here, there and everywhere
+
 ### bVI
+
+- 🎵 come and get it
+- 🎵 smoke gets in your eyes
+- 🎵 glass onion
 
 ### bII
 
@@ -1284,19 +1320,37 @@ i:
 
 ### bV
 
+- 🎵 Catswalk
+
 ### III
 
 ### VI
 
+- 🎵 Something
+
 ### II
+
+- 🎵 If you gotta make a fool of somebody
+- 🎵 for no one
+- 🎵 if i needed someone
+- 🎵 doctor robert
 
 #### Mr. Kite
 
+- 🎵 Being for the benefit of mr. kite
+
 ### V
+
+- 🎵 Eight days a week
+- 🎵 Birthday
 
 ### The Big Picture
 
+- 🎵 Magical mystery tour
+
 ### Lucy in the Sky with Diamonds: triple key heaven
+
+- 🎵 Lucy in the sky with diamonds
 
 ---
 
@@ -1415,7 +1469,6 @@ i:
 - 🎵 You Know my name
 - (p. 429) quick summary table
 - 🎵 Michelle
-- ...
 - 🎵 September in the Rain
 - 🎵 You never give me your money
 - 🎵 Ghost Town
